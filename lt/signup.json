@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "aš...",
+    "description": "Pasirinkite tai, kas apibūdina jūsų ketinimą",
+    "candidate": {
+      "title": "reikia vietos",
+      "description": "Raskite laikiną pastogę"
+    },
+    "host": {
+      "title": "nori padėti",
+      "description": "Suteikite kam nors namus"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "Kurioje šalyje?",
+      "description": "Pasirinktos reikšmės yra juodos",
+      "any": "Bet kurioje šalyje"
+    },
+    "duration": {
+      "title": "Kaip ilgai?",
+      "description": "Pasirinktos reikšmės yra juodos",
+      "options": {
+        "days": "1-3 dienas",
+        "weeks": "1-2 savaites",
+        "months": "1-3 mėn",
+        "unknown": "dar nezinau"
+      }
+    },
+    "transport": {
+      "title": "Ar galite ten patekti?",
+      "description": "Ar galite ten patekti patys?",
+      "options": {
+        "car": "Taip, aš turiu automobilį",
+        "publicTransport": "Taip, galiu naudotis viešuoju transportu",
+        "transport": "Ne, mane reikia pasiimti"
+      }
+    },
+    "specialNeeds": {
+      "title": "Keliauji su tokiais?",
+      "description": "Praneškite savo šeimininkui apie specialius jūsų poreikius.",
+      "options": {
+        "dog": "Taip, su savimi turiu šunį",
+        "cat": "Taip, su manimi turiu katę",
+        "child": "Kūdikis",
+        "disabled": "Išjungta",
+        "otherPet": "Turiu kitą augintinį"
+      }
+    },
+    "finances": {
+      "title": "Kokius finansus turite?",
+      "description": "Turime atitinkamai suderinti jus su jūsų šeimininku.",
+      "options": {
+        "coverCosts": "Galiu padengti kai kurias išlaidas",
+        "financialSupport": "Ieškau pilno palaikymo"
+      }
+    },
+    "language": {
+      "title": "Kaip tu gali kalbėti?",
+      "description": "Pasirinkite visas kalbas, kuriomis kalba jūsų šeimos nariai."
+    },
+    "auth": {
+      "title": "Kaip galime jus identifikuoti?",
+      "description": "Įveskite duomenis, su kuriais norite prisijungti."
+    },
+    "identity": {
+      "title": "Kas tu esi?",
+      "description": "Prašome užpildyti savo duomenis, kad žmonės suprastų, kas jūs esate.",
+      "imageDescription": "Ar pasidalintumėte namais su žmogumi, kurio anksčiau nematėte?"
+    },
+    "bio": {
+      "title": "Kokia tavo šeima?",
+      "description": "Leiskite jiems daugiau sužinoti apie jūsų šeimą.",
+      "textareaPlaceholder": "Parašyk keletą sakinių apie savo šeimą..."
+    },
+    "members": {
+      "title": "su kuo keliauji?",
+      "description": "Prašome užpildyti savo šeimos narių, su kuriais keliaujate, duomenis. Jei keliaujate vienas, tiesiog spustelėkite tęsti.",
+      "buttonLabel": "Pridėti narių",
+      "drawer": {
+        "title": "Pridėkite šeimos narį",
+        "description": "Įveskite šeimos nario, su kuriuo keliaujate, duomenis.",
+        "imageDescription": "Ar pasidalintumėte namais su žmogumi, kurio anksčiau nematėte?",
+        "groupPositionLabel": "Santykiai",
+        "groupPositionPlaceholder": "Tėtis, dukra, močiutė"
+      }
+    },
+    "photos": {
+      "title": "Kaip tu atrodai?",
+      "description": "Įkelkite bent 3 savo ir žmonių, kuriems ieškote pastogės, nuotraukas."
+    },
+    "wellDone": {
+      "title": "Šauniai padirbėta!",
+      "description": "Turime išfiltruotų šeimininkų, kurie atitinka jūsų poreikius. Dabar jūsų eilė nuspręsti pagal jų profilį.",
+      "shareOnFacebook": "Dalintis Facebook",
+      "shareOnInstagram": "Pasidalinkite Instagram",
+      "finishButton": "Žr. atitinkančius šeimininkus"
+    },
+    "summary": {
+      "title": "Ar viskas teisinga?",
+      "description": "Prieš pateikdami peržiūrėkite savo atsakymus.",
+      "intention": "Ieškau laikinos pastogės.",
+      "country": {
+        "title": "Kurioje šalyje?",
+        "any": "Bet kurioje šalyje"
+      },
+      "duration": {
+        "title": "Kaip ilgai?",
+        "options": {
+          "days": "1-3 dienas",
+          "weeks": "1-2 savaites",
+          "months": "1-3 mėn",
+          "unknown": "dar nezinau"
+        }
+      },
+      "transport": {
+        "title": "Ar galite ten patekti?",
+        "options": {
+          "car": "Taip, aš turiu automobilį",
+          "publicTransport": "Taip, galiu naudotis viešuoju transportu",
+          "transport": "Ne, mane reikia pasiimti"
+        }
+      },
+      "specialNeeds": {
+        "title": "Keliauji su tokiais?",
+        "options": {
+          "dog": "Šuo",
+          "cat": "Katė",
+          "child": "Kūdikis",
+          "disabled": "Išjungta",
+          "otherPet": "Turiu kitą augintinį"
+        }
+      },
+      "finances": {
+        "title": "Kokius finansus turite?",
+        "options": {
+          "coverCosts": "Galiu padengti kai kurias išlaidas",
+          "financialSupport": "Ieškau pilno palaikymo"
+        }
+      },
+      "language": {
+        "title": "Kaip tu gali kalbėti?"
+      },
+      "auth": {
+        "title": "Kaip galime jus identifikuoti?"
+      },
+      "identity": {
+        "title": "Kas tu esi?"
+      },
+      "bio": {
+        "title": "Kokia tavo šeima?"
+      },
+      "members": {
+        "title": "su kuo keliauji?",
+        "buttonLabel": "Pridėti narių"
+      },
+      "photos": {
+        "title": "Kaip tu atrodai?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "Kurioje šalyje?",
+      "description": "Pasirinktos reikšmės yra juodos",
+      "any": "Bet kurioje šalyje"
+    },
+    "places": {
+      "title": "Kiek žmonių?",
+      "description": "Įveskite vietų, kurias galite pasiūlyti, skaičių."
+    },
+    "duration": {
+      "title": "Kiek ilgai?",
+      "description": "Pasirinkite laikotarpį, kurį jie gali likti jūsų namuose.",
+      "options": {
+        "days": "1-3 dienas",
+        "weeks": "1-2 savaites",
+        "months": "1-3 mėn",
+        "any": "Kol reikia",
+        "unknown": "Aš dar nežinau"
+      }
+    },
+    "transport": {
+      "title": "Ar galite juos pasiimti?",
+      "description": "Ar galite važiuoti iki sienos?",
+      "options": {
+        "transport": "Taip, aš turiu automobilį",
+        "none": "Ne, turime ieškoti kito kelio"
+      }
+    },
+    "specialNeeds": {
+      "title": "Ar sutiktumėte šiuos?",
+      "description": "Pasirinkite visas parinktis, kurioms esate atviri.",
+      "options": {
+        "dog": "Šuo",
+        "cat": "Katė",
+        "child": "Kūdikis",
+        "disabled": "Išjungta",
+        "otherPet": "Kitas augintinis"
+      }
+    },
+    "finances": {
+      "title": "Kokią paramą galite pasiūlyti?",
+      "description": "Atsižvelkite į savo finansinę padėtį ir pasirinkite vieną iš šių.",
+      "options": {
+        "coverCosts": "Galiu suteikti visapusišką paramą",
+        "financialSupport": "Tikiuosi, kad jie padengs kai kurias išlaidas"
+      }
+    },
+    "language": {
+      "title": "Kaip tu gali kalbėti?",
+      "description": "Pasirinkite visas kalbas, kuriomis kalba jūsų šeimos nariai."
+    },
+    "auth": {
+      "title": "Kaip galime jus identifikuoti?",
+      "description": "Įveskite duomenis, su kuriais norite prisijungti."
+    },
+    "identity": {
+      "title": "Kas tu esi?",
+      "description": "Prašome užpildyti savo duomenis, kad žmonės suprastų, kas jūs esate.",
+      "imageDescription": "Ar pasidalintumėte namais su žmogumi, kurio anksčiau nematėte?"
+    },
+    "bio": {
+      "title": "Kokia tavo šeima?",
+      "description": "Leiskite jiems daugiau sužinoti apie jūsų šeimą.",
+      "textareaPlaceholder": "Parašyk keletą sakinių apie savo šeimą..."
+    },
+    "members": {
+      "title": "Su kuo dar jie gyvens?",
+      "description": "Galite apibūdinti kitus žmones, su kuriais dalinatės savo namais. Jei gyvenate vienas arba nenorite tuo dalytis, tiesiog tęskite.",
+      "buttonLabel": "Pridėti narių",
+      "drawer": {
+        "title": "Pridėkite šeimos narį",
+        "description": "Įveskite šeimos nario, su kuriuo keliaujate, duomenis.",
+        "imageDescription": "Ar pasidalintumėte namais su žmogumi, kurio anksčiau nematėte?",
+        "groupPositionPlaceholder": "Tėtis, dukra, močiutė"
+      }
+    },
+    "photos": {
+      "title": "Kaip tu atrodai?",
+      "description": "Galite įkelti daugiau savo šeimos nuotraukų."
+    },
+    "wellDone": {
+      "title": "Šauniai padirbėta!",
+      "description": "Mes radome keletą jums tinkančių pabėgėlių grupių. Dabar jūsų eilė nuspręsti pagal jų profilį.",
+      "shareOnFacebook": "Dalintis Facebook",
+      "shareOnInstagram": "Pasidalinkite Instagram",
+      "finishButton": "Žr. atitinkančias grupes"
+    },
+    "summary": {
+      "title": "Ar viskas teisinga?",
+      "description": "Prieš pateikdami peržiūrėkite savo atsakymus.",
+      "intention": "Noriu kažkam suteikti namus.",
+      "country": {
+        "title": "Kurioje šalyje?",
+        "any": "Bet kurioje šalyje"
+      },
+      "places": {
+        "title": "Kiek žmonių?"
+      },
+      "duration": {
+        "title": "Kiek ilgai?",
+        "options": {
+          "days": "1-3 dienas",
+          "weeks": "1-2 savaites",
+          "months": "1-3 mėn",
+          "any": "Kol reikia",
+          "unknown": "Aš dar nežinau"
+        }
+      },
+      "transport": {
+        "title": "Ar galite juos pasiimti?",
+        "options": {
+          "transport": "Taip, aš turiu automobilį",
+          "none": "Ne, turime ieškoti kito kelio"
+        }
+      },
+      "specialNeeds": {
+        "title": "Ar sutiktumėte šiuos?",
+        "options": {
+          "dog": "Šuo",
+          "cat": "Katė",
+          "child": "Kūdikis",
+          "disabled": "Išjungta",
+          "otherPet": "Kitas augintinis"
+        }
+      },
+      "finances": {
+        "title": "Kokią paramą galite pasiūlyti?",
+        "options": {
+          "coverCosts": "Galiu suteikti visapusišką paramą",
+          "financialSupport": "Tikiuosi, kad jie padengs kai kurias išlaidas"
+        }
+      },
+      "language": {
+        "title": "Kaip tu gali kalbėti?"
+      },
+      "auth": {
+        "title": "Kaip galime jus identifikuoti?"
+      },
+      "identity": {
+        "title": "Kas tu esi?"
+      },
+      "bio": {
+        "title": "Kokia tavo šeima?",
+        "textareaPlaceholder": "Parašyk keletą sakinių apie savo šeimą..."
+      },
+      "members": {
+        "title": "Su kuo dar jie gyvens?",
+        "buttonLabel": "Pridėti narių",
+        "drawer": {
+          "title": "Pridėkite šeimos narį",
+          "imageDescription": "Ar pasidalintumėte namais su žmogumi, kurio anksčiau nematėte?",
+          "groupPositionPlaceholder": "Tėtis, dukra, močiutė"
+        }
+      },
+      "photos": {
+        "title": "Kaip tu atrodai?"
+      }
+    }
+  }
+}

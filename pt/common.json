@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Quem nós somos?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Continuar",
+  "askForHelp": "Peça por ajuda",
+  "offerHelp": "Oferecer ajuda",
+  "back": "Voltar",
+  "backToStart": "Voltar ao início",
+  "close": "Fechar",
+  "add": "Adicionar",
+  "save": "Salvar",
+  "searchHosts": "Procurar",
+  "submit": "Enviar",
+  "submitting": "Enviando",
+  "connections": "Conexões",
+  "noHostsLeft": "Você viu todos os hosts disponíveis que correspondem ao seu perfil.",
+  "noCandidatesLeft": "Você viu todos os grupos correspondentes ao seu perfil.",
+  "noHostsSuggestions": "Não há host que atenda às suas necessidades. Avisaremos quando houver um novo.",
+  "noCandidateSuggestions": "Não há grupo de refugiados que corresponda às suas necessidades. Avisaremos quando houver um novo.",
+  "call": "Chamar",
+  "sendEmail": "Enviar um email",
+  "showProfile": "Mostrar perfil",
+  "selectLanguage": "selecione sua lingua",
+  "auth": {
+    "login": {
+      "title": "Conecte-se",
+      "description": "Por favor faça o login para continuar.",
+      "button": {
+        "label": "Conecte-se",
+        "loadingText": "Carregando"
+      },
+      "forgotPassword": "Esqueceu sua senha?"
+    },
+    "logout": "Sair",
+    "confirmationSuccess": {
+      "title": "Sucesso!",
+      "description": "Seu email foi confirmado.",
+      "ctaLabel": "Continuar para o aplicativo"
+    },
+    "forgotPassword": {
+      "title": "Esqueceu a senha",
+      "description": "Por favor, digite seu e-mail para redefinir sua senha.",
+      "button": {
+        "label": "Enviar",
+        "loadingText": "Enviando"
+      },
+      "login": "Procurando por login?",
+      "successTitle": "Verifique sua caixa postal",
+      "successDescription": "Enviamos um e-mail com o link para redefinir sua senha."
+    },
+    "resetPassword": {
+      "title": "Redefinir senha",
+      "description": "Por favor, digite uma nova senha.",
+      "button": {
+        "label": "Enviar",
+        "loadingText": "Enviando"
+      },
+      "login": "Procurando por login?",
+      "successTitle": "Sucesso!",
+      "successDescription": "Sua senha foi mudada."
+    },
+    "deleteAccount": {
+      "label": "Deletar conta",
+      "confirmation": "Você está prestes a excluir todos os seus dados neste aplicativo. Você quer continuar?",
+      "successTitle": "Conta excluída.",
+      "successDescription": "Excluímos todos os dados relacionados à sua conta.",
+      "title": "Deletar conta",
+      "description": "Exclua permanentemente todos os seus dados."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirme a Senha",
+    "fullName": "Nome completo",
+    "dateOfBirth": "Data de nascimento",
+    "occupation": "Ocupação",
+    "phone": "Telefone",
+    "chat": "Digite uma mensagem..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Senha",
+    "confirmPassword": "Confirme a Senha",
+    "fullName": "Nome completo",
+    "dateOfBirth": "DD-MM-AAAA",
+    "occupation": "Ocupação",
+    "phone": "Telefone",
+    "chat": "Digite uma mensagem..."
+  },
+  "form": {
+    "validation": {
+      "required": "Este campo é obrigatório",
+      "password": "A senha deve conter pelo menos 8 caracteres, 1 maiúscula, 1 minúscula e 1 número",
+      "passwordLength": "A senha deve ter pelo menos 8 caracteres",
+      "passwordsMatch": "As senhas não coincidem",
+      "minLength": "Este campo deve ter pelo menos {0} caracteres",
+      "maxLength": "Este campo não deve ter mais de {0} caracteres",
+      "pattern": "Este campo não é válido",
+      "email": "Este campo deve ser um endereço de e-mail válido",
+      "date": "Este campo deve ser uma data válida",
+      "dateOfBirth": "Insira uma data no formato DD-MM-AAAA",
+      "dateISO": "Este campo deve ser uma data válida (ISO)",
+      "number": "Este campo deve ser um número válido",
+      "digits": "Este campo deve ser dígitos",
+      "min": "Este campo deve ser pelo menos {0}",
+      "max": "Este campo não deve ter mais de {0}",
+      "bio": "Você estaria disposto a viver... min 125 caracteres",
+      "phone": "Por favor forneça um número de telefone válido."
+    }
+  },
+  "newChatMessage": "Agora você está conectado!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Você estará morando em",
+        "specialNeeds": "Ajuda adicional que você receberá",
+        "bio": "Quem são as pessoas com quem você vai morar?",
+        "members": "Quem são eles realmente?",
+        "languages": "Que línguas falam?"
+      },
+      "specialNeeds": {
+        "cat": "Amigo dos gatos",
+        "dog": "Aceita cães",
+        "otherPet": "Aceita animais de estimação",
+        "transport": "Ajuda com transporte",
+        "financialHelp": "Ajuda financeira",
+        "child": "Adequado para crianças",
+        "disabled": "Desabilitado"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Requisitos especiais",
+        "bio": "Quem são as pessoas que precisam de sua ajuda?",
+        "members": "Quem são eles realmente?",
+        "languages": "Que línguas falam?"
+      },
+      "specialNeeds": {
+        "cat": "Gato",
+        "dog": "Cão",
+        "otherPet": "Bicho de estimação",
+        "transport": "Transporte",
+        "financialHelp": "Ajuda financeira",
+        "child": "Criança",
+        "disabled": "Desabilitado"
+      }
+    },
+    "match": {
+      "title": "É uma combinação!",
+      "description": "Vocês dois concordaram em dividir a casa por algum tempo juntos. Vamos discutir os detalhes."
+    },
+    "connectionRequests": {
+      "title": "Solicitações de conexão",
+      "description": "Pessoas que gostariam de te ajudar."
+    },
+    "matches": {
+      "title": "Partidas",
+      "description": "Pessoas que vocês dois concordaram em ajudar."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 membro",
+      "numberOfMembers_other": "{{count}} membros"
+    },
+    "detail": {
+      "title": "Detalhe da partida:",
+      "description": "Detalhe da partida.",
+      "goBack": "Volte",
+      "contact": {
+        "email": "E-mail",
+        "call": "Chamar"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Nossa missão é conectar refugiados ucranianos com anfitriões que oferecem ajuda de maneira confiável e eficiente."
+    }
+  }
+}

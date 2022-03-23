@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "IO...",
+    "description": "Seleziona ciò che descrive la tua intenzione",
+    "candidate": {
+      "title": "bisogno di un posto",
+      "description": "Trova un rifugio temporaneo"
+    },
+    "host": {
+      "title": "Voglio aiutare",
+      "description": "Fornisci una casa a qualcuno"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "In quale paese?",
+      "description": "I valori selezionati sono neri",
+      "any": "In qualsiasi paese"
+    },
+    "duration": {
+      "title": "Per quanto?",
+      "description": "I valori selezionati sono neri",
+      "options": {
+        "days": "1-3 giorni",
+        "weeks": "1-2 settimane",
+        "months": "1-3 mesi",
+        "unknown": "Non lo so ancora"
+      }
+    },
+    "transport": {
+      "title": "Puoi arrivarci?",
+      "description": "Puoi arrivarci da solo?",
+      "options": {
+        "car": "Sì, ho una macchina",
+        "publicTransport": "Sì, posso usare i mezzi pubblici",
+        "transport": "No, ho bisogno di essere prelevato"
+      }
+    },
+    "specialNeeds": {
+      "title": "Viaggiare con questi?",
+      "description": "Fai sapere al tuo host le tue esigenze speciali.",
+      "options": {
+        "dog": "Sì, ho un cane con me",
+        "cat": "Sì, ho un gatto con me",
+        "child": "Bambino",
+        "disabled": "Disabilitato",
+        "otherPet": "Ho un altro animale domestico"
+      }
+    },
+    "finances": {
+      "title": "Che finanze hai?",
+      "description": "Abbiamo bisogno di abbinarti al tuo host di conseguenza.",
+      "options": {
+        "coverCosts": "Posso coprire alcuni costi",
+        "financialSupport": "Sto cercando un supporto completo"
+      }
+    },
+    "language": {
+      "title": "Come puoi parlare?",
+      "description": "Seleziona tutte le lingue parlate dai membri della tua famiglia."
+    },
+    "auth": {
+      "title": "Come possiamo identificarti?",
+      "description": "Si prega di inserire i dettagli con cui si desidera accedere."
+    },
+    "identity": {
+      "title": "Chi sei?",
+      "description": "Per favore inserisci i tuoi dati in modo che le persone possano avere un'idea di chi sei.",
+      "imageDescription": "Condivideresti la casa con qualcuno che non hai mai visto prima?"
+    },
+    "bio": {
+      "title": "Com'è la tua famiglia?",
+      "description": "Fai sapere loro di più sulla tua famiglia.",
+      "textareaPlaceholder": "Scrivi alcune frasi sulla tua famiglia..."
+    },
+    "members": {
+      "title": "Con chi viaggi?",
+      "description": "Si prega di compilare i dettagli dei membri della famiglia con cui si viaggia. Nel caso in cui viaggi da solo, fai clic su continua.",
+      "buttonLabel": "Aggiungi membri",
+      "drawer": {
+        "title": "Aggiungi un membro della famiglia",
+        "description": "Inserisci i dati di un familiare con cui viaggi.",
+        "imageDescription": "Condivideresti la casa con qualcuno che non hai mai visto prima?",
+        "groupPositionLabel": "Relazione",
+        "groupPositionPlaceholder": "Padre, figlia, nonna"
+      }
+    },
+    "photos": {
+      "title": "Come sembri?",
+      "description": "Carica almeno 3 foto di te stesso e delle persone per cui stai cercando rifugio."
+    },
+    "wellDone": {
+      "title": "Molto bene!",
+      "description": "Abbiamo filtrato gli host che soddisfano le tue esigenze. Ora tocca a te decidere, in base al loro profilo.",
+      "shareOnFacebook": "Condividi su Facebook",
+      "shareOnInstagram": "Condividi su Instagram",
+      "finishButton": "Vedi host corrispondenti"
+    },
+    "summary": {
+      "title": "è tutto corretto?",
+      "description": "Si prega di rivedere le risposte prima di inviare.",
+      "intention": "Cerco un rifugio temporaneo.",
+      "country": {
+        "title": "In quale paese?",
+        "any": "In qualsiasi paese"
+      },
+      "duration": {
+        "title": "Per quanto?",
+        "options": {
+          "days": "1-3 giorni",
+          "weeks": "1-2 settimane",
+          "months": "1-3 mesi",
+          "unknown": "Non lo so ancora"
+        }
+      },
+      "transport": {
+        "title": "Puoi arrivarci?",
+        "options": {
+          "car": "Sì, ho una macchina",
+          "publicTransport": "Sì, posso usare i mezzi pubblici",
+          "transport": "No, ho bisogno di essere prelevato"
+        }
+      },
+      "specialNeeds": {
+        "title": "Viaggiare con questi?",
+        "options": {
+          "dog": "Cane",
+          "cat": "Gatto",
+          "child": "Bambino",
+          "disabled": "Disabilitato",
+          "otherPet": "Ho un altro animale domestico"
+        }
+      },
+      "finances": {
+        "title": "Che finanze hai?",
+        "options": {
+          "coverCosts": "Posso coprire alcuni costi",
+          "financialSupport": "Sto cercando un supporto completo"
+        }
+      },
+      "language": {
+        "title": "Come puoi parlare?"
+      },
+      "auth": {
+        "title": "Come possiamo identificarti?"
+      },
+      "identity": {
+        "title": "Chi sei?"
+      },
+      "bio": {
+        "title": "Com'è la tua famiglia?"
+      },
+      "members": {
+        "title": "Con chi viaggi?",
+        "buttonLabel": "Aggiungi membri"
+      },
+      "photos": {
+        "title": "Come sembri?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "In quale paese?",
+      "description": "I valori selezionati sono neri",
+      "any": "In qualsiasi paese"
+    },
+    "places": {
+      "title": "Per quante persone?",
+      "description": "Inserisci il numero di posti che puoi offrire."
+    },
+    "duration": {
+      "title": "Per quanto?",
+      "description": "Seleziona il periodo in cui possono stare a casa tua.",
+      "options": {
+        "days": "1-3 giorni",
+        "weeks": "1-2 settimane",
+        "months": "1-3 mesi",
+        "any": "Finché necessario",
+        "unknown": "Non lo so ancora"
+      }
+    },
+    "transport": {
+      "title": "Puoi prenderli?",
+      "description": "Puoi guidare fino al confine?",
+      "options": {
+        "transport": "Sì, ho una macchina",
+        "none": "No, dobbiamo trovare un altro modo"
+      }
+    },
+    "specialNeeds": {
+      "title": "Accetteresti questi?",
+      "description": "Seleziona tutte le opzioni a cui sei aperto.",
+      "options": {
+        "dog": "Cane",
+        "cat": "Gatto",
+        "child": "Bambino",
+        "disabled": "Disabilitato",
+        "otherPet": "Altro animale domestico"
+      }
+    },
+    "finances": {
+      "title": "Che supporto puoi offrire?",
+      "description": "Si prega di considerare la propria situazione finanziaria e selezionare una delle seguenti.",
+      "options": {
+        "coverCosts": "Posso fornire pieno supporto",
+        "financialSupport": "Mi aspetto che coprano alcuni costi"
+      }
+    },
+    "language": {
+      "title": "Come puoi parlare?",
+      "description": "Seleziona tutte le lingue parlate dai membri della tua famiglia."
+    },
+    "auth": {
+      "title": "Come possiamo identificarti?",
+      "description": "Si prega di inserire i dettagli con cui si desidera accedere."
+    },
+    "identity": {
+      "title": "Chi sei?",
+      "description": "Per favore inserisci i tuoi dati in modo che le persone possano avere un'idea di chi sei.",
+      "imageDescription": "Condivideresti la casa con qualcuno che non hai mai visto prima?"
+    },
+    "bio": {
+      "title": "Com'è la tua famiglia?",
+      "description": "Fai sapere loro di più sulla tua famiglia.",
+      "textareaPlaceholder": "Scrivi alcune frasi sulla tua famiglia..."
+    },
+    "members": {
+      "title": "Con chi altro vivranno?",
+      "description": "Puoi descrivere altre persone con cui condividi la tua casa. Se vivi da solo o preferisci non condividerlo, continua.",
+      "buttonLabel": "Aggiungi membri",
+      "drawer": {
+        "title": "Aggiungi un membro della famiglia",
+        "description": "Inserisci i dati di un familiare con cui viaggi.",
+        "imageDescription": "Condivideresti la casa con qualcuno che non hai mai visto prima?",
+        "groupPositionPlaceholder": "Padre, figlia, nonna"
+      }
+    },
+    "photos": {
+      "title": "Come sembri?",
+      "description": "Puoi caricare altre foto della tua famiglia."
+    },
+    "wellDone": {
+      "title": "Molto bene!",
+      "description": "Abbiamo trovato per te alcuni gruppi di rifugiati corrispondenti. Ora tocca a te decidere, in base al loro profilo.",
+      "shareOnFacebook": "Condividi su Facebook",
+      "shareOnInstagram": "Condividi su Instagram",
+      "finishButton": "Vedi gruppi corrispondenti"
+    },
+    "summary": {
+      "title": "è tutto corretto?",
+      "description": "Si prega di rivedere le risposte prima di inviare.",
+      "intention": "Voglio fornire una casa a qualcuno.",
+      "country": {
+        "title": "In quale paese?",
+        "any": "In qualsiasi paese"
+      },
+      "places": {
+        "title": "Per quante persone?"
+      },
+      "duration": {
+        "title": "Per quanto?",
+        "options": {
+          "days": "1-3 giorni",
+          "weeks": "1-2 settimane",
+          "months": "1-3 mesi",
+          "any": "Finché necessario",
+          "unknown": "Non lo so ancora"
+        }
+      },
+      "transport": {
+        "title": "Puoi prenderli?",
+        "options": {
+          "transport": "Sì, ho una macchina",
+          "none": "No, dobbiamo trovare un altro modo"
+        }
+      },
+      "specialNeeds": {
+        "title": "Accetteresti questi?",
+        "options": {
+          "dog": "Cane",
+          "cat": "Gatto",
+          "child": "Bambino",
+          "disabled": "Disabilitato",
+          "otherPet": "Altro animale domestico"
+        }
+      },
+      "finances": {
+        "title": "Che supporto puoi offrire?",
+        "options": {
+          "coverCosts": "Posso fornire pieno supporto",
+          "financialSupport": "Mi aspetto che coprano alcuni costi"
+        }
+      },
+      "language": {
+        "title": "Come puoi parlare?"
+      },
+      "auth": {
+        "title": "Come possiamo identificarti?"
+      },
+      "identity": {
+        "title": "Chi sei?"
+      },
+      "bio": {
+        "title": "Com'è la tua famiglia?",
+        "textareaPlaceholder": "Scrivi alcune frasi sulla tua famiglia..."
+      },
+      "members": {
+        "title": "Con chi altro vivranno?",
+        "buttonLabel": "Aggiungi membri",
+        "drawer": {
+          "title": "Aggiungi un membro della famiglia",
+          "imageDescription": "Condivideresti la casa con qualcuno che non hai mai visto prima?",
+          "groupPositionPlaceholder": "Padre, figlia, nonna"
+        }
+      },
+      "photos": {
+        "title": "Come sembri?"
+      }
+    }
+  }
+}

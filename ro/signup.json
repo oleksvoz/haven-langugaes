@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "eu...",
+    "description": "Selectați ceea ce vă descrie intenția",
+    "candidate": {
+      "title": "nevoie de un loc",
+      "description": "Găsiți un adăpost temporar"
+    },
+    "host": {
+      "title": "vreau sa ajut",
+      "description": "Oferiți o casă pentru cineva"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "In ce tara?",
+      "description": "Valorile selectate sunt negre",
+      "any": "In orice tara"
+    },
+    "duration": {
+      "title": "Pentru cât timp?",
+      "description": "Valorile selectate sunt negre",
+      "options": {
+        "days": "1-3 zile",
+        "weeks": "1-2 săptămâni",
+        "months": "1-3 luni",
+        "unknown": "nu stiu inca"
+      }
+    },
+    "transport": {
+      "title": "Poți ajunge acolo?",
+      "description": "Poți să ajungi acolo singur?",
+      "options": {
+        "car": "Da, am o mașină",
+        "publicTransport": "Da, pot folosi transportul public",
+        "transport": "Nu, trebuie să fiu luat"
+      }
+    },
+    "specialNeeds": {
+      "title": "Călătorești cu acestea?",
+      "description": "Informați-vă gazda despre nevoile speciale pe care le aveți.",
+      "options": {
+        "dog": "Da, am un câine cu mine",
+        "cat": "Da, am o pisică cu mine",
+        "child": "Bebelus",
+        "disabled": "Dezactivat",
+        "otherPet": "Am alt animal de companie"
+      }
+    },
+    "finances": {
+      "title": "Ce finante ai?",
+      "description": "Trebuie să vă potrivim cu gazda în consecință.",
+      "options": {
+        "coverCosts": "Pot acoperi unele costuri",
+        "financialSupport": "Caut suport complet"
+      }
+    },
+    "language": {
+      "title": "Cum poți vorbi?",
+      "description": "Selectați toate limbile pe care le vorbesc membrii familiei dvs."
+    },
+    "auth": {
+      "title": "Cum te putem identifica?",
+      "description": "Vă rugăm să introduceți detaliile cu care doriți să vă autentificați."
+    },
+    "identity": {
+      "title": "Cine ești tu?",
+      "description": "Vă rugăm să completați datele dvs. pentru ca oamenii să își poată face o idee despre cine sunteți.",
+      "imageDescription": "Ai împărți casa cu cineva pe care nu ai mai văzut-o până acum?"
+    },
+    "bio": {
+      "title": "Cum este familia ta?",
+      "description": "Lasă-le să afle mai multe despre familia ta.",
+      "textareaPlaceholder": "Scrie câteva propoziții despre familia ta..."
+    },
+    "members": {
+      "title": "Cu cine călătorești?",
+      "description": "Vă rugăm să completați detaliile membrilor familiei cu care călătoriți. În cazul în care călătoriți singur, faceți clic pe Continuați.",
+      "buttonLabel": "Adăugați membri",
+      "drawer": {
+        "title": "Adăugați un membru al familiei",
+        "description": "Completați detaliile unui membru al familiei cu care călătoriți.",
+        "imageDescription": "Ai împărți casa cu cineva pe care nu ai mai văzut-o până acum?",
+        "groupPositionLabel": "Relaţie",
+        "groupPositionPlaceholder": "Tată, fiică, bunica"
+      }
+    },
+    "photos": {
+      "title": "Cum arăți?",
+      "description": "Vă rugăm să încărcați cel puțin 3 fotografii cu dvs. și cu persoanele pentru care căutați adăpost."
+    },
+    "wellDone": {
+      "title": "Bine făcut!",
+      "description": "Avem gazde filtrate care se potrivesc nevoilor dvs. Acum este rândul tău să decizi, în funcție de profilul lor.",
+      "shareOnFacebook": "Distribuiți pe Facebook",
+      "shareOnInstagram": "Distribuie pe Instagram",
+      "finishButton": "Vedeți gazdele care se potrivesc"
+    },
+    "summary": {
+      "title": "Este totul corect?",
+      "description": "Vă rugăm să revizuiți răspunsurile înainte de a trimite.",
+      "intention": "Caut un adapost temporar.",
+      "country": {
+        "title": "In ce tara?",
+        "any": "In orice tara"
+      },
+      "duration": {
+        "title": "Pentru cât timp?",
+        "options": {
+          "days": "1-3 zile",
+          "weeks": "1-2 săptămâni",
+          "months": "1-3 luni",
+          "unknown": "nu stiu inca"
+        }
+      },
+      "transport": {
+        "title": "Poți ajunge acolo?",
+        "options": {
+          "car": "Da, am o mașină",
+          "publicTransport": "Da, pot folosi transportul public",
+          "transport": "Nu, trebuie să fiu luat"
+        }
+      },
+      "specialNeeds": {
+        "title": "Călătorești cu acestea?",
+        "options": {
+          "dog": "Câine",
+          "cat": "Pisică",
+          "child": "Bebelus",
+          "disabled": "Dezactivat",
+          "otherPet": "Am alt animal de companie"
+        }
+      },
+      "finances": {
+        "title": "Ce finante ai?",
+        "options": {
+          "coverCosts": "Pot acoperi unele costuri",
+          "financialSupport": "Caut suport complet"
+        }
+      },
+      "language": {
+        "title": "Cum poți vorbi?"
+      },
+      "auth": {
+        "title": "Cum te putem identifica?"
+      },
+      "identity": {
+        "title": "Cine ești tu?"
+      },
+      "bio": {
+        "title": "Cum este familia ta?"
+      },
+      "members": {
+        "title": "Cu cine călătorești?",
+        "buttonLabel": "Adăugați membri"
+      },
+      "photos": {
+        "title": "Cum arăți?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "In ce tara?",
+      "description": "Valorile selectate sunt negre",
+      "any": "In orice tara"
+    },
+    "places": {
+      "title": "Pentru cati oameni?",
+      "description": "Introduceți numărul de locuri pe care le puteți oferi."
+    },
+    "duration": {
+      "title": "Pentru cat timp?",
+      "description": "Selectați perioada în care pot sta acasă.",
+      "options": {
+        "days": "1-3 zile",
+        "weeks": "1-2 săptămâni",
+        "months": "1-3 luni",
+        "any": "Atâta timp cât este necesar",
+        "unknown": "Nu stiu inca"
+      }
+    },
+    "transport": {
+      "title": "Le poți ridica?",
+      "description": "Poți conduce până la graniță?",
+      "options": {
+        "transport": "Da, am o mașină",
+        "none": "Nu, trebuie să găsim o altă cale"
+      }
+    },
+    "specialNeeds": {
+      "title": "Le-ai accepta pe astea?",
+      "description": "Selectați toate opțiunile la care sunteți deschis.",
+      "options": {
+        "dog": "Câine",
+        "cat": "Pisică",
+        "child": "Bebelus",
+        "disabled": "Dezactivat",
+        "otherPet": "Alt animal de companie"
+      }
+    },
+    "finances": {
+      "title": "Ce sprijin poti oferi?",
+      "description": "Vă rugăm să luați în considerare situația dumneavoastră financiară și să selectați una dintre următoarele.",
+      "options": {
+        "coverCosts": "Pot oferi suport complet",
+        "financialSupport": "Mă aștept să acopere unele costuri"
+      }
+    },
+    "language": {
+      "title": "Cum poți vorbi?",
+      "description": "Selectați toate limbile pe care le vorbesc membrii familiei dvs."
+    },
+    "auth": {
+      "title": "Cum te putem identifica?",
+      "description": "Vă rugăm să introduceți detaliile cu care doriți să vă autentificați."
+    },
+    "identity": {
+      "title": "Cine ești tu?",
+      "description": "Vă rugăm să completați datele dvs. pentru ca oamenii să își poată face o idee despre cine sunteți.",
+      "imageDescription": "Ai împărți casa cu cineva pe care nu ai mai văzut-o până acum?"
+    },
+    "bio": {
+      "title": "Cum este familia ta?",
+      "description": "Lasă-le să afle mai multe despre familia ta.",
+      "textareaPlaceholder": "Scrie câteva propoziții despre familia ta..."
+    },
+    "members": {
+      "title": "Cu cine altcineva vor locui?",
+      "description": "Puteți descrie alte persoane cu care vă împărțiți casa. Dacă locuiți singur sau preferați să nu împărtășiți acest lucru, continuați.",
+      "buttonLabel": "Adăugați membri",
+      "drawer": {
+        "title": "Adăugați un membru al familiei",
+        "description": "Completați detaliile unui membru al familiei cu care călătoriți.",
+        "imageDescription": "Ai împărți casa cu cineva pe care nu ai mai văzut-o până acum?",
+        "groupPositionPlaceholder": "Tată, fiică, bunica"
+      }
+    },
+    "photos": {
+      "title": "Cum arăți?",
+      "description": "Puteți încărca mai multe fotografii cu familia dvs."
+    },
+    "wellDone": {
+      "title": "Bine făcut!",
+      "description": "Am găsit câteva grupuri de refugiați potrivite pentru tine. Acum este rândul tău să decizi, în funcție de profilul lor.",
+      "shareOnFacebook": "Distribuiți pe Facebook",
+      "shareOnInstagram": "Distribuie pe Instagram",
+      "finishButton": "Vedeți grupurile care se potrivesc"
+    },
+    "summary": {
+      "title": "Este totul corect?",
+      "description": "Vă rugăm să revizuiți răspunsurile înainte de a trimite.",
+      "intention": "Vreau să ofer o casă pentru cineva.",
+      "country": {
+        "title": "In ce tara?",
+        "any": "In orice tara"
+      },
+      "places": {
+        "title": "Pentru cati oameni?"
+      },
+      "duration": {
+        "title": "Pentru cat timp?",
+        "options": {
+          "days": "1-3 zile",
+          "weeks": "1-2 săptămâni",
+          "months": "1-3 luni",
+          "any": "Atâta timp cât este necesar",
+          "unknown": "Nu stiu inca"
+        }
+      },
+      "transport": {
+        "title": "Le poți ridica?",
+        "options": {
+          "transport": "Da, am o mașină",
+          "none": "Nu, trebuie să găsim o altă cale"
+        }
+      },
+      "specialNeeds": {
+        "title": "Le-ai accepta pe astea?",
+        "options": {
+          "dog": "Câine",
+          "cat": "Pisică",
+          "child": "Bebelus",
+          "disabled": "Dezactivat",
+          "otherPet": "Alt animal de companie"
+        }
+      },
+      "finances": {
+        "title": "Ce sprijin poti oferi?",
+        "options": {
+          "coverCosts": "Pot oferi suport complet",
+          "financialSupport": "Mă aștept să acopere unele costuri"
+        }
+      },
+      "language": {
+        "title": "Cum poți vorbi?"
+      },
+      "auth": {
+        "title": "Cum te putem identifica?"
+      },
+      "identity": {
+        "title": "Cine ești tu?"
+      },
+      "bio": {
+        "title": "Cum este familia ta?",
+        "textareaPlaceholder": "Scrie câteva propoziții despre familia ta..."
+      },
+      "members": {
+        "title": "Cu cine altcineva vor locui?",
+        "buttonLabel": "Adăugați membri",
+        "drawer": {
+          "title": "Adăugați un membru al familiei",
+          "imageDescription": "Ai împărți casa cu cineva pe care nu ai mai văzut-o până acum?",
+          "groupPositionPlaceholder": "Tată, fiică, bunica"
+        }
+      },
+      "photos": {
+        "title": "Cum arăți?"
+      }
+    }
+  }
+}

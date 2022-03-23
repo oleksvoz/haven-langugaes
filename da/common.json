@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Hvem vi er?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Blive ved",
+  "askForHelp": "Bede om hjælp",
+  "offerHelp": "Tilbyd hjælp",
+  "back": "Tilbage",
+  "backToStart": "Tilbage til start",
+  "close": "Tæt",
+  "add": "Tilføje",
+  "save": "Gemme",
+  "searchHosts": "Søg",
+  "submit": "Indsend",
+  "submitting": "Indsender",
+  "connections": "Forbindelser",
+  "noHostsLeft": "Du har set alle tilgængelige værter, der matcher din profil.",
+  "noCandidatesLeft": "Du har set alle grupper, der matcher din profil.",
+  "noHostsSuggestions": "Der er ingen vært, der matcher dine behov. Vi giver dig besked, når der er en ny.",
+  "noCandidateSuggestions": "Der er ingen flygtningegruppe, der matcher dine behov. Vi giver dig besked, når der er en ny.",
+  "call": "Opkald",
+  "sendEmail": "Send en e-mail",
+  "showProfile": "Vis profil",
+  "selectLanguage": "Vælg dit sprog",
+  "auth": {
+    "login": {
+      "title": "Log på",
+      "description": "Log venligst ind for at fortsætte.",
+      "button": {
+        "label": "Log på",
+        "loadingText": "Indlæser"
+      },
+      "forgotPassword": "Glemt din adgangskode?"
+    },
+    "logout": "Log ud",
+    "confirmationSuccess": {
+      "title": "Succes!",
+      "description": "Din e-mail er blevet bekræftet.",
+      "ctaLabel": "Fortsæt til appen"
+    },
+    "forgotPassword": {
+      "title": "Glemt kodeord",
+      "description": "Indtast venligst din e-mail for at nulstille din adgangskode.",
+      "button": {
+        "label": "Indsend",
+        "loadingText": "Indsender"
+      },
+      "login": "Leder du efter login?",
+      "successTitle": "Tjek din postkasse",
+      "successDescription": "Vi har sendt dig en e-mail med linket til at nulstille din adgangskode."
+    },
+    "resetPassword": {
+      "title": "Nulstille kodeord",
+      "description": "Indtast venligst en ny adgangskode.",
+      "button": {
+        "label": "Indsend",
+        "loadingText": "Indsender"
+      },
+      "login": "Leder du efter login?",
+      "successTitle": "Succes!",
+      "successDescription": "Din adgangskode er blevet ændret."
+    },
+    "deleteAccount": {
+      "label": "Slet konto",
+      "confirmation": "Du er ved at slette alle dine data på denne app. Vil du fortsætte?",
+      "successTitle": "Konto slettet.",
+      "successDescription": "Vi har slettet alle data relateret til din konto.",
+      "title": "Slet konto",
+      "description": "Slet alle dine data permanent."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Adgangskode",
+    "confirmPassword": "Bekræft kodeord",
+    "fullName": "Fulde navn",
+    "dateOfBirth": "Fødselsdato",
+    "occupation": "Beskæftigelse",
+    "phone": "telefon",
+    "chat": "Skriv en besked..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Adgangskode",
+    "confirmPassword": "Bekræft kodeord",
+    "fullName": "Fulde navn",
+    "dateOfBirth": "DD-MM-ÅÅÅÅ",
+    "occupation": "Beskæftigelse",
+    "phone": "telefon",
+    "chat": "Skriv en besked..."
+  },
+  "form": {
+    "validation": {
+      "required": "dette felt er påkrævet",
+      "password": "Adgangskoden skal indeholde mindst 8 tegn, 1 stort, 1 lille bogstav og 1 tal",
+      "passwordLength": "Adgangskoden skal være på mindst 8 tegn",
+      "passwordsMatch": "adgangskoderne stemmer ikke overens",
+      "minLength": "Dette felt skal være mindst {0} tegn langt",
+      "maxLength": "Dette felt må ikke være mere end {0} tegn langt",
+      "pattern": "Dette felt er ikke gyldigt",
+      "email": "Dette felt skal være en gyldig e-mailadresse",
+      "date": "Dette felt skal være en gyldig dato",
+      "dateOfBirth": "Indtast venligst en dato i formatet DD-MM-ÅÅÅÅ",
+      "dateISO": "Dette felt skal være en gyldig dato (ISO)",
+      "number": "Dette felt skal være et gyldigt nummer",
+      "digits": "Dette felt skal være cifre",
+      "min": "Dette felt skal være mindst {0}",
+      "max": "Dette felt må ikke være mere end {0}",
+      "bio": "Ville du være villig til at leve ... min 125 tegn",
+      "phone": "Angiv venligst et gyldigt telefonnummer."
+    }
+  },
+  "newChatMessage": "Du er nu forbundet!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Du kommer til at bo i",
+        "specialNeeds": "Yderligere hjælp vil du få",
+        "bio": "Hvem er de mennesker, du skal bo sammen med?",
+        "members": "Hvem er de egentlig?",
+        "languages": "Hvilke sprog taler de?"
+      },
+      "specialNeeds": {
+        "cat": "Kattevenlig",
+        "dog": "Hundevenlig",
+        "otherPet": "Kæledyrsvenlig",
+        "transport": "Hjælp til transport",
+        "financialHelp": "Økonomisk hjælp",
+        "child": "Børnevenlig",
+        "disabled": "handicappet"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Særlige krav",
+        "bio": "Hvem er de mennesker, der har brug for din hjælp?",
+        "members": "Hvem er de egentlig?",
+        "languages": "Hvilke sprog taler de?"
+      },
+      "specialNeeds": {
+        "cat": "Kat",
+        "dog": "Hund",
+        "otherPet": "Kæledyr",
+        "transport": "Transportere",
+        "financialHelp": "Økonomisk hjælp",
+        "child": "Barn",
+        "disabled": "handicappet"
+      }
+    },
+    "match": {
+      "title": "Det er et match!",
+      "description": "I blev begge enige om at dele hjem i nogen tid sammen. Lad os diskutere detaljerne."
+    },
+    "connectionRequests": {
+      "title": "Forbindelsesanmodninger",
+      "description": "Folk der gerne vil hjælpe dig."
+    },
+    "matches": {
+      "title": "Tændstikker",
+      "description": "Folk, som I begge var enige om, hjælper."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 medlem",
+      "numberOfMembers_other": "{{count}} medlemmer"
+    },
+    "detail": {
+      "title": "Matchdetaljer:",
+      "description": "Detalje af kampen.",
+      "goBack": "Gå tilbage",
+      "contact": {
+        "email": "E-mail",
+        "call": "Opkald"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Vores mission er at forbinde ukrainske flygtninge med værter, der tilbyder hjælp på en pålidelig og effektiv måde."
+    }
+  }
+}

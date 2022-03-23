@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "¿Quienes somos?",
+  "footerGDPRLinkLabel": "RGPD",
+  "continue": "Continuar",
+  "askForHelp": "Pedir ayuda",
+  "offerHelp": "Ofrecer ayuda",
+  "back": "Atrás",
+  "backToStart": "Volver a empezar",
+  "close": "Cerrar",
+  "add": "Agregar",
+  "save": "Salvar",
+  "searchHosts": "Búsqueda",
+  "submit": "Enviar",
+  "submitting": "Sumisión",
+  "connections": "Conexiones",
+  "noHostsLeft": "Ha visto todos los hosts disponibles que coinciden con su perfil.",
+  "noCandidatesLeft": "Has visto todos los grupos que coinciden con tu perfil.",
+  "noHostsSuggestions": "No hay ningún anfitrión que coincida con sus necesidades. Te avisaremos cuando haya uno nuevo.",
+  "noCandidateSuggestions": "No hay ningún grupo de refugiados que coincida con sus necesidades. Te avisaremos cuando haya uno nuevo.",
+  "call": "Llamada",
+  "sendEmail": "Enviar un correo electrónico",
+  "showProfile": "Mostrar perfil",
+  "selectLanguage": "elige tu idioma",
+  "auth": {
+    "login": {
+      "title": "Acceso",
+      "description": "Por favor inicie sesión para continuar.",
+      "button": {
+        "label": "Acceso",
+        "loadingText": "Cargando"
+      },
+      "forgotPassword": "¿Olvidaste tu contraseña?"
+    },
+    "logout": "Cerrar sesión",
+    "confirmationSuccess": {
+      "title": "¡Éxito!",
+      "description": "Tu correo ha sido confirmado.",
+      "ctaLabel": "Continuar a la aplicación"
+    },
+    "forgotPassword": {
+      "title": "Se te olvidó tu contraseña",
+      "description": "Por favor, escriba su correo electrónico para restablecer su contraseña.",
+      "button": {
+        "label": "Enviar",
+        "loadingText": "Sumisión"
+      },
+      "login": "¿Busca iniciar sesión?",
+      "successTitle": "Revisa tu correo",
+      "successDescription": "Le hemos enviado un correo electrónico con el enlace para restablecer su contraseña."
+    },
+    "resetPassword": {
+      "title": "Restablecer la contraseña",
+      "description": "Por favor, escriba una nueva contraseña.",
+      "button": {
+        "label": "Enviar",
+        "loadingText": "Sumisión"
+      },
+      "login": "¿Busca iniciar sesión?",
+      "successTitle": "¡Éxito!",
+      "successDescription": "Tu contraseña ha sido cambiada."
+    },
+    "deleteAccount": {
+      "label": "Borrar cuenta",
+      "confirmation": "Está a punto de eliminar todos sus datos en esta aplicación. ¿Quieres continuar?",
+      "successTitle": "Cuenta borrada.",
+      "successDescription": "Hemos eliminado todos los datos relacionados con su cuenta.",
+      "title": "Borrar cuenta",
+      "description": "Eliminar permanentemente todos sus datos."
+    }
+  },
+  "labels": {
+    "email": "Correo electrónico",
+    "password": "Clave",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "dateOfBirth": "Fecha de nacimiento",
+    "occupation": "Ocupación",
+    "phone": "Teléfono",
+    "chat": "Escribe un mensaje..."
+  },
+  "placeholders": {
+    "email": "Correo electrónico",
+    "password": "Clave",
+    "confirmPassword": "Confirmar contraseña",
+    "fullName": "Nombre completo",
+    "dateOfBirth": "DD-MM-AAAA",
+    "occupation": "Ocupación",
+    "phone": "Teléfono",
+    "chat": "Escribe un mensaje..."
+  },
+  "form": {
+    "validation": {
+      "required": "Este campo es obligatorio",
+      "password": "La contraseña debe contener al menos 8 caracteres, 1 mayúscula, 1 minúscula y 1 número",
+      "passwordLength": "La contraseña debe tener al menos 8 caracteres",
+      "passwordsMatch": "Las contraseñas no coinciden",
+      "minLength": "Este campo debe tener al menos {0} caracteres",
+      "maxLength": "Este campo no debe tener más de {0} caracteres",
+      "pattern": "Este campo no es válido",
+      "email": "Este campo debe ser una dirección de correo electrónico válida",
+      "date": "Este campo debe ser una fecha válida",
+      "dateOfBirth": "Por favor ingrese una fecha en formato DD-MM-AAAA",
+      "dateISO": "Este campo debe ser una fecha válida (ISO)",
+      "number": "Este campo debe ser un número válido",
+      "digits": "Este campo debe ser dígitos",
+      "min": "Este campo debe ser al menos {0}",
+      "max": "Este campo no debe tener más de {0}",
+      "bio": "Estarías dispuesto a vivir... min 125 caracteres",
+      "phone": "Por favor provea un número de teléfono válido."
+    }
+  },
+  "newChatMessage": "¡Ya estás conectado!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "vivirás en",
+        "specialNeeds": "Ayuda adicional que obtendrá",
+        "bio": "¿Quiénes son las personas con las que vivirás?",
+        "members": "¿Quiénes son realmente?",
+        "languages": "¿Qué idiomas hablan?"
+      },
+      "specialNeeds": {
+        "cat": "Amigable con los gatos",
+        "dog": "Se admiten perros",
+        "otherPet": "Se aceptan mascotas",
+        "transport": "Ayuda con el transporte",
+        "financialHelp": "Ayuda financiera",
+        "child": "Niño amigable",
+        "disabled": "Discapacitado"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Requisitos especiales",
+        "bio": "¿Quiénes son las personas que necesitan tu ayuda?",
+        "members": "¿Quiénes son realmente?",
+        "languages": "¿Qué idiomas hablan?"
+      },
+      "specialNeeds": {
+        "cat": "Gato",
+        "dog": "Perro",
+        "otherPet": "Mascota",
+        "transport": "Transporte",
+        "financialHelp": "Ayuda financiera",
+        "child": "Niño",
+        "disabled": "Discapacitado"
+      }
+    },
+    "match": {
+      "title": "¡Es un partido!",
+      "description": "Ambos acordaron compartir casa por un tiempo juntos. Discutamos los detalles."
+    },
+    "connectionRequests": {
+      "title": "Solicitudes de conexión",
+      "description": "Personas que quisieran ayudarte."
+    },
+    "matches": {
+      "title": "Partidos",
+      "description": "Las personas que ambos estuvieron de acuerdo en ayudar."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 miembro",
+      "numberOfMembers_other": "{{count}} miembros"
+    },
+    "detail": {
+      "title": "Detalle del partido:",
+      "description": "Detalle del partido.",
+      "goBack": "Regresa",
+      "contact": {
+        "email": "Correo electrónico",
+        "call": "Llamada"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Nuestra misión es conectar a los refugiados ucranianos con anfitriones que ofrecen ayuda de manera confiable y eficiente."
+    }
+  }
+}

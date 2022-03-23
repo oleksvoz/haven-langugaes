@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kik vagyunk?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Folytatni",
+  "askForHelp": "Kérjen segítséget",
+  "offerHelp": "Nyújts segítséget",
+  "back": "Vissza",
+  "backToStart": "Vissza a kezdéshez",
+  "close": "Bezárás",
+  "add": "Hozzáadás",
+  "save": "Megment",
+  "searchHosts": "Keresés",
+  "submit": "Beküldés",
+  "submitting": "Beküldés",
+  "connections": "Kapcsolatok",
+  "noHostsLeft": "Láttad, hogy az összes elérhető házigazda megfelel a profilodnak.",
+  "noCandidatesLeft": "A profilodnak megfelelő összes csoportot láttad.",
+  "noHostsSuggestions": "Nincs az Ön igényeinek megfelelő házigazda. Értesítünk, ha lesz új.",
+  "noCandidateSuggestions": "Nincs az Ön igényeinek megfelelő menekültcsoport. Értesítünk, ha lesz új.",
+  "call": "Hívás",
+  "sendEmail": "Küldj emailt",
+  "showProfile": "Profil megjelenítése",
+  "selectLanguage": "Válaszd ki a nyelved",
+  "auth": {
+    "login": {
+      "title": "Belépés",
+      "description": "A folytatáshoz jelentkezzen be.",
+      "button": {
+        "label": "Belépés",
+        "loadingText": "Betöltés"
+      },
+      "forgotPassword": "Elfelejtette a jelszavát?"
+    },
+    "logout": "Kijelentkezés",
+    "confirmationSuccess": {
+      "title": "Siker!",
+      "description": "E-mail-címét megerősítettük.",
+      "ctaLabel": "Tovább az alkalmazáshoz"
+    },
+    "forgotPassword": {
+      "title": "Elfelejtett jelszó",
+      "description": "Kérjük, írja be e-mail címét a jelszó visszaállításához.",
+      "button": {
+        "label": "Beküldés",
+        "loadingText": "Beküldés"
+      },
+      "login": "Bejelentkezést keres?",
+      "successTitle": "Ellenőrizze a postafiókját",
+      "successDescription": "Küldtünk Önnek egy e-mailt a jelszó visszaállításához szükséges linkkel."
+    },
+    "resetPassword": {
+      "title": "Jelszó visszaállítása",
+      "description": "Kérjük, írjon be egy új jelszót.",
+      "button": {
+        "label": "Beküldés",
+        "loadingText": "Beküldés"
+      },
+      "login": "Bejelentkezést keres?",
+      "successTitle": "Siker!",
+      "successDescription": "A jelszavad módosítva lett."
+    },
+    "deleteAccount": {
+      "label": "Fiók törlése",
+      "confirmation": "Törölni készül az összes adatot ebben az alkalmazásban. Akarod folytatni?",
+      "successTitle": "Fiók törölve.",
+      "successDescription": "A fiókjához kapcsolódó összes adatot töröltük.",
+      "title": "Fiók törlése",
+      "description": "Véglegesen törölje az összes adatot."
+    }
+  },
+  "labels": {
+    "email": "Email",
+    "password": "Jelszó",
+    "confirmPassword": "Jelszó megerősítése",
+    "fullName": "Teljes név",
+    "dateOfBirth": "Születési dátum",
+    "occupation": "Foglalkozása",
+    "phone": "Telefon",
+    "chat": "Írjon be egy üzenetet..."
+  },
+  "placeholders": {
+    "email": "Email",
+    "password": "Jelszó",
+    "confirmPassword": "Jelszó megerősítése",
+    "fullName": "Teljes név",
+    "dateOfBirth": "NN-HH-ÉÉÉÉ",
+    "occupation": "Foglalkozása",
+    "phone": "Telefon",
+    "chat": "Írjon be egy üzenetet..."
+  },
+  "form": {
+    "validation": {
+      "required": "Ez a mező kötelező",
+      "password": "A jelszónak legalább 8 karakterből, 1 nagybetűből, 1 kisbetűből és 1 számból kell állnia",
+      "passwordLength": "A jelszónak legalább 8 karakter hosszúnak kell lennie",
+      "passwordsMatch": "A jelszavak nem egyeznek",
+      "minLength": "Ennek a mezőnek legalább {0} karakter hosszúnak kell lennie",
+      "maxLength": "Ez a mező nem lehet hosszabb {0} karakternél",
+      "pattern": "Ez a mező nem érvényes",
+      "email": "Ennek a mezőnek érvényes e-mail címnek kell lennie",
+      "date": "Ennek a mezőnek érvényes dátumnak kell lennie",
+      "dateOfBirth": "Adjon meg egy dátumot NN-HH-ÉÉÉÉ formátumban",
+      "dateISO": "Ennek a mezőnek érvényes dátumnak (ISO) kell lennie.",
+      "number": "Ennek a mezőnek érvényes számnak kell lennie",
+      "digits": "Ennek a mezőnek számjegyekből kell állnia",
+      "min": "Ennek a mezőnek legalább {0} értékűnek kell lennie",
+      "max": "Ez a mező nem lehet több, mint {0}",
+      "bio": "Hajlandó lennél élni ... min 125 karaktert",
+      "phone": "Kérjük, adjon meg egy érvényes telefonszámot."
+    }
+  },
+  "newChatMessage": "Most már csatlakozott!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "-ben fogsz élni",
+        "specialNeeds": "További segítséget kap",
+        "bio": "Kik azok az emberek, akikkel együtt fogsz élni?",
+        "members": "Kik ők valójában?",
+        "languages": "Milyen nyelveket beszélnek?"
+      },
+      "specialNeeds": {
+        "cat": "Macskabarát",
+        "dog": "Kutyabarát",
+        "otherPet": "Állatbarát",
+        "transport": "Segítség a szállításban",
+        "financialHelp": "Pénzügyi segítség",
+        "child": "Gyerekbarát",
+        "disabled": "Tiltva"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Speciális követelmények",
+        "bio": "Kik azok, akiknek szükségük van a segítségedre?",
+        "members": "Kik ők valójában?",
+        "languages": "Milyen nyelveket beszélnek?"
+      },
+      "specialNeeds": {
+        "cat": "Macska",
+        "dog": "Kutya",
+        "otherPet": "Házi kedvenc",
+        "transport": "Szállítás",
+        "financialHelp": "Pénzügyi segítség",
+        "child": "Gyermek",
+        "disabled": "Tiltva"
+      }
+    },
+    "match": {
+      "title": "Ez egy meccs!",
+      "description": "Mindketten megállapodtak, hogy egy ideig együtt laknak otthon. Beszéljük meg a részleteket."
+    },
+    "connectionRequests": {
+      "title": "Csatlakozási kérések",
+      "description": "Emberek, akik segíteni szeretnének neked."
+    },
+    "matches": {
+      "title": "Gyufa",
+      "description": "Azok, akikben mindketten egyetértettek, segítenek."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 tag",
+      "numberOfMembers_other": "{{count}} tag"
+    },
+    "detail": {
+      "title": "A mérkőzés részletei:",
+      "description": "Részlet a meccsről.",
+      "goBack": "Menjen vissza",
+      "contact": {
+        "email": "Email",
+        "call": "Hívás"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Küldetésünk, hogy megbízható és hatékony módon összekapcsoljuk az ukrán menekülteket a segítséget nyújtó befogadókkal."
+    }
+  }
+}

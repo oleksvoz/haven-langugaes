@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kas mēs esam?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Turpināt",
+  "askForHelp": "Lūgt palīdzību",
+  "offerHelp": "Piedāvājiet palīdzību",
+  "back": "Atpakaļ",
+  "backToStart": "Atpakaļ uz sākumu",
+  "close": "Aizvērt",
+  "add": "Pievienot",
+  "save": "Saglabāt",
+  "searchHosts": "Meklēt",
+  "submit": "Iesniegt",
+  "submitting": "Notiek iesniegšana",
+  "connections": "Savienojumi",
+  "noHostsLeft": "Jūs redzējāt, ka visi pieejamie saimnieki atbilst jūsu profilam.",
+  "noCandidatesLeft": "Jūs esat redzējis visas grupas, kas atbilst jūsu profilam.",
+  "noHostsSuggestions": "Nav neviena jūsu vajadzībām atbilstoša saimniekdatora. Mēs jums paziņosim, kad būs jauns.",
+  "noCandidateSuggestions": "Nav nevienas bēgļu grupas, kas atbilstu jūsu vajadzībām. Mēs jums paziņosim, kad būs jauns.",
+  "call": "Zvaniet",
+  "sendEmail": "Nosūti e-pastu",
+  "showProfile": "Rādīt profilu",
+  "selectLanguage": "Izvēlieties savu valodu",
+  "auth": {
+    "login": {
+      "title": "Pieslēgties",
+      "description": "Lūdzu, piesakieties, lai turpinātu.",
+      "button": {
+        "label": "Pieslēgties",
+        "loadingText": "Notiek ielāde"
+      },
+      "forgotPassword": "Aizmirsi savu paroli?"
+    },
+    "logout": "Izlogoties",
+    "confirmationSuccess": {
+      "title": "Veiksmi!",
+      "description": "Jūsu e-pasts ir apstiprināts.",
+      "ctaLabel": "Pārejiet uz lietotni"
+    },
+    "forgotPassword": {
+      "title": "Aizmirsi paroli",
+      "description": "Lūdzu, ierakstiet savu e-pastu, lai atiestatītu paroli.",
+      "button": {
+        "label": "Iesniegt",
+        "loadingText": "Notiek iesniegšana"
+      },
+      "login": "Vai meklējat pieteikšanos?",
+      "successTitle": "Pārbaudiet savu pastkasti",
+      "successDescription": "Mēs nosūtījām jums e-pasta ziņojumu ar saiti paroles atiestatīšanai."
+    },
+    "resetPassword": {
+      "title": "Atiestatīt paroli",
+      "description": "Lūdzu, ievadiet jaunu paroli.",
+      "button": {
+        "label": "Iesniegt",
+        "loadingText": "Notiek iesniegšana"
+      },
+      "login": "Vai meklējat pieteikšanos?",
+      "successTitle": "Veiksmi!",
+      "successDescription": "Jūsu parole ir nomainīta."
+    },
+    "deleteAccount": {
+      "label": "Dzēst kontu",
+      "confirmation": "Jūs gatavojaties dzēst visus savus datus šajā lietotnē. Vai vēlaties turpināt?",
+      "successTitle": "Konts izdzēsts.",
+      "successDescription": "Mēs esam dzēsuši visus ar jūsu kontu saistītos datus.",
+      "title": "Dzēst kontu",
+      "description": "Neatgriezeniski dzēsiet visus savus datus."
+    }
+  },
+  "labels": {
+    "email": "E-pasts",
+    "password": "Parole",
+    "confirmPassword": "Apstipriniet paroli",
+    "fullName": "Pilnais vārds",
+    "dateOfBirth": "Dzimšanas datums",
+    "occupation": "Nodarbošanās",
+    "phone": "Tālrunis",
+    "chat": "Ierakstiet ziņojumu..."
+  },
+  "placeholders": {
+    "email": "E-pasts",
+    "password": "Parole",
+    "confirmPassword": "Apstipriniet paroli",
+    "fullName": "Pilnais vārds",
+    "dateOfBirth": "DD-MM-GGGG",
+    "occupation": "Nodarbošanās",
+    "phone": "Tālrunis",
+    "chat": "Ierakstiet ziņojumu..."
+  },
+  "form": {
+    "validation": {
+      "required": "Šis lauks ir obligāts",
+      "password": "Parolē jābūt vismaz 8 rakstzīmēm, 1 lielajam, 1 mazajam un 1 ciparam",
+      "passwordLength": "Parolei jābūt vismaz 8 rakstzīmēm garai",
+      "passwordsMatch": "Paroles nesakrīt",
+      "minLength": "Šim laukam ir jābūt vismaz {0} rakstzīmes garam",
+      "maxLength": "Šis lauks nedrīkst būt garāks par {0} rakstzīmēm",
+      "pattern": "Šis lauks nav derīgs",
+      "email": "Šim laukam ir jābūt derīgai e-pasta adresei",
+      "date": "Šim laukam ir jābūt derīgam datumam",
+      "dateOfBirth": "Lūdzu, ievadiet datumu formātā DD-MM-GGGG",
+      "dateISO": "Šim laukam ir jābūt derīgam datumam (ISO)",
+      "number": "Šajā laukā ir jābūt derīgam numuram",
+      "digits": "Šajā laukā ir jābūt cipariem",
+      "min": "Šim laukam ir jābūt vismaz {0}",
+      "max": "Šis lauks nedrīkst būt lielāks par {0}",
+      "bio": "Vai tu būtu gatavs dzīvot ... min 125 rakstzīmes",
+      "phone": "Lūdzu, norādiet derīgu tālruņa numuru."
+    }
+  },
+  "newChatMessage": "Tagad esat izveidojis savienojumu!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Tu dzīvosi iekšā",
+        "specialNeeds": "Jūs saņemsiet papildu palīdzību",
+        "bio": "Kas ir tie cilvēki, ar kuriem tu dzīvosi kopā?",
+        "members": "Kas viņi īsti ir?",
+        "languages": "Kādās valodās viņi runā?"
+      },
+      "specialNeeds": {
+        "cat": "Kaķiem draudzīgs",
+        "dog": "Suņiem draudzīgs",
+        "otherPet": "Mājdzīvniekiem draudzīgs",
+        "transport": "Palīdzība ar transportu",
+        "financialHelp": "Finansiālā palīdzība",
+        "child": "Bērniem draudzīgs",
+        "disabled": "Atspējots"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Īpašas prasības",
+        "bio": "Kas ir tie cilvēki, kuriem nepieciešama jūsu palīdzība?",
+        "members": "Kas viņi īsti ir?",
+        "languages": "Kādās valodās viņi runā?"
+      },
+      "specialNeeds": {
+        "cat": "kat",
+        "dog": "Suns",
+        "otherPet": "Mājdzīvnieks",
+        "transport": "Transports",
+        "financialHelp": "Finansiālā palīdzība",
+        "child": "Bērns",
+        "disabled": "Atspējots"
+      }
+    },
+    "match": {
+      "title": "Tas ir mačs!",
+      "description": "Jūs abi vienojāties kādu laiku koplietot māju. Apspriedīsim detaļas."
+    },
+    "connectionRequests": {
+      "title": "Savienojuma pieprasījumi",
+      "description": "Cilvēki, kuri vēlas jums palīdzēt."
+    },
+    "matches": {
+      "title": "Sērkociņi",
+      "description": "Palīdz cilvēki, par kuriem jūs abi vienojāties."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 dalībnieks",
+      "numberOfMembers_other": "{{count}} dalībnieki"
+    },
+    "detail": {
+      "title": "Spēles informācija:",
+      "description": "Spēles detaļa.",
+      "goBack": "Atgriezties",
+      "contact": {
+        "email": "E-pasts",
+        "call": "Zvaniet"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Mūsu misija ir uzticamā un efektīvā veidā savienot ukraiņu bēgļus ar saimniekiem, kas piedāvā palīdzību."
+    }
+  }
+}

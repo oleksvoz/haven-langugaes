@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Wer wir sind?",
+  "footerGDPRLinkLabel": "DSGVO",
+  "continue": "Fortsetzen",
+  "askForHelp": "Bitten Sie um Hilfe",
+  "offerHelp": "Hilfe anbieten",
+  "back": "Zurück",
+  "backToStart": "Zurück zum Start",
+  "close": "Nah dran",
+  "add": "Addieren",
+  "save": "Speichern",
+  "searchHosts": "Suche",
+  "submit": "einreichen",
+  "submitting": "Einreichen",
+  "connections": "Verbindungen",
+  "noHostsLeft": "Sie haben alle verfügbaren Hosts gesehen, die mit Ihrem Profil übereinstimmen.",
+  "noCandidatesLeft": "Sie haben alle Gruppen gesehen, die mit Ihrem Profil übereinstimmen.",
+  "noHostsSuggestions": "Es gibt keinen Host, der Ihren Anforderungen entspricht. Wir werden Sie informieren, wenn es einen neuen gibt.",
+  "noCandidateSuggestions": "Es gibt keine Flüchtlingsgruppe, die Ihren Bedürfnissen entspricht. Wir werden Sie informieren, wenn es einen neuen gibt.",
+  "call": "Anruf",
+  "sendEmail": "Eine E-Mail senden",
+  "showProfile": "Zeige Profil",
+  "selectLanguage": "Wähle deine Sprache",
+  "auth": {
+    "login": {
+      "title": "Anmeldung",
+      "description": "Bitte einloggen zum Fortfahren.",
+      "button": {
+        "label": "Anmeldung",
+        "loadingText": "Wird geladen"
+      },
+      "forgotPassword": "Haben Sie Ihr Passwort vergessen?"
+    },
+    "logout": "Ausloggen",
+    "confirmationSuccess": {
+      "title": "Erfolg!",
+      "description": "Deine Email wurde bestätigt.",
+      "ctaLabel": "Weiter zur App"
+    },
+    "forgotPassword": {
+      "title": "Passwort vergessen",
+      "description": "Bitte geben Sie Ihre E-Mail-Adresse ein, um Ihr Passwort zurückzusetzen.",
+      "button": {
+        "label": "einreichen",
+        "loadingText": "Einreichen"
+      },
+      "login": "Login gesucht?",
+      "successTitle": "Überprüfen Sie Ihre Mailbox",
+      "successDescription": "Wir haben Ihnen eine E-Mail mit dem Link zum Zurücksetzen Ihres Passworts gesendet."
+    },
+    "resetPassword": {
+      "title": "Passwort zurücksetzen",
+      "description": "Bitte geben Sie ein neues Passwort ein.",
+      "button": {
+        "label": "einreichen",
+        "loadingText": "Einreichen"
+      },
+      "login": "Login gesucht?",
+      "successTitle": "Erfolg!",
+      "successDescription": "Ihr Passwort wurde geändert."
+    },
+    "deleteAccount": {
+      "label": "Konto löschen",
+      "confirmation": "Sie sind im Begriff, alle Ihre Daten in dieser App zu löschen. Möchtest du fortfahren?",
+      "successTitle": "Konto gelöscht.",
+      "successDescription": "Wir haben alle Daten zu Ihrem Konto gelöscht.",
+      "title": "Konto löschen",
+      "description": "Löschen Sie dauerhaft alle Ihre Daten."
+    }
+  },
+  "labels": {
+    "email": "Email",
+    "password": "Passwort",
+    "confirmPassword": "Bestätige das Passwort",
+    "fullName": "Vollständiger Name",
+    "dateOfBirth": "Geburtsdatum",
+    "occupation": "Beruf",
+    "phone": "Telefon",
+    "chat": "Geben Sie eine Nachricht ein..."
+  },
+  "placeholders": {
+    "email": "Email",
+    "password": "Passwort",
+    "confirmPassword": "Bestätige das Passwort",
+    "fullName": "Vollständiger Name",
+    "dateOfBirth": "DD / MM / JJJJ",
+    "occupation": "Beruf",
+    "phone": "Telefon",
+    "chat": "Geben Sie eine Nachricht ein..."
+  },
+  "form": {
+    "validation": {
+      "required": "Dieses Feld wird benötigt",
+      "password": "Das Passwort muss mindestens 8 Zeichen, 1 Großbuchstaben, 1 Kleinbuchstaben und 1 Zahl enthalten",
+      "passwordLength": "Das Passwort muss mindestens 8 Zeichen lang sein",
+      "passwordsMatch": "Passwörter stimmen nicht überein",
+      "minLength": "Dieses Feld muss mindestens {0} Zeichen lang sein",
+      "maxLength": "Dieses Feld darf nicht länger als {0} Zeichen sein",
+      "pattern": "Dieses Feld ist ungültig",
+      "email": "Dieses Feld muss eine gültige E-Mail-Adresse sein",
+      "date": "Dieses Feld muss ein gültiges Datum sein",
+      "dateOfBirth": "Bitte geben Sie ein Datum im Format TT-MM-JJJJ ein",
+      "dateISO": "Dieses Feld muss ein gültiges Datum sein (ISO)",
+      "number": "Dieses Feld muss eine gültige Zahl sein",
+      "digits": "Dieses Feld muss aus Ziffern bestehen",
+      "min": "Dieses Feld muss mindestens {0} sein",
+      "max": "Dieses Feld darf nicht größer als {0} sein",
+      "bio": "Wären Sie bereit zu leben ... min 125 Zeichen",
+      "phone": "Geben Sie bitte eine gültige Telephonnummer an."
+    }
+  },
+  "newChatMessage": "Sie sind jetzt verbunden!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Sie werden darin wohnen",
+        "specialNeeds": "Sie erhalten zusätzliche Hilfe",
+        "bio": "Wer sind die Menschen, mit denen Sie zusammenleben werden?",
+        "members": "Wer sind sie wirklich?",
+        "languages": "Welche Sprachen sprechen sie?"
+      },
+      "specialNeeds": {
+        "cat": "Katzenfreundlich",
+        "dog": "Hundefreundlich",
+        "otherPet": "Haustiere freundlich",
+        "transport": "Hilfe beim Transport",
+        "financialHelp": "Finanzielle Hilfe",
+        "child": "Kinderfreundlich",
+        "disabled": "Deaktiviert"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Spezielle Anforderungen",
+        "bio": "Wer sind die Menschen, die Ihre Hilfe brauchen?",
+        "members": "Wer sind sie wirklich?",
+        "languages": "Welche Sprachen sprechen sie?"
+      },
+      "specialNeeds": {
+        "cat": "Katze",
+        "dog": "Hund",
+        "otherPet": "Haustier",
+        "transport": "Transport",
+        "financialHelp": "Finanzielle Hilfe",
+        "child": "Kind",
+        "disabled": "Deaktiviert"
+      }
+    },
+    "match": {
+      "title": "Es ist ein Spiel!",
+      "description": "Sie haben beide zugestimmt, für einige Zeit das Haus zu teilen. Lassen Sie uns die Details besprechen."
+    },
+    "connectionRequests": {
+      "title": "Verbindungsanfragen",
+      "description": "Menschen, die Ihnen helfen möchten."
+    },
+    "matches": {
+      "title": "Streichhölzer",
+      "description": "Menschen, denen Sie beide zugestimmt haben, helfen."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 Mitglied",
+      "numberOfMembers_other": "{{count}} Mitglieder"
+    },
+    "detail": {
+      "title": "Übereinstimmungsdetails:",
+      "description": "Detail des Spiels.",
+      "goBack": "Geh zurück",
+      "contact": {
+        "email": "Email",
+        "call": "Anruf"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Unsere Mission ist es, ukrainische Flüchtlinge zuverlässig und effizient mit Gastgebern zu verbinden, die Hilfe anbieten."
+    }
+  }
+}

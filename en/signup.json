@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "I...",
+    "description": "Select what describes your intention",
+    "candidate": {
+      "title": "need a place",
+      "description": "Find a temporary shelter"
+    },
+    "host": {
+      "title": "want to help",
+      "description": "Provide a home for someone"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "In what country?",
+      "description": "Selected values are black",
+      "any": "In any country"
+    },
+    "duration": {
+      "title": "For how long?",
+      "description": "Selected values are are black",
+      "options": {
+        "days": "1-3 days",
+        "weeks": "1-2 weeks",
+        "months": "1-3 months",
+        "unknown": "I don't know yet"
+      }
+    },
+    "transport": {
+      "title": "Can you get there?",
+      "description": "Can you get there on your own?",
+      "options": {
+        "car": "Yes, I have a car",
+        "publicTransport": "Yes, I can use public transport",
+        "transport": "No, I need to be picked up"
+      }
+    },
+    "specialNeeds": {
+      "title": "Traveling with these?",
+      "description": "Let your host know about special needs you have. ",
+      "options": {
+        "dog": "Yes, I have a dog with me ",
+        "cat": "Yes, I have a cat with me",
+        "child": "Baby",
+        "disabled": "Disabled",
+        "otherPet": "I have other pet"
+      }
+    },
+    "finances": {
+      "title": "What finances do you have?",
+      "description": "We need to match you with your host accordingly.",
+      "options": {
+        "coverCosts": "I can cover some costs",
+        "financialSupport": "I am looking for a full support"
+      }
+    },
+    "language": {
+      "title": "How can you speak?",
+      "description": "Select all languages that your family members speak."
+    },
+    "auth": {
+      "title": "How can we identify you?",
+      "description": "Please inter the details you would like to login with."
+    },
+    "identity": {
+      "title": "Who are you?",
+      "description": "Please fill in your details so that the people can get an idea of who you are.",
+      "imageDescription": "Would you share home with someone you have never seen before?"
+    },
+    "bio": {
+      "title": "What is your family like?",
+      "description": "Let your them know more about your family. ",
+      "textareaPlaceholder": "Write few sentences about your family..."
+    },
+    "members": {
+      "title": "Who are you traveling with?",
+      "description": "Please fill in the details of your family members you are travelling with. In case you are travelling alone just click continue.",
+      "buttonLabel": "Add members",
+      "drawer": {
+        "title": "Add a family member",
+        "description": "Fill in the details of a family member you are travelling with.",
+        "imageDescription": "Would you share home with someone you have never seen before?",
+        "groupPositionLabel": "Relationship",
+        "groupPositionPlaceholder": "Father, Daughter, Grandma"
+      }
+    },
+    "photos": {
+      "title": "How do you look like?",
+      "description": "Please upload at least 3 photos of yourself and and the people you are seeking shelter for."
+    },
+    "wellDone": {
+      "title": "Well done!",
+      "description": "We have filtered hosts that match your needs. Now it's your turn to decide, based on their profile.",
+      "shareOnFacebook": "Share on Facebook",
+      "shareOnInstagram": "Share on Instagram",
+      "finishButton": "See matching hosts"
+    },
+    "summary": {
+      "title": "Is everything correct?",
+      "description": "Please review your answers before submitting.",
+      "intention": "I am looking for a temporary shelter.",
+      "country": {
+        "title": "In what country?",
+        "any": "In any country"
+      },
+      "duration": {
+        "title": "For how long?",
+        "options": {
+          "days": "1-3 days",
+          "weeks": "1-2 weeks",
+          "months": "1-3 months",
+          "unknown": "I don't know yet"
+        }
+      },
+      "transport": {
+        "title": "Can you get there?",
+        "options": {
+          "car": "Yes, I have a car",
+          "publicTransport": "Yes, I can use public transport",
+          "transport": "No, I need to be picked up"
+        }
+      },
+      "specialNeeds": {
+        "title": "Traveling with these?",
+        "options": {
+          "dog": "Dog",
+          "cat": "Cat",
+          "child": "Baby",
+          "disabled": "Disabled",
+          "otherPet": "I have other pet"
+        }
+      },
+      "finances": {
+        "title": "What finances do you have?",
+        "options": {
+          "coverCosts": "I can cover some costs",
+          "financialSupport": "I am looking for a full support"
+        }
+      },
+      "language": {
+        "title": "How can you speak?"
+      },
+      "auth": {
+        "title": "How can we identify you?"
+      },
+      "identity": {
+        "title": "Who are you?"
+      },
+      "bio": {
+        "title": "What is your family like?"
+      },
+      "members": {
+        "title": "Who are you traveling with?",
+        "buttonLabel": "Add members"
+      },
+      "photos": {
+        "title": "How do you look like?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "In what country?",
+      "description": "Selected values are black",
+      "any": "In any country"
+    },
+    "places": {
+      "title": "For how many people?",
+      "description": "Enter the number of places you can offer."
+    },
+    "duration": {
+      "title": "How long?",
+      "description": "Select the period they can stay at your home.",
+      "options": {
+        "days": "1-3 days",
+        "weeks": "1-2 weeks",
+        "months": "1-3 months",
+        "any": "As long as necessary",
+        "unknown": "I din't know yet"
+      }
+    },
+    "transport": {
+      "title": "Can you pick them up?",
+      "description": "Can you drive to the border?",
+      "options": {
+        "transport": "Yes, I have a car",
+        "none": "No, we need to find another way"
+      }
+    },
+    "specialNeeds": {
+      "title": "Would you accept these?",
+      "description": "Select all options you are open to.",
+      "options": {
+        "dog": "Dog",
+        "cat": "Cat",
+        "child": "Baby",
+        "disabled": "Disabled",
+        "otherPet": "Other pet"
+      }
+    },
+    "finances": {
+      "title": "What support can you offer?",
+      "description": "Please consider your financial situation and select one of the following.",
+      "options": {
+        "coverCosts": "I can provide full support",
+        "financialSupport": "I expect them to cover some costs  "
+      }
+    },
+    "language": {
+      "title": "How can you speak?",
+      "description": "Select all languages that your family members speak."
+    },
+    "auth": {
+      "title": "How can we identify you?",
+      "description": "Please inter the details you would like to login with."
+    },
+    "identity": {
+      "title": "Who are you?",
+      "description": "Please fill in your details so that the people can get an idea of who you are.",
+      "imageDescription": "Would you share home with someone you have never seen before?"
+    },
+    "bio": {
+      "title": "What is your family like?",
+      "description": "Let your them know more about your family. ",
+      "textareaPlaceholder": "Write few sentences about your family..."
+    },
+    "members": {
+      "title": "Who else will they live with?",
+      "description": "You can describe other people you are sharing your home with. If you live alone or prefer not to share this, just continue.",
+      "buttonLabel": "Add members",
+      "drawer": {
+        "title": "Add a family member",
+        "description": "Fill in the details of a family member you are travelling with.",
+        "imageDescription": "Would you share home with someone you have never seen before?",
+        "groupPositionPlaceholder": "Father, Daughter, Grandma"
+      }
+    },
+    "photos": {
+      "title": "How do you look like?",
+      "description": "You can upload some more photos of your family."
+    },
+    "wellDone": {
+      "title": "Well done!",
+      "description": "We have found some matching refugee groups for you. Now it's your turn to decide, based on their profile.",
+      "shareOnFacebook": "Share on Facebook",
+      "shareOnInstagram": "Share on Instagram",
+      "finishButton": "See matching groups"
+    },
+    "summary": {
+      "title": "Is everything correct?",
+      "description": "Please review your answers before submitting.",
+      "intention": "I want to provide a home for someone.",
+      "country": {
+        "title": "In what country?",
+        "any": "In any country"
+      },
+      "places": {
+        "title": "For how many people?"
+      },
+      "duration": {
+        "title": "How long?",
+        "options": {
+          "days": "1-3 days",
+          "weeks": "1-2 weeks",
+          "months": "1-3 months",
+          "any": "As long as necessary",
+          "unknown": "I din't know yet"
+        }
+      },
+      "transport": {
+        "title": "Can you pick them up?",
+        "options": {
+          "transport": "Yes, I have a car",
+          "none": "No, we need to find another way"
+        }
+      },
+      "specialNeeds": {
+        "title": "Would you accept these?",
+        "options": {
+          "dog": "Dog",
+          "cat": "Cat",
+          "child": "Baby",
+          "disabled": "Disabled",
+          "otherPet": "Other pet"
+        }
+      },
+      "finances": {
+        "title": "What support can you offer?",
+        "options": {
+          "coverCosts": "I can provide full support",
+          "financialSupport": "I expect them to cover some costs  "
+        }
+      },
+      "language": {
+        "title": "How can you speak?"
+      },
+      "auth": {
+        "title": "How can we identify you?"
+      },
+      "identity": {
+        "title": "Who are you?"
+      },
+      "bio": {
+        "title": "What is your family like?",
+        "textareaPlaceholder": "Write few sentences about your family..."
+      },
+      "members": {
+        "title": "Who else will they live with?",
+        "buttonLabel": "Add members",
+        "drawer": {
+          "title": "Add a family member",
+          "imageDescription": "Would you share home with someone you have never seen before?",
+          "groupPositionPlaceholder": "Father, Daughter, Grandma"
+        }
+      },
+      "photos": {
+        "title": "How do you look like?"
+      }
+    }
+  }
+}

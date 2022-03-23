@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kes me oleme?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Jätka",
+  "askForHelp": "Küsi abi",
+  "offerHelp": "Paku abi",
+  "back": "tagasi",
+  "backToStart": "Tagasi algusesse",
+  "close": "Sulge",
+  "add": "Lisama",
+  "save": "Salvesta",
+  "searchHosts": "Otsing",
+  "submit": "Esita",
+  "submitting": "Esitamine",
+  "connections": "Ühendused",
+  "noHostsLeft": "Olete näinud kõiki saadaolevaid hoste, mis vastavad teie profiilile.",
+  "noCandidatesLeft": "Olete näinud kõiki teie profiilile vastavaid gruppe.",
+  "noHostsSuggestions": "Teie vajadustele vastavat hosti pole. Anname teada, kui on uus.",
+  "noCandidateSuggestions": "Teie vajadustele vastavat pagulasrühma ei ole. Anname teada, kui on uus.",
+  "call": "Helistama",
+  "sendEmail": "Emaili saatma",
+  "showProfile": "Näita profiili",
+  "selectLanguage": "Valige oma keel",
+  "auth": {
+    "login": {
+      "title": "Logi sisse",
+      "description": "Jätkamiseks logige sisse.",
+      "button": {
+        "label": "Logi sisse",
+        "loadingText": "Laadimine"
+      },
+      "forgotPassword": "Unustasid salasõna?"
+    },
+    "logout": "Logi välja",
+    "confirmationSuccess": {
+      "title": "Edu!",
+      "description": "Teie e-post on kinnitatud.",
+      "ctaLabel": "Jätkake rakendusega"
+    },
+    "forgotPassword": {
+      "title": "Unustasid parooli",
+      "description": "Parooli lähtestamiseks sisestage oma e-kiri.",
+      "button": {
+        "label": "Esita",
+        "loadingText": "Esitamine"
+      },
+      "login": "Kas otsite sisselogimist?",
+      "successTitle": "Kontrolli oma postkasti",
+      "successDescription": "Saatsime teile meili lingiga parooli lähtestamiseks."
+    },
+    "resetPassword": {
+      "title": "Lähtestage parool",
+      "description": "Palun sisestage uus parool.",
+      "button": {
+        "label": "Esita",
+        "loadingText": "Esitamine"
+      },
+      "login": "Kas otsite sisselogimist?",
+      "successTitle": "Edu!",
+      "successDescription": "Teie parool on muudetud."
+    },
+    "deleteAccount": {
+      "label": "Kustuta konto",
+      "confirmation": "Olete kustutamas kõik oma andmed selles rakenduses. Kas sa tahad jätkata?",
+      "successTitle": "Konto kustutatud.",
+      "successDescription": "Oleme kustutanud kõik teie kontoga seotud andmed.",
+      "title": "Kustuta konto",
+      "description": "Kustutage jäädavalt kõik oma andmed."
+    }
+  },
+  "labels": {
+    "email": "Meil",
+    "password": "Parool",
+    "confirmPassword": "Kinnita salasõna",
+    "fullName": "Täisnimi",
+    "dateOfBirth": "Sünnikuupäev",
+    "occupation": "Amet",
+    "phone": "Telefon",
+    "chat": "Sisestage sõnum..."
+  },
+  "placeholders": {
+    "email": "Meil",
+    "password": "Parool",
+    "confirmPassword": "Kinnita salasõna",
+    "fullName": "Täisnimi",
+    "dateOfBirth": "PP-KK-AAAA",
+    "occupation": "Amet",
+    "phone": "Telefon",
+    "chat": "Sisestage sõnum..."
+  },
+  "form": {
+    "validation": {
+      "required": "Selle välja täitmine on kohustuslik",
+      "password": "Parool peab sisaldama vähemalt 8 tähemärki, 1 suurtähte, 1 väiketähte ja 1 numbrit",
+      "passwordLength": "Parool peab olema vähemalt 8 tähemärki pikk",
+      "passwordsMatch": "Paroolid ei kattu",
+      "minLength": "See väli peab olema vähemalt {0} tähemärki pikk",
+      "maxLength": "See väli ei tohi olla pikem kui {0} tähemärki",
+      "pattern": "See väli ei kehti",
+      "email": "See väli peab olema kehtiv e-posti aadress",
+      "date": "Sellel väljal peab olema kehtiv kuupäev",
+      "dateOfBirth": "Sisestage kuupäev vormingus PP-KK-AAAA",
+      "dateISO": "Sellel väljal peab olema kehtiv kuupäev (ISO)",
+      "number": "Sellel väljal peab olema kehtiv number",
+      "digits": "Sellel väljal peavad olema numbrid",
+      "min": "See väli peab olema vähemalt {0}",
+      "max": "See väli ei tohi olla suurem kui {0}",
+      "bio": "Kas sa oleksid nõus elama ... min 125 tähemärki",
+      "phone": "Sisestage kehtiv telefoninumber."
+    }
+  },
+  "newChatMessage": "Olete nüüd ühendatud!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Sa hakkad elama",
+        "specialNeeds": "Saate täiendavat abi",
+        "bio": "Kes on need inimesed, kellega koos elama hakkate?",
+        "members": "Kes nad tegelikult on?",
+        "languages": "Mis keeli nad räägivad?"
+      },
+      "specialNeeds": {
+        "cat": "Kassisõbralik",
+        "dog": "Koerasõbralik",
+        "otherPet": "Lemmikloomasõbralik",
+        "transport": "Abi transpordiga",
+        "financialHelp": "Rahaline abi",
+        "child": "Lapsesõbralik",
+        "disabled": "Keelatud"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Erinõuded",
+        "bio": "Kes on need inimesed, kes teie abi vajavad?",
+        "members": "Kes nad tegelikult on?",
+        "languages": "Mis keeli nad räägivad?"
+      },
+      "specialNeeds": {
+        "cat": "Kass",
+        "dog": "Koer",
+        "otherPet": "Lemmikloom",
+        "transport": "Transport",
+        "financialHelp": "Rahaline abi",
+        "child": "Laps",
+        "disabled": "Keelatud"
+      }
+    },
+    "match": {
+      "title": "See on matš!",
+      "description": "Te mõlemad leppisite kokku, et jagate mõnda aega koos kodus. Arutame üksikasju."
+    },
+    "connectionRequests": {
+      "title": "Ühendustaotlused",
+      "description": "Inimesed, kes tahaksid teid aidata."
+    },
+    "matches": {
+      "title": "Tikud",
+      "description": "Inimesed, kellega te mõlemad nõustusite, aitavad."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 liige",
+      "numberOfMembers_other": "{{count}} liiget"
+    },
+    "detail": {
+      "title": "Mängu üksikasjad:",
+      "description": "Matši detail.",
+      "goBack": "Mine tagasi",
+      "contact": {
+        "email": "Meil",
+        "call": "Helistama"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Meie missiooniks on ühendada Ukraina pagulased usaldusväärsel ja tõhusal viisil abi pakkuvate võõrustajatega."
+    }
+  }
+}

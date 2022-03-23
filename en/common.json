@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Who we are?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Continue",
+  "askForHelp": "Ask for help",
+  "offerHelp": "Offer help",
+  "back": "Back",
+  "backToStart": "Back to start",
+  "close": "Close",
+  "add": "Add",
+  "save": "Save",
+  "searchHosts": "Search",
+  "submit": "Submit",
+  "submitting": "Submitting",
+  "connections": "Connections",
+  "noHostsLeft": "You have seen all available hosts matching with your profile.",
+  "noCandidatesLeft": "You have seen all groups matching with your profile.",
+  "noHostsSuggestions": "There is no host matching your needs. We will let you know when there is a new one.",
+  "noCandidateSuggestions": "There is no refugee group matching your needs. We will let you know when there is a new one.",
+  "call": "Call",
+  "sendEmail": "Send an Email",
+  "showProfile": "Show profile",
+  "selectLanguage": "Select your language",
+  "auth": {
+    "login": {
+      "title": "Login",
+      "description": "Please login to continue.",
+      "button": {
+        "label": "Login",
+        "loadingText": "Loading"
+      },
+      "forgotPassword": "Forgot your password?"
+    },
+    "logout": "Logout",
+    "confirmationSuccess": {
+      "title": "Success!",
+      "description": "Your email has been confirmed.",
+      "ctaLabel": "Continue to the app"
+    },
+    "forgotPassword": {
+      "title": "Forgot password",
+      "description": "Please type in your email to reset your password.",
+      "button": {
+        "label": "Submit",
+        "loadingText": "Submitting"
+      },
+      "login": "Looking for login?",
+      "successTitle": "Check your mailbox",
+      "successDescription": "We have sent you an email with the link to reset your password."
+    },
+    "resetPassword": {
+      "title": "Reset password",
+      "description": "Please type in a new password.",
+      "button": {
+        "label": "Submit",
+        "loadingText": "Submitting"
+      },
+      "login": "Looking for login?",
+      "successTitle": "Success!",
+      "successDescription": "Your password has been changed."
+    },
+    "deleteAccount": {
+      "label": "Delete account",
+      "confirmation": "You are about to delete all your data on this app. Do you want to continue?",
+      "successTitle": "Account deleted.",
+      "successDescription": "We have deleted all data related to your account.",
+      "title": "Delete account",
+      "description": "Permanently delete all your data."
+    }
+  },
+  "labels": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full Name",
+    "dateOfBirth": "Date of birth",
+    "occupation": "Occupation",
+    "phone": "Phone",
+    "chat": "Type a message..."
+  },
+  "placeholders": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "fullName": "Full Name",
+    "dateOfBirth": "DD-MM-YYYY",
+    "occupation": "Occupation",
+    "phone": "Phone",
+    "chat": "Type a message..."
+  },
+  "form": {
+    "validation": {
+      "required": "This field is required",
+      "password": "Password must contain at least 8 characters, 1 uppercase, 1 lowercase and 1 number",
+      "passwordLength": "Password must be at least 8 characters long",
+      "passwordsMatch": "Passwords do not match",
+      "minLength": "This field must be at least {0} characters long",
+      "maxLength": "This field must be no more than {0} characters long",
+      "pattern": "This field is not valid",
+      "email": "This field must be a valid email address",
+      "date": "This field must be a valid date",
+      "dateOfBirth": "Please enter a date in format DD-MM-YYYY",
+      "dateISO": "This field must be a valid date (ISO)",
+      "number": "This field must be a valid number",
+      "digits": "This field must be digits",
+      "min": "This field must be at least {0}",
+      "max": "This field must be no more than {0}",
+      "bio": "Would you be willing to live ... min 125 characters",
+      "phone": "Please provide a valid phone number."
+    }
+  },
+  "newChatMessage": "You are now connected!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "You will be living in",
+        "specialNeeds": "Additional help you will get",
+        "bio": "Who are the people you will be living with?",
+        "members": "Who are they really?",
+        "languages": "What languages do they speak?"
+      },
+      "specialNeeds": {
+        "cat": "Cat friendly",
+        "dog": "Dog friendly",
+        "otherPet": "Pets friendly",
+        "transport": "Help with transport",
+        "financialHelp": "Financial help",
+        "child": "Child friendly",
+        "disabled": "Disabled"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Special requirements",
+        "bio": "Who are the people that need your help?",
+        "members": "Who are they really?",
+        "languages": "What languages do they speak?"
+      },
+      "specialNeeds": {
+        "cat": "Cat",
+        "dog": "Dog",
+        "otherPet": "Pet",
+        "transport": "Transport",
+        "financialHelp": "Financial help",
+        "child": "Child",
+        "disabled": "Disabled"
+      }
+    },
+    "match": {
+      "title": "It's a match!",
+      "description": "You both agreed to share home for some time together. Let’s discuss the details. "
+    },
+    "connectionRequests": {
+      "title": "Connection requests",
+      "description": "People that would like to help you."
+    },
+    "matches": {
+      "title": "Matches",
+      "description": "People that you both agreed on help."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 member",
+      "numberOfMembers_other": "{{count}} members"
+    },
+    "detail": {
+      "title": "Match detail:",
+      "description": "Detail of the match.",
+      "goBack": "Go back",
+      "contact": {
+        "email": "Email",
+        "call": "Call"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Our mission is to connect Ukrainian refugees with hosts offering help in a reliable and efficient way."
+    }
+  }
+}

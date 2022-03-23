@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Hvem vi er?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Fortsette",
+  "askForHelp": "Be om hjelp",
+  "offerHelp": "Tilby hjelp",
+  "back": "Tilbake",
+  "backToStart": "Tilbake til start",
+  "close": "Lukk",
+  "add": "Legge til",
+  "save": "Lagre",
+  "searchHosts": "Søk",
+  "submit": "Sende inn",
+  "submitting": "Sender inn",
+  "connections": "Tilkoblinger",
+  "noHostsLeft": "Du har sett alle tilgjengelige verter som samsvarer med profilen din.",
+  "noCandidatesLeft": "Du har sett alle grupper som samsvarer med profilen din.",
+  "noHostsSuggestions": "Det er ingen vert som matcher dine behov. Vi gir deg beskjed når det kommer en ny.",
+  "noCandidateSuggestions": "Det er ingen flyktninggruppe som matcher dine behov. Vi gir deg beskjed når det kommer en ny.",
+  "call": "Anrop",
+  "sendEmail": "Send en epost",
+  "showProfile": "Vis profil",
+  "selectLanguage": "Velg ditt språk",
+  "auth": {
+    "login": {
+      "title": "Logg Inn",
+      "description": "Vennligst Logg inn for å fortsette.",
+      "button": {
+        "label": "Logg Inn",
+        "loadingText": "Laster"
+      },
+      "forgotPassword": "Glemt passordet?"
+    },
+    "logout": "Logg ut",
+    "confirmationSuccess": {
+      "title": "Suksess!",
+      "description": "E-posten din er bekreftet.",
+      "ctaLabel": "Fortsett til appen"
+    },
+    "forgotPassword": {
+      "title": "Glemt passord",
+      "description": "Vennligst skriv inn e-posten din for å tilbakestille passordet ditt.",
+      "button": {
+        "label": "Sende inn",
+        "loadingText": "Sender inn"
+      },
+      "login": "Leter du etter pålogging?",
+      "successTitle": "Sjekk postkassen din",
+      "successDescription": "Vi har sendt deg en e-post med lenken for å tilbakestille passordet ditt."
+    },
+    "resetPassword": {
+      "title": "tilbakestille passord",
+      "description": "Vennligst skriv inn et nytt passord.",
+      "button": {
+        "label": "Sende inn",
+        "loadingText": "Sender inn"
+      },
+      "login": "Leter du etter pålogging?",
+      "successTitle": "Suksess!",
+      "successDescription": "Ditt passord har blitt endret."
+    },
+    "deleteAccount": {
+      "label": "Slett konto",
+      "confirmation": "Du er i ferd med å slette alle dataene dine på denne appen. Vil du fortsette?",
+      "successTitle": "Konto slettet.",
+      "successDescription": "Vi har slettet alle data relatert til kontoen din.",
+      "title": "Slett konto",
+      "description": "Slett alle dataene dine permanent."
+    }
+  },
+  "labels": {
+    "email": "E-post",
+    "password": "Passord",
+    "confirmPassword": "Bekreft passord",
+    "fullName": "Fullt navn",
+    "dateOfBirth": "Fødselsdato",
+    "occupation": "Okkupasjon",
+    "phone": "Telefon",
+    "chat": "Skriv inn en melding..."
+  },
+  "placeholders": {
+    "email": "E-post",
+    "password": "Passord",
+    "confirmPassword": "Bekreft passord",
+    "fullName": "Fullt navn",
+    "dateOfBirth": "DD-MM-ÅÅÅÅ",
+    "occupation": "Okkupasjon",
+    "phone": "Telefon",
+    "chat": "Skriv inn en melding..."
+  },
+  "form": {
+    "validation": {
+      "required": "Dette feltet er obligatorisk",
+      "password": "Passordet må inneholde minst 8 tegn, 1 stor bokstav, 1 liten bokstav og 1 tall",
+      "passwordLength": "Passordet må være på minst 8 tegn",
+      "passwordsMatch": "passordene er ikke like",
+      "minLength": "Dette feltet må inneholde minst {0} tegn",
+      "maxLength": "Dette feltet må ikke inneholde mer enn {0} tegn",
+      "pattern": "Dette feltet er ikke gyldig",
+      "email": "Dette feltet må være en gyldig e-postadresse",
+      "date": "Dette feltet må være en gyldig dato",
+      "dateOfBirth": "Vennligst skriv inn en dato i formatet DD-MM-ÅÅÅÅ",
+      "dateISO": "Dette feltet må være en gyldig dato (ISO)",
+      "number": "Dette feltet må være et gyldig nummer",
+      "digits": "Dette feltet må være sifre",
+      "min": "Dette feltet må være minst {0}",
+      "max": "Dette feltet må ikke være mer enn {0}",
+      "bio": "Ville du vært villig til å leve ... min 125 tegn",
+      "phone": "Vennligst oppgi et gyldig telefonnummer."
+    }
+  },
+  "newChatMessage": "Du er nå koblet til!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Du skal bo i",
+        "specialNeeds": "Ytterligere hjelp vil du få",
+        "bio": "Hvem er menneskene du skal bo med?",
+        "members": "Hvem er de egentlig?",
+        "languages": "Hvilke språk snakker de?"
+      },
+      "specialNeeds": {
+        "cat": "Kattevennlig",
+        "dog": "Hundevennlig",
+        "otherPet": "Dyrevennlig",
+        "transport": "Hjelp med transport",
+        "financialHelp": "Finansiell hjelp",
+        "child": "Barnevennlig",
+        "disabled": "Funksjonshemmet"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Spesielle krav",
+        "bio": "Hvem er menneskene som trenger din hjelp?",
+        "members": "Hvem er de egentlig?",
+        "languages": "Hvilke språk snakker de?"
+      },
+      "specialNeeds": {
+        "cat": "Katt",
+        "dog": "Hund",
+        "otherPet": "Kjæledyr",
+        "transport": "Transportere",
+        "financialHelp": "Finansiell hjelp",
+        "child": "Barn",
+        "disabled": "Funksjonshemmet"
+      }
+    },
+    "match": {
+      "title": "Det er en kamp!",
+      "description": "Dere ble begge enige om å dele hjemmet en stund sammen. La oss diskutere detaljene."
+    },
+    "connectionRequests": {
+      "title": "Forespørsler om tilkobling",
+      "description": "Folk som vil hjelpe deg."
+    },
+    "matches": {
+      "title": "Fyrstikker",
+      "description": "Folk som dere begge var enige om å hjelpe."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 medlem",
+      "numberOfMembers_other": "{{count}} medlemmer"
+    },
+    "detail": {
+      "title": "Kampdetaljer:",
+      "description": "Detalj av kampen.",
+      "goBack": "Gå tilbake",
+      "contact": {
+        "email": "E-post",
+        "call": "Anrop"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Vårt oppdrag er å koble ukrainske flyktninger med verter som tilbyr hjelp på en pålitelig og effektiv måte."
+    }
+  }
+}

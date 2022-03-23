@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Qui nous sommes?",
+  "footerGDPRLinkLabel": "RGPD",
+  "continue": "Continuez",
+  "askForHelp": "Demander de l'aide",
+  "offerHelp": "Offrir de l'aide",
+  "back": "Arrière",
+  "backToStart": "Retour au début",
+  "close": "Fermer",
+  "add": "Ajouter",
+  "save": "sauvegarder",
+  "searchHosts": "Rechercher",
+  "submit": "Nous faire parvenir",
+  "submitting": "Soumission",
+  "connections": "Connexions",
+  "noHostsLeft": "Vous avez vu tous les hôtes disponibles correspondant à votre profil.",
+  "noCandidatesLeft": "Vous avez vu tous les groupes correspondant à votre profil.",
+  "noHostsSuggestions": "Il n'y a pas d'hébergeur correspondant à vos besoins. Nous vous informerons dès qu'il y en aura un nouveau.",
+  "noCandidateSuggestions": "Il n'y a pas de groupe de réfugiés correspondant à vos besoins. Nous vous informerons dès qu'il y en aura un nouveau.",
+  "call": "Appel",
+  "sendEmail": "Envoyer un e-mail",
+  "showProfile": "Montre le profile",
+  "selectLanguage": "choisissez votre langue",
+  "auth": {
+    "login": {
+      "title": "Connexion",
+      "description": "Merci de vous connecter pour continuer.",
+      "button": {
+        "label": "Connexion",
+        "loadingText": "Chargement"
+      },
+      "forgotPassword": "Mot de passe oublié?"
+    },
+    "logout": "Se déconnecter",
+    "confirmationSuccess": {
+      "title": "Succès!",
+      "description": "Votre e-mail a été confirmé.",
+      "ctaLabel": "Continuer vers l'application"
+    },
+    "forgotPassword": {
+      "title": "Mot de passe oublié",
+      "description": "Veuillez saisir votre email pour réinitialiser votre mot de passe.",
+      "button": {
+        "label": "Nous faire parvenir",
+        "loadingText": "Soumission"
+      },
+      "login": "Vous cherchez une connexion ?",
+      "successTitle": "Vérifiez votre boîte aux lettres",
+      "successDescription": "Nous vous avons envoyé un e-mail avec le lien pour réinitialiser votre mot de passe."
+    },
+    "resetPassword": {
+      "title": "Réinitialiser le mot de passe",
+      "description": "Veuillez saisir un nouveau mot de passe.",
+      "button": {
+        "label": "Nous faire parvenir",
+        "loadingText": "Soumission"
+      },
+      "login": "Vous cherchez une connexion ?",
+      "successTitle": "Succès!",
+      "successDescription": "Votre mot de passe a été changé."
+    },
+    "deleteAccount": {
+      "label": "Supprimer le compte",
+      "confirmation": "Vous êtes sur le point de supprimer toutes vos données sur cette application. Voulez-vous continuer?",
+      "successTitle": "Compte supprimé.",
+      "successDescription": "Nous avons supprimé toutes les données liées à votre compte.",
+      "title": "Supprimer le compte",
+      "description": "Supprimez définitivement toutes vos données."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmez le mot de passe",
+    "fullName": "Nom et prénom",
+    "dateOfBirth": "Date de naissance",
+    "occupation": "Occupation",
+    "phone": "Téléphoner",
+    "chat": "Tapez un message..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmez le mot de passe",
+    "fullName": "Nom et prénom",
+    "dateOfBirth": "JJ-MM-AAAA",
+    "occupation": "Occupation",
+    "phone": "Téléphoner",
+    "chat": "Tapez un message..."
+  },
+  "form": {
+    "validation": {
+      "required": "Ce champ est requis",
+      "password": "Le mot de passe doit contenir au moins 8 caractères, 1 majuscule, 1 minuscule et 1 chiffre",
+      "passwordLength": "Le mot de passe doit comporter au moins 8 caractères",
+      "passwordsMatch": "Les mots de passe ne correspondent pas",
+      "minLength": "Ce champ doit comporter au moins {0} caractères",
+      "maxLength": "Ce champ ne doit pas comporter plus de {0} caractères",
+      "pattern": "Ce champ n'est pas valide",
+      "email": "Ce champ doit être une adresse e-mail valide",
+      "date": "Ce champ doit être une date valide",
+      "dateOfBirth": "Veuillez saisir une date au format JJ-MM-AAAA",
+      "dateISO": "Ce champ doit être une date valide (ISO)",
+      "number": "Ce champ doit être un nombre valide",
+      "digits": "Ce champ doit être composé de chiffres",
+      "min": "Ce champ doit être au moins {0}",
+      "max": "Ce champ ne doit pas dépasser {0}",
+      "bio": "Seriez-vous prêt à vivre ... min 125 caractères",
+      "phone": "Veuillez fournir un numéro de téléphone valide."
+    }
+  },
+  "newChatMessage": "Vous êtes maintenant connecté !",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Vous habiterez dans",
+        "specialNeeds": "Une aide supplémentaire que vous obtiendrez",
+        "bio": "Avec qui allez-vous vivre ?",
+        "members": "Qui sont-ils vraiment ?",
+        "languages": "Quelles langues parlent-ils ?"
+      },
+      "specialNeeds": {
+        "cat": "Convient aux chats",
+        "dog": "Chien amical",
+        "otherPet": "Animaux acceptés",
+        "transport": "Aide aux transports",
+        "financialHelp": "Aide financière",
+        "child": "Adapté aux enfants",
+        "disabled": "Désactivé"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Besoins spéciaux",
+        "bio": "Qui sont les personnes qui ont besoin de votre aide ?",
+        "members": "Qui sont-ils vraiment ?",
+        "languages": "Quelles langues parlent-ils ?"
+      },
+      "specialNeeds": {
+        "cat": "Chat",
+        "dog": "Chien",
+        "otherPet": "Animal de compagnie",
+        "transport": "Transport",
+        "financialHelp": "Aide financière",
+        "child": "Enfant",
+        "disabled": "Désactivé"
+      }
+    },
+    "match": {
+      "title": "C'est un match !",
+      "description": "Vous avez tous les deux accepté de partager la maison pendant un certain temps ensemble. Discutons des détails."
+    },
+    "connectionRequests": {
+      "title": "Demandes de connexion",
+      "description": "Les personnes qui aimeraient vous aider."
+    },
+    "matches": {
+      "title": "Allumettes",
+      "description": "Les gens que vous avez tous les deux accepté d'aider."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 membre",
+      "numberOfMembers_other": "{{count}} membres"
+    },
+    "detail": {
+      "title": "Détail de la correspondance :",
+      "description": "Détail du match.",
+      "goBack": "Retourner",
+      "contact": {
+        "email": "E-mail",
+        "call": "Appel"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Notre mission est de mettre en relation des réfugiés ukrainiens avec des hôtes offrant de l'aide de manière fiable et efficace."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kas mes esame?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Tęsti",
+  "askForHelp": "Prašyti pagalbos",
+  "offerHelp": "Pasiūlykite pagalbą",
+  "back": "Atgal",
+  "backToStart": "Grįžti į pradžią",
+  "close": "Uždaryti",
+  "add": "Papildyti",
+  "save": "Sutaupyti",
+  "searchHosts": "Paieška",
+  "submit": "Pateikti",
+  "submitting": "Pateikiama",
+  "connections": "Jungtys",
+  "noHostsLeft": "Matėte, kad visi galimi prieglobos serveriai atitinka jūsų profilį.",
+  "noCandidatesLeft": "Matėte visas jūsų profilį atitinkančias grupes.",
+  "noHostsSuggestions": "Nėra šeimininko, atitinkančio jūsų poreikius. Kai bus naujas, pranešime.",
+  "noCandidateSuggestions": "Nėra jūsų poreikius atitinkančios pabėgėlių grupės. Kai bus naujas, pranešime.",
+  "call": "Skambinti",
+  "sendEmail": "Siųsti el. laišką",
+  "showProfile": "Rodyti profilį",
+  "selectLanguage": "Pasirinkite savo kalbą",
+  "auth": {
+    "login": {
+      "title": "Prisijungti",
+      "description": "Prisijunkite, jei norite tęsti.",
+      "button": {
+        "label": "Prisijungti",
+        "loadingText": "Įkeliama"
+      },
+      "forgotPassword": "Pamiršai slaptažodį?"
+    },
+    "logout": "Atsijungti",
+    "confirmationSuccess": {
+      "title": "Sėkmė!",
+      "description": "Jūsų el. paštas patvirtintas.",
+      "ctaLabel": "Eikite į programą"
+    },
+    "forgotPassword": {
+      "title": "Pamiršote slaptažodį",
+      "description": "Įveskite el. pašto adresą, kad iš naujo nustatytumėte slaptažodį.",
+      "button": {
+        "label": "Pateikti",
+        "loadingText": "Pateikiama"
+      },
+      "login": "Ieškote prisijungimo?",
+      "successTitle": "Patikrinkite savo pašto dėžutę",
+      "successDescription": "Išsiuntėme jums el. laišką su nuoroda, leidžiančia iš naujo nustatyti slaptažodį."
+    },
+    "resetPassword": {
+      "title": "Atstatyti slaptažodį",
+      "description": "Įveskite naują slaptažodį.",
+      "button": {
+        "label": "Pateikti",
+        "loadingText": "Pateikiama"
+      },
+      "login": "Ieškote prisijungimo?",
+      "successTitle": "Sėkmė!",
+      "successDescription": "Tavo slaptazodis buvo pakeistas."
+    },
+    "deleteAccount": {
+      "label": "Ištrinti paskyrą",
+      "confirmation": "Ketinate ištrinti visus savo duomenis šioje programoje. Ar norite tęsti?",
+      "successTitle": "Paskyra ištrinta.",
+      "successDescription": "Ištrynėme visus su jūsų paskyra susijusius duomenis.",
+      "title": "Ištrinti paskyrą",
+      "description": "Visam laikui ištrinti visus savo duomenis."
+    }
+  },
+  "labels": {
+    "email": "El. paštas",
+    "password": "Slaptažodis",
+    "confirmPassword": "Patvirtinti slaptažodį",
+    "fullName": "Pilnas vardas",
+    "dateOfBirth": "Gimimo data",
+    "occupation": "Užsiėmimas",
+    "phone": "Telefonas",
+    "chat": "Įveskite žinutę..."
+  },
+  "placeholders": {
+    "email": "El. paštas",
+    "password": "Slaptažodis",
+    "confirmPassword": "Patvirtinti slaptažodį",
+    "fullName": "Pilnas vardas",
+    "dateOfBirth": "DD-MM-MMMM",
+    "occupation": "Užsiėmimas",
+    "phone": "Telefonas",
+    "chat": "Įveskite žinutę..."
+  },
+  "form": {
+    "validation": {
+      "required": "Šį lauką būtina užpildyti",
+      "password": "Slaptažodį turi sudaryti ne mažiau kaip 8 simboliai, 1 didžioji, 1 mažoji ir 1 skaičius",
+      "passwordLength": "Slaptažodis turi būti bent 8 simbolių ilgio",
+      "passwordsMatch": "Slaptažodžiai nesutampa",
+      "minLength": "Šis laukas turi būti bent {0} simbolių ilgio",
+      "maxLength": "Šis laukas negali būti ilgesnis nei {0} simbolių",
+      "pattern": "Šis laukas negalioja",
+      "email": "Šis laukas turi būti galiojantis el. pašto adresas",
+      "date": "Šiame lauke turi būti nurodyta galiojanti data",
+      "dateOfBirth": "Įveskite datą formatu DD-MM-MMMM",
+      "dateISO": "Šiame lauke turi būti nurodyta galiojanti data (ISO)",
+      "number": "Šiame lauke turi būti galiojantis numeris",
+      "digits": "Šį lauką turi sudaryti skaitmenys",
+      "min": "Šis laukas turi būti bent {0}",
+      "max": "Šis laukas turi būti ne didesnis nei {0}",
+      "bio": "Ar norėtumėte gyventi ... min 125 simboliai",
+      "phone": "Pateikite galiojantį telefono numerį."
+    }
+  },
+  "newChatMessage": "Dabar esate prisijungę!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Jūs gyvensite",
+        "specialNeeds": "Sulauksite papildomos pagalbos",
+        "bio": "Su kokiais žmonėmis jūs gyvensite?",
+        "members": "Kas jie iš tikrųjų?",
+        "languages": "Kokiomis kalbomis jie kalba?"
+      },
+      "specialNeeds": {
+        "cat": "Draugiškas katėms",
+        "dog": "Draugiškas šuniui",
+        "otherPet": "Draugiški su augintiniais",
+        "transport": "Pagalba su transportu",
+        "financialHelp": "Finansinė pagalba",
+        "child": "Vaikams draugiškas",
+        "disabled": "Išjungta"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Specialūs reikalavimai",
+        "bio": "Kas yra tie žmonės, kuriems reikia jūsų pagalbos?",
+        "members": "Kas jie iš tikrųjų?",
+        "languages": "Kokiomis kalbomis jie kalba?"
+      },
+      "specialNeeds": {
+        "cat": "Katė",
+        "dog": "Šuo",
+        "otherPet": "Pet",
+        "transport": "Transportas",
+        "financialHelp": "Finansinė pagalba",
+        "child": "Vaikas",
+        "disabled": "Išjungta"
+      }
+    },
+    "match": {
+      "title": "Tai rungtynės!",
+      "description": "Jūs abu sutarėte kurį laiką dalytis namuose. Aptarkime detales."
+    },
+    "connectionRequests": {
+      "title": "Prisijungimo užklausos",
+      "description": "Žmonės, kurie norėtų jums padėti."
+    },
+    "matches": {
+      "title": "Degtukai",
+      "description": "Žmonės, dėl kurių abu sutarėte, padėjo."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 narys",
+      "numberOfMembers_other": "{{count}} nariai"
+    },
+    "detail": {
+      "title": "Rungtynių detalė:",
+      "description": "Rungtynių detalė.",
+      "goBack": "Eik atgal",
+      "contact": {
+        "email": "El. paštas",
+        "call": "Skambinti"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Mūsų misija – patikimai ir efektyviai sujungti Ukrainos pabėgėlius su šeimininkais, siūlančiais pagalbą."
+    }
+  }
+}

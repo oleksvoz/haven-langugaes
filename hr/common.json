@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Tko smo mi?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Nastaviti",
+  "askForHelp": "Pitati za pomoć",
+  "offerHelp": "Ponuditi pomoć",
+  "back": "leđa",
+  "backToStart": "Natrag na početak",
+  "close": "Zatvoriti",
+  "add": "Dodati",
+  "save": "Uštedjeti",
+  "searchHosts": "traži",
+  "submit": "podnijeti",
+  "submitting": "Podnošenje",
+  "connections": "Veze",
+  "noHostsLeft": "Vidjeli ste sve dostupne domaćine koji odgovaraju vašem profilu.",
+  "noCandidatesLeft": "Vidjeli ste sve grupe koje odgovaraju vašem profilu.",
+  "noHostsSuggestions": "Nema domaćina koji odgovara vašim potrebama. Obavijestit ćemo vas kada bude novog.",
+  "noCandidateSuggestions": "Ne postoji grupa izbjeglica koja odgovara vašim potrebama. Obavijestit ćemo vas kada bude novog.",
+  "call": "Poziv",
+  "sendEmail": "Pošalji email",
+  "showProfile": "Prikaži profil",
+  "selectLanguage": "Odaberite svoj jezik",
+  "auth": {
+    "login": {
+      "title": "Prijaviti se",
+      "description": "Molimo prijavite se za nastavak.",
+      "button": {
+        "label": "Prijaviti se",
+        "loadingText": "Učitavam"
+      },
+      "forgotPassword": "Zaboravili ste zaporku?"
+    },
+    "logout": "Odjavite se",
+    "confirmationSuccess": {
+      "title": "Uspjeh!",
+      "description": "Vaša e-pošta je potvrđena.",
+      "ctaLabel": "Nastavite do aplikacije"
+    },
+    "forgotPassword": {
+      "title": "Zaboravili ste lozinku",
+      "description": "Molimo upišite svoju e-poštu da poništite lozinku.",
+      "button": {
+        "label": "podnijeti",
+        "loadingText": "Podnošenje"
+      },
+      "login": "Tražite prijavu?",
+      "successTitle": "Provjerite svoj poštanski sandučić",
+      "successDescription": "Poslali smo vam e-mail s vezom za poništavanje vaše lozinke."
+    },
+    "resetPassword": {
+      "title": "Resetiranje lozinke",
+      "description": "Unesite novu lozinku.",
+      "button": {
+        "label": "podnijeti",
+        "loadingText": "Podnošenje"
+      },
+      "login": "Tražite prijavu?",
+      "successTitle": "Uspjeh!",
+      "successDescription": "Vaša lozinka je promijenjena."
+    },
+    "deleteAccount": {
+      "label": "Izbriši račun",
+      "confirmation": "Spremate se izbrisati sve svoje podatke u ovoj aplikaciji. Želite li nastaviti?",
+      "successTitle": "Račun je izbrisan.",
+      "successDescription": "Izbrisali smo sve podatke vezane uz vaš račun.",
+      "title": "Izbriši račun",
+      "description": "Trajno izbrišite sve svoje podatke."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Zaporka",
+    "confirmPassword": "Potvrdi lozinku",
+    "fullName": "Puno ime",
+    "dateOfBirth": "Datum rođenja",
+    "occupation": "Okupacija",
+    "phone": "Telefon",
+    "chat": "Upišite poruku..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Zaporka",
+    "confirmPassword": "Potvrdi lozinku",
+    "fullName": "Puno ime",
+    "dateOfBirth": "DD-MM-GGGG",
+    "occupation": "Okupacija",
+    "phone": "Telefon",
+    "chat": "Upišite poruku..."
+  },
+  "form": {
+    "validation": {
+      "required": "ovo polje je obavezno",
+      "password": "Lozinka mora sadržavati najmanje 8 znakova, 1 velika, 1 mala i 1 broj",
+      "passwordLength": "Lozinka mora imati najmanje 8 znakova",
+      "passwordsMatch": "Lozinke se ne podudaraju",
+      "minLength": "Ovo polje mora imati najmanje {0} znakova",
+      "maxLength": "Ovo polje ne smije imati više od {0} znakova",
+      "pattern": "Ovo polje nije važeće",
+      "email": "Ovo polje mora biti važeća adresa e-pošte",
+      "date": "Ovo polje mora biti valjani datum",
+      "dateOfBirth": "Unesite datum u formatu DD-MM-GGGG",
+      "dateISO": "Ovo polje mora biti valjani datum (ISO)",
+      "number": "Ovo polje mora biti valjani broj",
+      "digits": "Ovo polje mora biti znamenke",
+      "min": "Ovo polje mora biti najmanje {0}",
+      "max": "Ovo polje ne smije biti više od {0}",
+      "bio": "Biste li bili voljni živjeti ... min 125 znakova",
+      "phone": "Navedite valjani telefonski broj."
+    }
+  },
+  "newChatMessage": "Sada ste povezani!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Vi ćete živjeti u",
+        "specialNeeds": "Dodatnu pomoć ćete dobiti",
+        "bio": "Tko su ljudi s kojima ćeš živjeti?",
+        "members": "Tko su oni zapravo?",
+        "languages": "Koje jezike govore?"
+      },
+      "specialNeeds": {
+        "cat": "Mački prijateljski",
+        "dog": "Dog friendly",
+        "otherPet": "Kućni ljubimci",
+        "transport": "Pomoć oko prijevoza",
+        "financialHelp": "Financijska pomoć",
+        "child": "Prikladno za djecu",
+        "disabled": "Onemogućeno"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Posebni zahtjevi",
+        "bio": "Tko su ljudi kojima je potrebna vaša pomoć?",
+        "members": "Tko su oni zapravo?",
+        "languages": "Koje jezike govore?"
+      },
+      "specialNeeds": {
+        "cat": "Mačka",
+        "dog": "Pas",
+        "otherPet": "Ljubimac",
+        "transport": "Prijevoz",
+        "financialHelp": "Financijska pomoć",
+        "child": "Dijete",
+        "disabled": "Onemogućeno"
+      }
+    },
+    "match": {
+      "title": "To je utakmica!",
+      "description": "Oboje ste se dogovorili da ćete neko vrijeme zajedno dijeliti dom. Razgovarajmo o detaljima."
+    },
+    "connectionRequests": {
+      "title": "Zahtjevi za povezivanje",
+      "description": "Ljudi koji bi vam htjeli pomoći."
+    },
+    "matches": {
+      "title": "Utakmice",
+      "description": "Ljudi za koje ste se oboje složili pomoći."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 član",
+      "numberOfMembers_other": "{{count}} članova"
+    },
+    "detail": {
+      "title": "Detalji utakmice:",
+      "description": "Detalj utakmice.",
+      "goBack": "Vrati se",
+      "contact": {
+        "email": "E-mail",
+        "call": "Poziv"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Naša misija je povezati ukrajinske izbjeglice s domaćinima koji nude pomoć na pouzdan i učinkovit način."
+    }
+  }
+}

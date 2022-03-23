@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Biz Kimiz?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Devam et",
+  "askForHelp": "Yardım isteyin",
+  "offerHelp": "Yardım öner",
+  "back": "Geri",
+  "backToStart": "Başlamak için geri dön",
+  "close": "Kapat",
+  "add": "Ekle",
+  "save": "Kayıt etmek",
+  "searchHosts": "Arama",
+  "submit": "Göndermek",
+  "submitting": "gönderme",
+  "connections": "Bağlantılar",
+  "noHostsLeft": "Profilinizle eşleşen tüm mevcut ana bilgisayarları gördünüz.",
+  "noCandidatesLeft": "Profilinizle eşleşen tüm grupları gördünüz.",
+  "noHostsSuggestions": "İhtiyaçlarınıza uygun bir ana bilgisayar yok. Yenisi geldiğinde size haber vereceğiz.",
+  "noCandidateSuggestions": "İhtiyaçlarınıza uygun bir mülteci grubu yok. Yenisi geldiğinde size haber vereceğiz.",
+  "call": "Telefon etmek",
+  "sendEmail": "Bir e-posta göndermek",
+  "showProfile": "Profili Göster",
+  "selectLanguage": "Dilinizi seçiniz",
+  "auth": {
+    "login": {
+      "title": "Giriş yapmak",
+      "description": "Devam etmek için lütfen giriş yapınız.",
+      "button": {
+        "label": "Giriş yapmak",
+        "loadingText": "Yükleniyor"
+      },
+      "forgotPassword": "Parolanızı mı unuttunuz?"
+    },
+    "logout": "Çıkış Yap",
+    "confirmationSuccess": {
+      "title": "Başarı!",
+      "description": "E-posta teyit edilmiştir.",
+      "ctaLabel": "Uygulamaya devam et"
+    },
+    "forgotPassword": {
+      "title": "Parolanızı mı unuttunuz",
+      "description": "Şifrenizi sıfırlamak için lütfen e-postanızı giriniz.",
+      "button": {
+        "label": "Göndermek",
+        "loadingText": "gönderme"
+      },
+      "login": "Giriş mi arıyorsunuz?",
+      "successTitle": "Posta kutunu kontrol et",
+      "successDescription": "Size şifrenizi sıfırlamanız için bağlantıyı içeren bir e-posta gönderdik."
+    },
+    "resetPassword": {
+      "title": "Şifreyi yenile",
+      "description": "Lütfen yeni bir şifre girin.",
+      "button": {
+        "label": "Göndermek",
+        "loadingText": "gönderme"
+      },
+      "login": "Giriş mi arıyorsunuz?",
+      "successTitle": "Başarı!",
+      "successDescription": "Şifreniz değiştirildi."
+    },
+    "deleteAccount": {
+      "label": "Hesabı sil",
+      "confirmation": "Bu uygulamadaki tüm verilerinizi silmek üzeresiniz. Devam etmek istiyor musun?",
+      "successTitle": "Hesap silindi.",
+      "successDescription": "Hesabınızla ilgili tüm verileri sildik.",
+      "title": "Hesabı sil",
+      "description": "Tüm verilerinizi kalıcı olarak silin."
+    }
+  },
+  "labels": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "fullName": "Ad Soyad",
+    "dateOfBirth": "Doğum tarihi",
+    "occupation": "Meslek",
+    "phone": "Telefon",
+    "chat": "Bir mesaj yazın..."
+  },
+  "placeholders": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "fullName": "Ad Soyad",
+    "dateOfBirth": "GG-AA-YYYY",
+    "occupation": "Meslek",
+    "phone": "Telefon",
+    "chat": "Bir mesaj yazın..."
+  },
+  "form": {
+    "validation": {
+      "required": "Bu alan gereklidir",
+      "password": "Şifre en az 8 karakter, 1 büyük harf, 1 küçük harf ve 1 rakam içermelidir",
+      "passwordLength": "Şifre en az 8 karakter uzunluğunda olmalıdır",
+      "passwordsMatch": "Parolalar uyuşmuyor",
+      "minLength": "Bu alan en az {0} karakter uzunluğunda olmalıdır",
+      "maxLength": "Bu alan en fazla {0} karakter uzunluğunda olmalıdır",
+      "pattern": "Bu alan geçerli değil",
+      "email": "Bu alan geçerli bir e-posta adresi olmalıdır",
+      "date": "Bu alan geçerli bir tarih olmalıdır",
+      "dateOfBirth": "Lütfen GG-AA-YYYY biçiminde bir tarih girin",
+      "dateISO": "Bu alan geçerli bir tarih (ISO) olmalıdır",
+      "number": "Bu alan geçerli bir sayı olmalıdır",
+      "digits": "Bu alan rakamlardan oluşmalıdır",
+      "min": "Bu alan en az {0} olmalıdır",
+      "max": "Bu alan en fazla {0} olmalıdır",
+      "bio": "Yaşamak ister miydiniz ... min 125 karakter",
+      "phone": "Lütfen geçerli bir telefon numarası sağlayın."
+    }
+  },
+  "newChatMessage": "Artık bağlısınız!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "içinde yaşıyor olacaksın",
+        "specialNeeds": "Alacağınız ek yardım",
+        "bio": "Birlikte yaşayacağın insanlar kimler?",
+        "members": "Onlar gerçekten kim?",
+        "languages": "Hangi dilleri konuşuyorlar?"
+      },
+      "specialNeeds": {
+        "cat": "kedi dostu",
+        "dog": "Köpek dostu",
+        "otherPet": "Evcil hayvan dostu",
+        "transport": "Taşıma ile ilgili yardım",
+        "financialHelp": "Finansal yardım",
+        "child": "Çocuk Dostu",
+        "disabled": "Engelli"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Özel gereksinimler",
+        "bio": "Yardımına ihtiyacı olan insanlar kimler?",
+        "members": "Onlar gerçekten kim?",
+        "languages": "Hangi dilleri konuşuyorlar?"
+      },
+      "specialNeeds": {
+        "cat": "Kedi",
+        "dog": "Köpek",
+        "otherPet": "Evcil Hayvan",
+        "transport": "Ulaşım",
+        "financialHelp": "Finansal yardım",
+        "child": "Çocuk",
+        "disabled": "Engelli"
+      }
+    },
+    "match": {
+      "title": "Bu bir maç!",
+      "description": "İkiniz de bir süreliğine evi paylaşmaya karar verdiniz. Detayları tartışalım."
+    },
+    "connectionRequests": {
+      "title": "Bağlantı istekleri",
+      "description": "Size yardım etmek isteyen insanlar."
+    },
+    "matches": {
+      "title": "Maçlar",
+      "description": "İkinizin de yardım konusunda anlaştığı kişiler."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 üye",
+      "numberOfMembers_other": "{{count}} üye"
+    },
+    "detail": {
+      "title": "Maç detayı:",
+      "description": "Maçın detayı.",
+      "goBack": "Geri dön",
+      "contact": {
+        "email": "E-posta",
+        "call": "Telefon etmek"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Misyonumuz, Ukraynalı mültecileri güvenilir ve verimli bir şekilde yardım sunan ev sahipleriyle buluşturmaktır."
+    }
+  }
+}

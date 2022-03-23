@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kim jesteśmy?",
+  "footerGDPRLinkLabel": "RODO",
+  "continue": "Kontyntynuj",
+  "askForHelp": "Zapytaj o pomoc",
+  "offerHelp": "Oferować pomoc",
+  "back": "Plecy",
+  "backToStart": "Powrót do początku",
+  "close": "Blisko",
+  "add": "Dodać",
+  "save": "Zapisać",
+  "searchHosts": "Szukaj",
+  "submit": "Składać",
+  "submitting": "Przedkładający",
+  "connections": "Znajomości",
+  "noHostsLeft": "Widziałeś wszystkie dostępne hosty pasujące do Twojego profilu.",
+  "noCandidatesLeft": "Widziałeś wszystkie grupy pasujące do Twojego profilu.",
+  "noHostsSuggestions": "Nie ma hosta odpowiadającego Twoim potrzebom. Powiadomimy Cię, kiedy pojawi się nowy.",
+  "noCandidateSuggestions": "Nie ma grupy uchodźców odpowiadającej Twoim potrzebom. Powiadomimy Cię, kiedy pojawi się nowy.",
+  "call": "Dzwonić",
+  "sendEmail": "Wyślij e-mail",
+  "showProfile": "Pokaż profil",
+  "selectLanguage": "Wybierz swój język",
+  "auth": {
+    "login": {
+      "title": "Zaloguj sie",
+      "description": "Proszę się zalogować, aby kontynuować.",
+      "button": {
+        "label": "Zaloguj sie",
+        "loadingText": "Ładowanie"
+      },
+      "forgotPassword": "Zapomniałeś hasła?"
+    },
+    "logout": "Wyloguj",
+    "confirmationSuccess": {
+      "title": "Sukces!",
+      "description": "Twój email został potwierdzony.",
+      "ctaLabel": "Przejdź do aplikacji"
+    },
+    "forgotPassword": {
+      "title": "Zapomniałeś hasła",
+      "description": "Wpisz swój adres e-mail, aby zresetować hasło.",
+      "button": {
+        "label": "Składać",
+        "loadingText": "Przedkładający"
+      },
+      "login": "Szukasz loginu?",
+      "successTitle": "Sprawdź swoją skrzynkę pocztową",
+      "successDescription": "Wysłaliśmy Ci wiadomość e-mail z linkiem do zresetowania hasła."
+    },
+    "resetPassword": {
+      "title": "Zresetuj hasło",
+      "description": "Proszę wpisać nowe hasło.",
+      "button": {
+        "label": "Składać",
+        "loadingText": "Przedkładający"
+      },
+      "login": "Szukasz loginu?",
+      "successTitle": "Sukces!",
+      "successDescription": "Twoje hasło zostało zmienione."
+    },
+    "deleteAccount": {
+      "label": "Usuń konto",
+      "confirmation": "Zamierzasz usunąć wszystkie swoje dane z tej aplikacji. Czy chcesz kontynuować?",
+      "successTitle": "Konto zostało usunięte.",
+      "successDescription": "Usunęliśmy wszystkie dane związane z Twoim kontem.",
+      "title": "Usuń konto",
+      "description": "Trwale usuń wszystkie swoje dane."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Hasło",
+    "confirmPassword": "Potwierdź hasło",
+    "fullName": "Pełne imię i nazwisko",
+    "dateOfBirth": "Data urodzenia",
+    "occupation": "Zawód",
+    "phone": "Telefon",
+    "chat": "Wpisz wiadomość..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Hasło",
+    "confirmPassword": "Potwierdź hasło",
+    "fullName": "Pełne imię i nazwisko",
+    "dateOfBirth": "DD / MM / RRRR",
+    "occupation": "Zawód",
+    "phone": "Telefon",
+    "chat": "Wpisz wiadomość..."
+  },
+  "form": {
+    "validation": {
+      "required": "To pole jest wymagane",
+      "password": "Hasło musi zawierać co najmniej 8 znaków, 1 wielką literę, 1 małą literę i 1 cyfrę",
+      "passwordLength": "Hasło musi mieć co najmniej 8 znaków",
+      "passwordsMatch": "Hasła nie pasują do siebie",
+      "minLength": "To pole musi mieć co najmniej {0} znaków",
+      "maxLength": "To pole nie może mieć więcej niż {0} znaków",
+      "pattern": "To pole jest nieprawidłowe",
+      "email": "To pole musi być prawidłowym adresem e-mail",
+      "date": "To pole musi być poprawną datą",
+      "dateOfBirth": "Wprowadź datę w formacie DD-MM-RRRR",
+      "dateISO": "To pole musi być prawidłową datą (ISO)",
+      "number": "To pole musi być poprawną liczbą",
+      "digits": "To pole musi zawierać cyfry",
+      "min": "To pole musi mieć co najmniej {0}",
+      "max": "To pole nie może być większe niż {0}",
+      "bio": "Czy chciałbyś żyć... min 125 znaków",
+      "phone": "Podaj prawidłowy numer telefonu."
+    }
+  },
+  "newChatMessage": "Jesteś teraz połączony!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Będziesz mieszkać w",
+        "specialNeeds": "Dodatkowa pomoc, którą otrzymasz",
+        "bio": "Kim są ludzie, z którymi będziesz mieszkać?",
+        "members": "Kim oni naprawdę są?",
+        "languages": "W jakich językach mówią?"
+      },
+      "specialNeeds": {
+        "cat": "Przyjazny dla kotów",
+        "dog": "Przyjazny psom",
+        "otherPet": "Przyjazny dla zwierząt?",
+        "transport": "Pomoc w transporcie",
+        "financialHelp": "Pomoc finansowa",
+        "child": "Przyjazny dla dzieci",
+        "disabled": "Wyłączone"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Specjalne wymagania",
+        "bio": "Kim są ludzie, którzy potrzebują Twojej pomocy?",
+        "members": "Kim oni naprawdę są?",
+        "languages": "W jakich językach mówią?"
+      },
+      "specialNeeds": {
+        "cat": "Kot",
+        "dog": "Pies",
+        "otherPet": "Zwierzak domowy",
+        "transport": "Transport",
+        "financialHelp": "Pomoc finansowa",
+        "child": "Dziecko",
+        "disabled": "Wyłączone"
+      }
+    },
+    "match": {
+      "title": "To pasuje!",
+      "description": "Oboje zgodziliście się dzielić ze sobą dom przez jakiś czas. Omówmy szczegóły."
+    },
+    "connectionRequests": {
+      "title": "Prośby o połączenie",
+      "description": "Osoby, które chciałyby Ci pomóc."
+    },
+    "matches": {
+      "title": "mecze",
+      "description": "Ludzie, z którymi oboje zgodziliście się na pomoc."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 członek",
+      "numberOfMembers_other": "{{count}} członków"
+    },
+    "detail": {
+      "title": "Szczegóły meczu:",
+      "description": "Szczegóły meczu.",
+      "goBack": "Wróć",
+      "contact": {
+        "email": "E-mail",
+        "call": "Dzwonić"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Naszą misją jest łączenie uchodźców ukraińskich z gospodarzami oferującymi pomoc w sposób rzetelny i skuteczny."
+    }
+  }
+}

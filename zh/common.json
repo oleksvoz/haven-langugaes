@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "我们是谁？",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "继续",
+  "askForHelp": "请求帮忙",
+  "offerHelp": "给于帮助",
+  "back": "后退",
+  "backToStart": "返回开始",
+  "close": "关闭",
+  "add": "添加",
+  "save": "保存",
+  "searchHosts": "搜索",
+  "submit": "提交",
+  "submitting": "提交",
+  "connections": "连接",
+  "noHostsLeft": "您已经看到与您的个人资料匹配的所有可用主机。",
+  "noCandidatesLeft": "您已经看到与您的个人资料匹配的所有组。",
+  "noHostsSuggestions": "没有符合您需求的主机。当有新的时，我们会通知您。",
+  "noCandidateSuggestions": "没有符合您需求的难民团体。当有新的时，我们会通知您。",
+  "call": "称呼",
+  "sendEmail": "发送电子邮件",
+  "showProfile": "显示个人资料",
+  "selectLanguage": "选择你的语言",
+  "auth": {
+    "login": {
+      "title": "登录",
+      "description": "请登录访问更多内容。",
+      "button": {
+        "label": "登录",
+        "loadingText": "正在加载"
+      },
+      "forgotPassword": "忘记密码了吗？"
+    },
+    "logout": "登出",
+    "confirmationSuccess": {
+      "title": "成功！",
+      "description": "您的电子邮件已得到确认。",
+      "ctaLabel": "继续使用该应用程序"
+    },
+    "forgotPassword": {
+      "title": "忘记密码",
+      "description": "请输入您的电子邮件以重置您的密码。",
+      "button": {
+        "label": "提交",
+        "loadingText": "提交"
+      },
+      "login": "寻找登录？",
+      "successTitle": "检查您的邮箱",
+      "successDescription": "我们已向您发送一封电子邮件，其中包含重置密码的链接。"
+    },
+    "resetPassword": {
+      "title": "重设密码",
+      "description": "请输入新密码。",
+      "button": {
+        "label": "提交",
+        "loadingText": "提交"
+      },
+      "login": "寻找登录？",
+      "successTitle": "成功！",
+      "successDescription": "您的密码已被更改。"
+    },
+    "deleteAccount": {
+      "label": "删除帐户",
+      "confirmation": "您即将删除此应用程序上的所有数据。你想继续吗？",
+      "successTitle": "帐号已删除。",
+      "successDescription": "我们已删除与您的帐户相关的所有数据。",
+      "title": "删除帐户",
+      "description": "永久删除您的所有数据。"
+    }
+  },
+  "labels": {
+    "email": "电子邮件",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "fullName": "全名",
+    "dateOfBirth": "出生日期",
+    "occupation": "职业",
+    "phone": "电话",
+    "chat": "键入消息..."
+  },
+  "placeholders": {
+    "email": "电子邮件",
+    "password": "密码",
+    "confirmPassword": "确认密码",
+    "fullName": "全名",
+    "dateOfBirth": "DD-MM-YYYY",
+    "occupation": "职业",
+    "phone": "电话",
+    "chat": "键入消息..."
+  },
+  "form": {
+    "validation": {
+      "required": "这是必填栏",
+      "password": "密码必须至少包含 8 个字符，1 个大写字母，1 个小写字母和 1 个数字",
+      "passwordLength": "密码长度必须至少为 8 个字符",
+      "passwordsMatch": "密码不匹配",
+      "minLength": "此字段必须至少有 {0} 个字符长",
+      "maxLength": "此字段的长度不得超过 {0} 个字符",
+      "pattern": "此字段无效",
+      "email": "此字段必须是有效的电子邮件地址",
+      "date": "此字段必须是有效日期",
+      "dateOfBirth": "请以 DD-MM-YYYY 格式输入日期",
+      "dateISO": "此字段必须是有效日期 (ISO)",
+      "number": "此字段必须是有效数字",
+      "digits": "该字段必须是数字",
+      "min": "此字段必须至少为 {0}",
+      "max": "此字段不得超过 {0}",
+      "bio": "你愿意活下去吗……最少 125 个字符",
+      "phone": "请提供有效的电话号码。"
+    }
+  },
+  "newChatMessage": "您现在已连接！",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "你将住在",
+        "specialNeeds": "您将获得的额外帮助",
+        "bio": "你会和谁一起生活？",
+        "members": "他们究竟是谁？",
+        "languages": "他们说什么语言？"
+      },
+      "specialNeeds": {
+        "cat": "猫友好",
+        "dog": "狗友好",
+        "otherPet": "宠物友好",
+        "transport": "交通帮助",
+        "financialHelp": "财务帮助",
+        "child": "儿童友好",
+        "disabled": "已禁用"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "特殊要求",
+        "bio": "谁是需要你帮助的人？",
+        "members": "他们究竟是谁？",
+        "languages": "他们说什么语言？"
+      },
+      "specialNeeds": {
+        "cat": "猫",
+        "dog": "狗",
+        "otherPet": "宠物",
+        "transport": "运输",
+        "financialHelp": "财务帮助",
+        "child": "孩子",
+        "disabled": "已禁用"
+      }
+    },
+    "match": {
+      "title": "这是一场比赛！",
+      "description": "你们俩都同意一起住一段时间。让我们讨论一下细节。"
+    },
+    "connectionRequests": {
+      "title": "连接请求",
+      "description": "愿意帮助你的人。"
+    },
+    "matches": {
+      "title": "火柴",
+      "description": "你们都同意帮助的人。"
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 名成员",
+      "numberOfMembers_other": "{{count}} 名成员"
+    },
+    "detail": {
+      "title": "比赛详情：",
+      "description": "比赛细节。",
+      "goBack": "回去",
+      "contact": {
+        "email": "电子邮件",
+        "call": "称呼"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "我们的使命是将乌克兰难民与以可靠和有效的方式提供帮助的东道主联系起来。"
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "es...",
+    "description": "Izvēlieties to, kas raksturo jūsu nodomu",
+    "candidate": {
+      "title": "vajag vietu",
+      "description": "Atrodi pagaidu pajumti"
+    },
+    "host": {
+      "title": "gribu palīdzēt",
+      "description": "Nodrošiniet kādam mājas"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "Kurā valstī?",
+      "description": "Atlasītās vērtības ir melnas",
+      "any": "Jebkurā valstī"
+    },
+    "duration": {
+      "title": "Cik ilgi?",
+      "description": "Atlasītās vērtības ir melnas",
+      "options": {
+        "days": "1-3 dienas",
+        "weeks": "1-2 nedēļas",
+        "months": "1-3 mēneši",
+        "unknown": "Es vēl nezinu"
+      }
+    },
+    "transport": {
+      "title": "Vai jūs varat tur nokļūt?",
+      "description": "Vai jūs varat tur nokļūt saviem spēkiem?",
+      "options": {
+        "car": "Jā, man ir mašīna",
+        "publicTransport": "Jā, varu braukt ar sabiedrisko transportu",
+        "transport": "Nē, mani jāpaņem"
+      }
+    },
+    "specialNeeds": {
+      "title": "Vai ceļojat ar šiem?",
+      "description": "Paziņojiet savam saimniekam par jūsu īpašajām vajadzībām.",
+      "options": {
+        "dog": "Jā, man līdzi ir suns",
+        "cat": "Jā, man līdzi ir kaķis",
+        "child": "Mazulis",
+        "disabled": "Atspējots",
+        "otherPet": "Man ir cits mājdzīvnieks"
+      }
+    },
+    "finances": {
+      "title": "Kādas jums ir finanses?",
+      "description": "Mums attiecīgi jāsaskaņo jūs ar jūsu saimnieku.",
+      "options": {
+        "coverCosts": "Dažas izmaksas varu segt",
+        "financialSupport": "Es meklēju pilnu atbalstu"
+      }
+    },
+    "language": {
+      "title": "Kā tu vari runāt?",
+      "description": "Atlasiet visas valodas, kurās runā jūsu ģimenes locekļi."
+    },
+    "auth": {
+      "title": "Kā mēs varam jūs identificēt?",
+      "description": "Lūdzu, ievadiet informāciju, ar kuru vēlaties pieteikties."
+    },
+    "identity": {
+      "title": "Kas tu esi?",
+      "description": "Lūdzu, aizpildiet savus datus, lai cilvēki varētu saprast, kas jūs esat.",
+      "imageDescription": "Vai jūs dalītos mājās ar kādu, kuru jūs nekad iepriekš neesat redzējis?"
+    },
+    "bio": {
+      "title": "Kāda ir tava ģimene?",
+      "description": "Ļaujiet viņiem uzzināt vairāk par jūsu ģimeni.",
+      "textareaPlaceholder": "Uzraksti dažus teikumus par savu ģimeni..."
+    },
+    "members": {
+      "title": "Ar ko jūs ceļojat?",
+      "description": "Lūdzu, aizpildiet informāciju par saviem ģimenes locekļiem, ar kuriem ceļojat. Ja ceļojat viens, vienkārši noklikšķiniet uz Turpināt.",
+      "buttonLabel": "Pievienojiet dalībniekus",
+      "drawer": {
+        "title": "Pievienojiet ģimenes locekli",
+        "description": "Ievadiet informāciju par ģimenes locekli, ar kuru ceļojat.",
+        "imageDescription": "Vai jūs dalītos mājās ar kādu, kuru jūs nekad iepriekš neesat redzējis?",
+        "groupPositionLabel": "Attiecības",
+        "groupPositionPlaceholder": "Tēvs, meita, vecmāmiņa"
+      }
+    },
+    "photos": {
+      "title": "Kā tu izskaties?",
+      "description": "Lūdzu, augšupielādējiet vismaz 3 fotoattēlus ar sevi un cilvēkiem, kuriem meklējat patvērumu."
+    },
+    "wellDone": {
+      "title": "Labi padarīts!",
+      "description": "Mums ir filtrēti saimnieki, kas atbilst jūsu vajadzībām. Tagad ir jūsu kārta izlemt, pamatojoties uz viņu profilu.",
+      "shareOnFacebook": "Dalīties Facebook",
+      "shareOnInstagram": "Kopīgojiet Instagram",
+      "finishButton": "Skatiet atbilstošos saimniekus"
+    },
+    "summary": {
+      "title": "Vai viss ir pareizi?",
+      "description": "Lūdzu, pārskatiet savas atbildes pirms iesniegšanas.",
+      "intention": "Meklēju pagaidu pajumti.",
+      "country": {
+        "title": "Kurā valstī?",
+        "any": "Jebkurā valstī"
+      },
+      "duration": {
+        "title": "Cik ilgi?",
+        "options": {
+          "days": "1-3 dienas",
+          "weeks": "1-2 nedēļas",
+          "months": "1-3 mēneši",
+          "unknown": "Es vēl nezinu"
+        }
+      },
+      "transport": {
+        "title": "Vai jūs varat tur nokļūt?",
+        "options": {
+          "car": "Jā, man ir mašīna",
+          "publicTransport": "Jā, varu braukt ar sabiedrisko transportu",
+          "transport": "Nē, mani jāpaņem"
+        }
+      },
+      "specialNeeds": {
+        "title": "Vai ceļojat ar šiem?",
+        "options": {
+          "dog": "Suns",
+          "cat": "kat",
+          "child": "Mazulis",
+          "disabled": "Atspējots",
+          "otherPet": "Man ir cits mājdzīvnieks"
+        }
+      },
+      "finances": {
+        "title": "Kādas jums ir finanses?",
+        "options": {
+          "coverCosts": "Dažas izmaksas varu segt",
+          "financialSupport": "Es meklēju pilnu atbalstu"
+        }
+      },
+      "language": {
+        "title": "Kā tu vari runāt?"
+      },
+      "auth": {
+        "title": "Kā mēs varam jūs identificēt?"
+      },
+      "identity": {
+        "title": "Kas tu esi?"
+      },
+      "bio": {
+        "title": "Kāda ir tava ģimene?"
+      },
+      "members": {
+        "title": "Ar ko jūs ceļojat?",
+        "buttonLabel": "Pievienojiet dalībniekus"
+      },
+      "photos": {
+        "title": "Kā tu izskaties?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "Kurā valstī?",
+      "description": "Atlasītās vērtības ir melnas",
+      "any": "Jebkurā valstī"
+    },
+    "places": {
+      "title": "Cik cilvēkiem?",
+      "description": "Ievadiet vietu skaitu, ko varat piedāvāt."
+    },
+    "duration": {
+      "title": "Cik ilgi?",
+      "description": "Izvēlieties periodu, kurā viņi drīkst uzturēties jūsu mājās.",
+      "options": {
+        "days": "1-3 dienas",
+        "weeks": "1-2 nedēļas",
+        "months": "1-3 mēneši",
+        "any": "Tik ilgi, cik nepieciešams",
+        "unknown": "Es vēl nezinu"
+      }
+    },
+    "transport": {
+      "title": "Vai jūs varat tos savākt?",
+      "description": "Vai jūs varat braukt līdz robežai?",
+      "options": {
+        "transport": "Jā, man ir mašīna",
+        "none": "Nē, mums ir jāatrod cits veids"
+      }
+    },
+    "specialNeeds": {
+      "title": "Vai jūs pieņemtu šos?",
+      "description": "Atlasiet visas opcijas, kurām esat atvērts.",
+      "options": {
+        "dog": "Suns",
+        "cat": "kat",
+        "child": "Mazulis",
+        "disabled": "Atspējots",
+        "otherPet": "Cits mājdzīvnieks"
+      }
+    },
+    "finances": {
+      "title": "Kādu atbalstu jūs varat piedāvāt?",
+      "description": "Lūdzu, apsveriet savu finansiālo stāvokli un izvēlieties kādu no tālāk norādītajām iespējām.",
+      "options": {
+        "coverCosts": "Varu sniegt pilnu atbalstu",
+        "financialSupport": "Es ceru, ka viņi segs dažas izmaksas"
+      }
+    },
+    "language": {
+      "title": "Kā tu vari runāt?",
+      "description": "Atlasiet visas valodas, kurās runā jūsu ģimenes locekļi."
+    },
+    "auth": {
+      "title": "Kā mēs varam jūs identificēt?",
+      "description": "Lūdzu, ievadiet informāciju, ar kuru vēlaties pieteikties."
+    },
+    "identity": {
+      "title": "Kas tu esi?",
+      "description": "Lūdzu, aizpildiet savus datus, lai cilvēki varētu saprast, kas jūs esat.",
+      "imageDescription": "Vai jūs dalītos mājās ar kādu, kuru jūs nekad iepriekš neesat redzējis?"
+    },
+    "bio": {
+      "title": "Kāda ir tava ģimene?",
+      "description": "Ļaujiet viņiem uzzināt vairāk par jūsu ģimeni.",
+      "textareaPlaceholder": "Uzraksti dažus teikumus par savu ģimeni..."
+    },
+    "members": {
+      "title": "Ar ko vēl viņi dzīvos?",
+      "description": "Varat aprakstīt citus cilvēkus, ar kuriem koplietojat savu māju. Ja dzīvojat viens vai nevēlaties dalīties ar šo informāciju, vienkārši turpiniet.",
+      "buttonLabel": "Pievienojiet dalībniekus",
+      "drawer": {
+        "title": "Pievienojiet ģimenes locekli",
+        "description": "Ievadiet informāciju par ģimenes locekli, ar kuru ceļojat.",
+        "imageDescription": "Vai jūs dalītos mājās ar kādu, kuru jūs nekad iepriekš neesat redzējis?",
+        "groupPositionPlaceholder": "Tēvs, meita, vecmāmiņa"
+      }
+    },
+    "photos": {
+      "title": "Kā tu izskaties?",
+      "description": "Varat augšupielādēt vēl dažus savas ģimenes fotoattēlus."
+    },
+    "wellDone": {
+      "title": "Labi padarīts!",
+      "description": "Mēs esam atraduši jums dažas atbilstošas bēgļu grupas. Tagad ir jūsu kārta pieņemt lēmumu, pamatojoties uz viņu profilu.",
+      "shareOnFacebook": "Dalīties Facebook",
+      "shareOnInstagram": "Kopīgojiet Instagram",
+      "finishButton": "Skatīt atbilstošās grupas"
+    },
+    "summary": {
+      "title": "Vai viss ir pareizi?",
+      "description": "Lūdzu, pārskatiet savas atbildes pirms iesniegšanas.",
+      "intention": "Vēlos kādam nodrošināt mājas.",
+      "country": {
+        "title": "Kurā valstī?",
+        "any": "Jebkurā valstī"
+      },
+      "places": {
+        "title": "Cik cilvēkiem?"
+      },
+      "duration": {
+        "title": "Cik ilgi?",
+        "options": {
+          "days": "1-3 dienas",
+          "weeks": "1-2 nedēļas",
+          "months": "1-3 mēneši",
+          "any": "Tik ilgi, cik nepieciešams",
+          "unknown": "Es vēl nezinu"
+        }
+      },
+      "transport": {
+        "title": "Vai jūs varat tos savākt?",
+        "options": {
+          "transport": "Jā, man ir mašīna",
+          "none": "Nē, mums ir jāatrod cits veids"
+        }
+      },
+      "specialNeeds": {
+        "title": "Vai jūs pieņemtu šos?",
+        "options": {
+          "dog": "Suns",
+          "cat": "kat",
+          "child": "Mazulis",
+          "disabled": "Atspējots",
+          "otherPet": "Cits mājdzīvnieks"
+        }
+      },
+      "finances": {
+        "title": "Kādu atbalstu jūs varat piedāvāt?",
+        "options": {
+          "coverCosts": "Varu sniegt pilnu atbalstu",
+          "financialSupport": "Es ceru, ka viņi segs dažas izmaksas"
+        }
+      },
+      "language": {
+        "title": "Kā tu vari runāt?"
+      },
+      "auth": {
+        "title": "Kā mēs varam jūs identificēt?"
+      },
+      "identity": {
+        "title": "Kas tu esi?"
+      },
+      "bio": {
+        "title": "Kāda ir tava ģimene?",
+        "textareaPlaceholder": "Uzraksti dažus teikumus par savu ģimeni..."
+      },
+      "members": {
+        "title": "Ar ko vēl viņi dzīvos?",
+        "buttonLabel": "Pievienojiet dalībniekus",
+        "drawer": {
+          "title": "Pievienojiet ģimenes locekli",
+          "imageDescription": "Vai jūs dalītos mājās ar kādu, kuru jūs nekad iepriekš neesat redzējis?",
+          "groupPositionPlaceholder": "Tēvs, meita, vecmāmiņa"
+        }
+      },
+      "photos": {
+        "title": "Kā tu izskaties?"
+      }
+    }
+  }
+}

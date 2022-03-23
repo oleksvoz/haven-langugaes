@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "minä...",
+    "description": "Valitse mikä kuvaa aikomustasi",
+    "candidate": {
+      "title": "tarvitsevat paikan",
+      "description": "Etsi väliaikainen suoja"
+    },
+    "host": {
+      "title": "haluaa auttaa",
+      "description": "Tarjoa koti jollekin"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "missä maassa?",
+      "description": "Valitut arvot ovat mustia",
+      "any": "Missä tahansa maassa"
+    },
+    "duration": {
+      "title": "Kuinka pitkään?",
+      "description": "Valitut arvot ovat mustia",
+      "options": {
+        "days": "1-3 päivää",
+        "weeks": "1-2 viikkoa",
+        "months": "1-3 kuukautta",
+        "unknown": "En tiedä vielä"
+      }
+    },
+    "transport": {
+      "title": "Voitko päästä sinne?",
+      "description": "Pääseekö sinne omatoimisesti?",
+      "options": {
+        "car": "Kyllä, minulla on auto",
+        "publicTransport": "Kyllä, voin käyttää julkista liikennettä",
+        "transport": "Ei, minut on noudettava"
+      }
+    },
+    "specialNeeds": {
+      "title": "Matkusteletko näiden kanssa?",
+      "description": "Kerro isännöitsijällesi erityistarpeistasi.",
+      "options": {
+        "dog": "Kyllä, minulla on koira mukana",
+        "cat": "Kyllä, minulla on kissa mukana",
+        "child": "Vauva",
+        "disabled": "Liikuntarajoitteinen",
+        "otherPet": "Minulla on toinen lemmikki"
+      }
+    },
+    "finances": {
+      "title": "Millainen talous sinulla on?",
+      "description": "Meidän on sovitettava sinut isäntaasi vastaavasti.",
+      "options": {
+        "coverCosts": "Voin kattaa osan kuluista",
+        "financialSupport": "Etsin täyttä tukea"
+      }
+    },
+    "language": {
+      "title": "Kuinka voit puhua?",
+      "description": "Valitse kaikki kielet, joita perheenjäsenesi puhuvat."
+    },
+    "auth": {
+      "title": "Kuinka voimme tunnistaa sinut?",
+      "description": "Ilmoita tiedot, joilla haluat kirjautua."
+    },
+    "identity": {
+      "title": "Kuka sinä olet?",
+      "description": "Täytä tietosi, jotta ihmiset saavat käsityksen siitä, kuka olet.",
+      "imageDescription": "Jakaisitko kodin jonkun kanssa, jota et ole koskaan ennen nähnyt?"
+    },
+    "bio": {
+      "title": "Millainen sinun perheesi on?",
+      "description": "Kerro heille enemmän perheestäsi.",
+      "textareaPlaceholder": "Kirjoita muutama lause perheestäsi..."
+    },
+    "members": {
+      "title": "Kenen kanssa matkustat?",
+      "description": "Täytä tiedot perheenjäsenistäsi, joiden kanssa matkustat. Jos matkustat yksin, napsauta jatka.",
+      "buttonLabel": "Lisää jäseniä",
+      "drawer": {
+        "title": "Lisää perheenjäsen",
+        "description": "Täytä perheenjäsenen tiedot, jonka kanssa matkustat.",
+        "imageDescription": "Jakaisitko kodin jonkun kanssa, jota et ole koskaan nähnyt?",
+        "groupPositionLabel": "Suhde",
+        "groupPositionPlaceholder": "Isä, tytär, isoäiti"
+      }
+    },
+    "photos": {
+      "title": "Miltä näytät?",
+      "description": "Lataa vähintään 3 kuvaa itsestäsi ja ihmisistä, joille etsit suojaa."
+    },
+    "wellDone": {
+      "title": "Hyvin tehty!",
+      "description": "Meillä on tarpeitasi vastaavat isännät. Nyt on sinun vuorosi päättää heidän profiilinsa perusteella.",
+      "shareOnFacebook": "Jaa Facebookissa",
+      "shareOnInstagram": "Jaa Instagramissa",
+      "finishButton": "Katso vastaavat isännät"
+    },
+    "summary": {
+      "title": "Onko kaikki oikein?",
+      "description": "Tarkista vastauksesi ennen lähettämistä.",
+      "intention": "Etsin väliaikaista turvapaikkaa.",
+      "country": {
+        "title": "missä maassa?",
+        "any": "Missä tahansa maassa"
+      },
+      "duration": {
+        "title": "Kuinka pitkään?",
+        "options": {
+          "days": "1-3 päivää",
+          "weeks": "1-2 viikkoa",
+          "months": "1-3 kuukautta",
+          "unknown": "En tiedä vielä"
+        }
+      },
+      "transport": {
+        "title": "Voitko päästä sinne?",
+        "options": {
+          "car": "Kyllä, minulla on auto",
+          "publicTransport": "Kyllä, voin käyttää julkista liikennettä",
+          "transport": "Ei, minut on noudettava"
+        }
+      },
+      "specialNeeds": {
+        "title": "Matkusteletko näiden kanssa?",
+        "options": {
+          "dog": "Koira",
+          "cat": "Kissa",
+          "child": "Vauva",
+          "disabled": "Liikuntarajoitteinen",
+          "otherPet": "Minulla on toinen lemmikki"
+        }
+      },
+      "finances": {
+        "title": "Millainen talous sinulla on?",
+        "options": {
+          "coverCosts": "Voin kattaa osan kuluista",
+          "financialSupport": "Etsin täyttä tukea"
+        }
+      },
+      "language": {
+        "title": "Kuinka voit puhua?"
+      },
+      "auth": {
+        "title": "Kuinka voimme tunnistaa sinut?"
+      },
+      "identity": {
+        "title": "Kuka sinä olet?"
+      },
+      "bio": {
+        "title": "Millainen sinun perheesi on?"
+      },
+      "members": {
+        "title": "Kenen kanssa matkustat?",
+        "buttonLabel": "Lisää jäseniä"
+      },
+      "photos": {
+        "title": "Miltä näytät?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "missä maassa?",
+      "description": "Valitut arvot ovat mustia",
+      "any": "Missä tahansa maassa"
+    },
+    "places": {
+      "title": "Kuinka monelle ihmiselle?",
+      "description": "Anna tarjottavien paikkojen määrä."
+    },
+    "duration": {
+      "title": "Kuinka kauan?",
+      "description": "Valitse aika, jonka he voivat oleskella kotonasi.",
+      "options": {
+        "days": "1-3 päivää",
+        "weeks": "1-2 viikkoa",
+        "months": "1-3 kuukautta",
+        "any": "Niin kauan kuin on tarpeen",
+        "unknown": "En tiedä vielä"
+      }
+    },
+    "transport": {
+      "title": "Voitko poimia ne?",
+      "description": "Voitko ajaa rajalle?",
+      "options": {
+        "transport": "Kyllä, minulla on auto",
+        "none": "Ei, meidän on löydettävä toinen tapa"
+      }
+    },
+    "specialNeeds": {
+      "title": "Hyväksytkö nämä?",
+      "description": "Valitse kaikki vaihtoehdot, joille olet avoin.",
+      "options": {
+        "dog": "Koira",
+        "cat": "Kissa",
+        "child": "Vauva",
+        "disabled": "Liikuntarajoitteinen",
+        "otherPet": "Muu lemmikki"
+      }
+    },
+    "finances": {
+      "title": "Mitä tukea voit tarjota?",
+      "description": "Mieti taloudellista tilannettasi ja valitse jokin seuraavista.",
+      "options": {
+        "coverCosts": "Voin tarjota täyden tuen",
+        "financialSupport": "Odotan niiden kattavan osan kuluista"
+      }
+    },
+    "language": {
+      "title": "Kuinka voit puhua?",
+      "description": "Valitse kaikki kielet, joita perheenjäsenesi puhuvat."
+    },
+    "auth": {
+      "title": "Kuinka voimme tunnistaa sinut?",
+      "description": "Ilmoita tiedot, joilla haluat kirjautua."
+    },
+    "identity": {
+      "title": "Kuka sinä olet?",
+      "description": "Täytä tietosi, jotta ihmiset saavat käsityksen siitä, kuka olet.",
+      "imageDescription": "Jakaisitko kodin jonkun kanssa, jota et ole koskaan ennen nähnyt?"
+    },
+    "bio": {
+      "title": "Millainen sinun perheesi on?",
+      "description": "Kerro heille enemmän perheestäsi.",
+      "textareaPlaceholder": "Kirjoita muutama lause perheestäsi..."
+    },
+    "members": {
+      "title": "Kenen muun kanssa he asuvat?",
+      "description": "Voit kuvailla muita ihmisiä, joiden kanssa jaat kotisi. Jos asut yksin tai et halua jakaa tätä, jatka vain.",
+      "buttonLabel": "Lisää jäseniä",
+      "drawer": {
+        "title": "Lisää perheenjäsen",
+        "description": "Täytä perheenjäsenen tiedot, jonka kanssa matkustat.",
+        "imageDescription": "Jakaisitko kodin jonkun kanssa, jota et ole koskaan ennen nähnyt?",
+        "groupPositionPlaceholder": "Isä, tytär, isoäiti"
+      }
+    },
+    "photos": {
+      "title": "Miltä näytät?",
+      "description": "Voit ladata lisää kuvia perheestäsi."
+    },
+    "wellDone": {
+      "title": "Hyvin tehty!",
+      "description": "Olemme löytäneet sinulle sopivia pakolaisryhmiä. Nyt on sinun vuorosi päättää heidän profiilinsa perusteella.",
+      "shareOnFacebook": "Jaa Facebookissa",
+      "shareOnInstagram": "Jaa Instagramissa",
+      "finishButton": "Katso vastaavat ryhmät"
+    },
+    "summary": {
+      "title": "Onko kaikki oikein?",
+      "description": "Tarkista vastauksesi ennen lähettämistä.",
+      "intention": "Haluan tarjota kodin jollekin.",
+      "country": {
+        "title": "missä maassa?",
+        "any": "Missä tahansa maassa"
+      },
+      "places": {
+        "title": "Kuinka monelle ihmiselle?"
+      },
+      "duration": {
+        "title": "Kuinka kauan?",
+        "options": {
+          "days": "1-3 päivää",
+          "weeks": "1-2 viikkoa",
+          "months": "1-3 kuukautta",
+          "any": "Niin kauan kuin on tarpeen",
+          "unknown": "En tiedä vielä"
+        }
+      },
+      "transport": {
+        "title": "Voitko poimia ne?",
+        "options": {
+          "transport": "Kyllä, minulla on auto",
+          "none": "Ei, meidän on löydettävä toinen tapa"
+        }
+      },
+      "specialNeeds": {
+        "title": "Hyväksytkö nämä?",
+        "options": {
+          "dog": "Koira",
+          "cat": "Kissa",
+          "child": "Vauva",
+          "disabled": "Liikuntarajoitteinen",
+          "otherPet": "Muu lemmikki"
+        }
+      },
+      "finances": {
+        "title": "Mitä tukea voit tarjota?",
+        "options": {
+          "coverCosts": "Voin tarjota täyden tuen",
+          "financialSupport": "Odotan niiden kattavan osan kuluista"
+        }
+      },
+      "language": {
+        "title": "Kuinka voit puhua?"
+      },
+      "auth": {
+        "title": "Kuinka voimme tunnistaa sinut?"
+      },
+      "identity": {
+        "title": "Kuka sinä olet?"
+      },
+      "bio": {
+        "title": "Millainen sinun perheesi on?",
+        "textareaPlaceholder": "Kirjoita muutama lause perheestäsi..."
+      },
+      "members": {
+        "title": "Kenen muun kanssa he asuvat?",
+        "buttonLabel": "Lisää jäseniä",
+        "drawer": {
+          "title": "Lisää perheenjäsen",
+          "imageDescription": "Jakaisitko kodin jonkun kanssa, jota et ole koskaan ennen nähnyt?",
+          "groupPositionPlaceholder": "Isä, tytär, isoäiti"
+        }
+      },
+      "photos": {
+        "title": "Miltä näytät?"
+      }
+    }
+  }
+}

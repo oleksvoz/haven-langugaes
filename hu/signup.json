@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "ÉN...",
+    "description": "Válassza ki, mi jellemzi szándékát",
+    "candidate": {
+      "title": "kell egy hely",
+      "description": "Keress egy ideiglenes menedéket"
+    },
+    "host": {
+      "title": "segíteni akarok",
+      "description": "Adj otthont valakinek"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "melyik országban?",
+      "description": "A kiválasztott értékek feketék",
+      "any": "Bármely országban"
+    },
+    "duration": {
+      "title": "Meddíg?",
+      "description": "A kiválasztott értékek feketék",
+      "options": {
+        "days": "1-3 nap",
+        "weeks": "1-2 hét",
+        "months": "1-3 hónap",
+        "unknown": "még nem tudom"
+      }
+    },
+    "transport": {
+      "title": "el tudsz jutni?",
+      "description": "El tudsz jutni egyedül?",
+      "options": {
+        "car": "Igen, van autóm",
+        "publicTransport": "Igen, használhatom a tömegközlekedést",
+        "transport": "Nem, fel kell venni"
+      }
+    },
+    "specialNeeds": {
+      "title": "Utazni ezekkel?",
+      "description": "Tájékoztassa házigazdáját az Ön speciális igényeiről.",
+      "options": {
+        "dog": "Igen, van velem egy kutya",
+        "cat": "Igen, van velem egy macska",
+        "child": "Baba",
+        "disabled": "Tiltva",
+        "otherPet": "Van egy másik házi kedvencem"
+      }
+    },
+    "finances": {
+      "title": "Milyen pénzügyeid vannak?",
+      "description": "Ennek megfelelően össze kell egyeztetnünk a házigazdával.",
+      "options": {
+        "coverCosts": "Néhány költséget tudok fedezni",
+        "financialSupport": "Teljes támogatást keresek"
+      }
+    },
+    "language": {
+      "title": "hogy tudsz beszélni?",
+      "description": "Válassza ki az összes nyelvet, amelyet családtagjai beszélnek."
+    },
+    "auth": {
+      "title": "Hogyan azonosíthatjuk Önt?",
+      "description": "Kérjük, adja meg azokat az adatokat, amelyekkel szeretne bejelentkezni."
+    },
+    "identity": {
+      "title": "Ki vagy te?",
+      "description": "Kérjük, adja meg adatait, hogy az emberek képet kapjanak arról, ki vagy.",
+      "imageDescription": "Megosztaná otthonát valakivel, akit még soha nem látott?"
+    },
+    "bio": {
+      "title": "Milyen a családod?",
+      "description": "Tudassa meg velük többet a családjáról.",
+      "textareaPlaceholder": "Írj pár mondatot a családodról..."
+    },
+    "members": {
+      "title": "kivel utazol?",
+      "description": "Kérjük, adja meg családtagjainak adatait, akikkel utazik. Ha egyedül utazik, kattintson a Tovább gombra.",
+      "buttonLabel": "Tagok hozzáadása",
+      "drawer": {
+        "title": "Családtag hozzáadása",
+        "description": "Adja meg annak a családtagnak az adatait, akivel utazik.",
+        "imageDescription": "Megosztaná otthonát valakivel, akit még soha nem látott?",
+        "groupPositionLabel": "Kapcsolat",
+        "groupPositionPlaceholder": "Apa, lánya, nagymama"
+      }
+    },
+    "photos": {
+      "title": "Hogy nézel ki?",
+      "description": "Kérjük, töltsön fel legalább 3 fotót magadról és azokról, akiknek menedéket keres."
+    },
+    "wellDone": {
+      "title": "Szép munka!",
+      "description": "Olyan szűrt házigazdáink vannak, amelyek megfelelnek az Ön igényeinek. Most rajtad a sor, hogy a profiljuk alapján döntsön.",
+      "shareOnFacebook": "Megosztani Facebookon",
+      "shareOnInstagram": "Oszd meg az Instagramon",
+      "finishButton": "Lásd a megfelelő házigazdákat"
+    },
+    "summary": {
+      "title": "Minden helyes?",
+      "description": "Kérjük, küldje el válaszait.",
+      "intention": "Ideiglenes menedéket keresek.",
+      "country": {
+        "title": "melyik országban?",
+        "any": "Bármely országban"
+      },
+      "duration": {
+        "title": "Meddíg?",
+        "options": {
+          "days": "1-3 nap",
+          "weeks": "1-2 hét",
+          "months": "1-3 hónap",
+          "unknown": "még nem tudom"
+        }
+      },
+      "transport": {
+        "title": "el tudsz jutni?",
+        "options": {
+          "car": "Igen, van autóm",
+          "publicTransport": "Igen, használhatom a tömegközlekedést",
+          "transport": "Nem, fel kell venni"
+        }
+      },
+      "specialNeeds": {
+        "title": "Utazni ezekkel?",
+        "options": {
+          "dog": "Kutya",
+          "cat": "Macska",
+          "child": "Baba",
+          "disabled": "Tiltva",
+          "otherPet": "Van egy másik házi kedvencem"
+        }
+      },
+      "finances": {
+        "title": "Milyen pénzügyeid vannak?",
+        "options": {
+          "coverCosts": "Néhány költséget tudok fedezni",
+          "financialSupport": "Teljes támogatást keresek"
+        }
+      },
+      "language": {
+        "title": "hogy tudsz beszélni?"
+      },
+      "auth": {
+        "title": "Hogyan azonosíthatjuk Önt?"
+      },
+      "identity": {
+        "title": "Ki vagy te?"
+      },
+      "bio": {
+        "title": "Milyen a családod?"
+      },
+      "members": {
+        "title": "kivel utazol?",
+        "buttonLabel": "Tagok hozzáadása"
+      },
+      "photos": {
+        "title": "Hogy nézel ki?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "melyik országban?",
+      "description": "A kiválasztott értékek feketék",
+      "any": "Bármely országban"
+    },
+    "places": {
+      "title": "Hány embernek?",
+      "description": "Adja meg a kínált helyek számát."
+    },
+    "duration": {
+      "title": "Meddig?",
+      "description": "Válassza ki, mennyi ideig tartózkodhatnak otthonában.",
+      "options": {
+        "days": "1-3 nap",
+        "weeks": "1-2 hét",
+        "months": "1-3 hónap",
+        "any": "Amíg szükséges",
+        "unknown": "még nem tudom"
+      }
+    },
+    "transport": {
+      "title": "Fel tudod venni őket?",
+      "description": "El tudsz vezetni a határig?",
+      "options": {
+        "transport": "Igen, van autóm",
+        "none": "Nem, más utat kell találnunk"
+      }
+    },
+    "specialNeeds": {
+      "title": "Elfogadnád ezeket?",
+      "description": "Válassza ki az összes lehetőséget, amelyre nyitva áll.",
+      "options": {
+        "dog": "Kutya",
+        "cat": "Macska",
+        "child": "Baba",
+        "disabled": "Tiltva",
+        "otherPet": "Egyéb háziállat"
+      }
+    },
+    "finances": {
+      "title": "Milyen támogatást tud ajánlani?",
+      "description": "Kérjük, vegye figyelembe pénzügyi helyzetét, és válasszon az alábbiak közül.",
+      "options": {
+        "coverCosts": "Teljes támogatást tudok nyújtani",
+        "financialSupport": "Azt várom, hogy fedezzenek bizonyos költségeket"
+      }
+    },
+    "language": {
+      "title": "hogy tudsz beszélni?",
+      "description": "Válassza ki az összes nyelvet, amelyet családtagjai beszélnek."
+    },
+    "auth": {
+      "title": "Hogyan azonosíthatjuk Önt?",
+      "description": "Kérjük, adja meg azokat az adatokat, amelyekkel szeretne bejelentkezni."
+    },
+    "identity": {
+      "title": "Ki vagy te?",
+      "description": "Kérjük, adja meg adatait, hogy az emberek képet kapjanak arról, ki vagy.",
+      "imageDescription": "Megosztaná otthonát valakivel, akit még soha nem látott?"
+    },
+    "bio": {
+      "title": "Milyen a családod?",
+      "description": "Tudassa meg velük többet a családjáról.",
+      "textareaPlaceholder": "Írj pár mondatot a családodról..."
+    },
+    "members": {
+      "title": "Kivel fognak még együtt élni?",
+      "description": "Leírhat más embereket, akikkel megosztja otthonát. Ha egyedül él, vagy nem szeretné megosztani ezt, csak folytassa.",
+      "buttonLabel": "Tagok hozzáadása",
+      "drawer": {
+        "title": "Családtag hozzáadása",
+        "description": "Adja meg annak a családtagnak az adatait, akivel utazik.",
+        "imageDescription": "Megosztaná otthonát valakivel, akit még soha nem látott?",
+        "groupPositionPlaceholder": "Apa, lánya, nagymama"
+      }
+    },
+    "photos": {
+      "title": "Hogy nézel ki?",
+      "description": "Feltölthetsz még néhány fotót a családodról."
+    },
+    "wellDone": {
+      "title": "Szép munka!",
+      "description": "Találtunk néhány megfelelő menekültcsoportot az Ön számára. Most rajtad a sor, hogy a profiljuk alapján döntsön.",
+      "shareOnFacebook": "Megosztani Facebookon",
+      "shareOnInstagram": "Oszd meg az Instagramon",
+      "finishButton": "Lásd a megfelelő csoportokat"
+    },
+    "summary": {
+      "title": "Minden helyes?",
+      "description": "Kérjük, küldje el válaszait.",
+      "intention": "Otthont szeretnék adni valakinek.",
+      "country": {
+        "title": "melyik országban?",
+        "any": "Bármely országban"
+      },
+      "places": {
+        "title": "Hány embernek?"
+      },
+      "duration": {
+        "title": "Meddig?",
+        "options": {
+          "days": "1-3 nap",
+          "weeks": "1-2 hét",
+          "months": "1-3 hónap",
+          "any": "Amíg szükséges",
+          "unknown": "még nem tudom"
+        }
+      },
+      "transport": {
+        "title": "Fel tudod venni őket?",
+        "options": {
+          "transport": "Igen, van autóm",
+          "none": "Nem, más utat kell találnunk"
+        }
+      },
+      "specialNeeds": {
+        "title": "Elfogadnád ezeket?",
+        "options": {
+          "dog": "Kutya",
+          "cat": "Macska",
+          "child": "Baba",
+          "disabled": "Tiltva",
+          "otherPet": "Egyéb háziállat"
+        }
+      },
+      "finances": {
+        "title": "Milyen támogatást tud ajánlani?",
+        "options": {
+          "coverCosts": "Teljes támogatást tudok nyújtani",
+          "financialSupport": "Azt várom, hogy fedezzenek bizonyos költségeket"
+        }
+      },
+      "language": {
+        "title": "hogy tudsz beszélni?"
+      },
+      "auth": {
+        "title": "Hogyan azonosíthatjuk Önt?"
+      },
+      "identity": {
+        "title": "Ki vagy te?"
+      },
+      "bio": {
+        "title": "Milyen a családod?",
+        "textareaPlaceholder": "Írj pár mondatot a családodról..."
+      },
+      "members": {
+        "title": "Kivel fognak még együtt élni?",
+        "buttonLabel": "Tagok hozzáadása",
+        "drawer": {
+          "title": "Családtag hozzáadása",
+          "imageDescription": "Megosztaná otthonát valakivel, akit még soha nem látott?",
+          "groupPositionPlaceholder": "Apa, lánya, nagymama"
+        }
+      },
+      "photos": {
+        "title": "Hogy nézel ki?"
+      }
+    }
+  }
+}

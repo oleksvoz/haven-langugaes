@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "一世...",
+    "description": "选择描述您的意图的内容",
+    "candidate": {
+      "title": "需要一个地方",
+      "description": "寻找临时避难所"
+    },
+    "host": {
+      "title": "想帮忙",
+      "description": "为某人提供一个家"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "在哪个国家？",
+      "description": "选定的值为黑色",
+      "any": "在任何国家"
+    },
+    "duration": {
+      "title": "多长时间？",
+      "description": "选定的值为黑色",
+      "options": {
+        "days": "1-3天",
+        "weeks": "1-2周",
+        "months": "1-3个月",
+        "unknown": "我还不知道"
+      }
+    },
+    "transport": {
+      "title": "你能到那里吗？",
+      "description": "可以自己去吗？",
+      "options": {
+        "car": "是的，我有车",
+        "publicTransport": "是的，我可以使用公共交通工具",
+        "transport": "不，我需要被接走"
+      }
+    },
+    "specialNeeds": {
+      "title": "带着这些去旅行？",
+      "description": "让您的房东知道您的特殊需求。",
+      "options": {
+        "dog": "是的，我有一条狗和我在一起",
+        "cat": "是的，我有一只猫和我在一起",
+        "child": "婴儿",
+        "disabled": "已禁用",
+        "otherPet": "我有其他宠物"
+      }
+    },
+    "finances": {
+      "title": "你有什么资金？",
+      "description": "我们需要相应地将您与您的主机匹配。",
+      "options": {
+        "coverCosts": "我可以支付一些费用",
+        "financialSupport": "我正在寻求全力支持"
+      }
+    },
+    "language": {
+      "title": "你怎么能说话？",
+      "description": "选择您的家庭成员使用的所有语言。"
+    },
+    "auth": {
+      "title": "我们如何识别您？",
+      "description": "请填写您想登录的详细信息。"
+    },
+    "identity": {
+      "title": "你是谁？",
+      "description": "请填写您的详细信息，以便人们了解您的身份。",
+      "imageDescription": "你会和一个你从未见过的人分享家吗？"
+    },
+    "bio": {
+      "title": "你有什么样的家庭？",
+      "description": "让您的他们更多地了解您的家庭。",
+      "textareaPlaceholder": "写几句关于你的家庭..."
+    },
+    "members": {
+      "title": "你和谁一起旅行？",
+      "description": "请填写与您同行的家人的详细信息。如果您独自旅行，只需单击继续。",
+      "buttonLabel": "添加成员",
+      "drawer": {
+        "title": "添加家庭成员",
+        "description": "填写与您同行的家庭成员的详细信息。",
+        "imageDescription": "你会和一个你从未见过的人分享家吗？",
+        "groupPositionLabel": "关系",
+        "groupPositionPlaceholder": "父亲、女儿、祖母"
+      }
+    },
+    "photos": {
+      "title": "你看起来怎么样？",
+      "description": "请上传至少 3 张您自己和您正在寻求庇护的人的照片。"
+    },
+    "wellDone": {
+      "title": "做得好！",
+      "description": "我们过滤了符合您需求的主机。现在轮到您根据他们的个人资料做出决定了。",
+      "shareOnFacebook": "在脸书上分享",
+      "shareOnInstagram": "在 Instagram 上分享",
+      "finishButton": "查看匹配的主机"
+    },
+    "summary": {
+      "title": "一切都正确吗？",
+      "description": "请在提交之前检查您的答案。",
+      "intention": "我正在寻找临时住所。",
+      "country": {
+        "title": "在哪个国家？",
+        "any": "在任何国家"
+      },
+      "duration": {
+        "title": "多长时间？",
+        "options": {
+          "days": "1-3天",
+          "weeks": "1-2周",
+          "months": "1-3个月",
+          "unknown": "我还不知道"
+        }
+      },
+      "transport": {
+        "title": "你能到那里吗？",
+        "options": {
+          "car": "是的，我有车",
+          "publicTransport": "是的，我可以使用公共交通工具",
+          "transport": "不，我需要被接走"
+        }
+      },
+      "specialNeeds": {
+        "title": "带着这些去旅行？",
+        "options": {
+          "dog": "狗",
+          "cat": "猫",
+          "child": "婴儿",
+          "disabled": "已禁用",
+          "otherPet": "我有其他宠物"
+        }
+      },
+      "finances": {
+        "title": "你有什么资金？",
+        "options": {
+          "coverCosts": "我可以支付一些费用",
+          "financialSupport": "我正在寻求全力支持"
+        }
+      },
+      "language": {
+        "title": "你怎么能说话？"
+      },
+      "auth": {
+        "title": "我们如何识别您？"
+      },
+      "identity": {
+        "title": "你是谁？"
+      },
+      "bio": {
+        "title": "你有什么样的家庭？"
+      },
+      "members": {
+        "title": "你和谁一起旅行？",
+        "buttonLabel": "添加成员"
+      },
+      "photos": {
+        "title": "你看起来怎么样？"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "在哪个国家？",
+      "description": "选定的值为黑色",
+      "any": "在任何国家"
+    },
+    "places": {
+      "title": "适合多少人？",
+      "description": "输入您可以提供的位置数。"
+    },
+    "duration": {
+      "title": "多久？",
+      "description": "选择他们可以留在您家中的时间。",
+      "options": {
+        "days": "1-3天",
+        "weeks": "1-2周",
+        "months": "1-3个月",
+        "any": "只要有需要",
+        "unknown": "我还不知道"
+      }
+    },
+    "transport": {
+      "title": "你能把它们捡起来吗？",
+      "description": "你能开车去边境吗？",
+      "options": {
+        "transport": "是的，我有车",
+        "none": "不，我们需要另寻出路"
+      }
+    },
+    "specialNeeds": {
+      "title": "你会接受这些吗？",
+      "description": "选择您愿意接受的所有选项。",
+      "options": {
+        "dog": "狗",
+        "cat": "猫",
+        "child": "婴儿",
+        "disabled": "已禁用",
+        "otherPet": "其他宠物"
+      }
+    },
+    "finances": {
+      "title": "你能提供什么支持？",
+      "description": "请考虑您的财务状况并选择以下选项之一。",
+      "options": {
+        "coverCosts": "我可以提供全力支持",
+        "financialSupport": "我希望他们支付一些费用"
+      }
+    },
+    "language": {
+      "title": "你怎么能说话？",
+      "description": "选择您的家庭成员使用的所有语言。"
+    },
+    "auth": {
+      "title": "我们如何识别您？",
+      "description": "请填写您想登录的详细信息。"
+    },
+    "identity": {
+      "title": "你是谁？",
+      "description": "请填写您的详细信息，以便人们了解您的身份。",
+      "imageDescription": "你会和一个你从未见过的人分享家吗？"
+    },
+    "bio": {
+      "title": "你有什么样的家庭？",
+      "description": "让您的他们更多地了解您的家庭。",
+      "textareaPlaceholder": "写几句关于你的家庭..."
+    },
+    "members": {
+      "title": "他们还会和谁住在一起？",
+      "description": "您可以描述与您同住的其他人。如果你一个人住或者不想分享这个，那就继续吧。",
+      "buttonLabel": "添加成员",
+      "drawer": {
+        "title": "添加家庭成员",
+        "description": "填写与您同行的家庭成员的详细信息。",
+        "imageDescription": "你会和一个你从未见过的人分享家吗？",
+        "groupPositionPlaceholder": "父亲、女儿、祖母"
+      }
+    },
+    "photos": {
+      "title": "你看起来怎么样？",
+      "description": "您可以上传更多家人的照片。"
+    },
+    "wellDone": {
+      "title": "做得好！",
+      "description": "我们为您找到了一些匹配的难民群体。现在轮到您根据他们的个人资料做出决定了。",
+      "shareOnFacebook": "在脸书上分享",
+      "shareOnInstagram": "在 Instagram 上分享",
+      "finishButton": "查看匹配组"
+    },
+    "summary": {
+      "title": "一切都正确吗？",
+      "description": "请在提交之前检查您的答案。",
+      "intention": "我想为某人提供一个家。",
+      "country": {
+        "title": "在哪个国家？",
+        "any": "在任何国家"
+      },
+      "places": {
+        "title": "适合多少人？"
+      },
+      "duration": {
+        "title": "多久？",
+        "options": {
+          "days": "1-3天",
+          "weeks": "1-2周",
+          "months": "1-3个月",
+          "any": "只要有需要",
+          "unknown": "我还不知道"
+        }
+      },
+      "transport": {
+        "title": "你能把它们捡起来吗？",
+        "options": {
+          "transport": "是的，我有车",
+          "none": "不，我们需要另寻出路"
+        }
+      },
+      "specialNeeds": {
+        "title": "你会接受这些吗？",
+        "options": {
+          "dog": "狗",
+          "cat": "猫",
+          "child": "婴儿",
+          "disabled": "已禁用",
+          "otherPet": "其他宠物"
+        }
+      },
+      "finances": {
+        "title": "你能提供什么支持？",
+        "options": {
+          "coverCosts": "我可以提供全力支持",
+          "financialSupport": "我希望他们支付一些费用"
+        }
+      },
+      "language": {
+        "title": "你怎么能说话？"
+      },
+      "auth": {
+        "title": "我们如何识别您？"
+      },
+      "identity": {
+        "title": "你是谁？"
+      },
+      "bio": {
+        "title": "你有什么样的家庭？",
+        "textareaPlaceholder": "写几句关于你的家庭..."
+      },
+      "members": {
+        "title": "他们还会和谁住在一起？",
+        "buttonLabel": "添加成员",
+        "drawer": {
+          "title": "添加家庭成员",
+          "imageDescription": "你会和一个你从未见过的人分享家吗？",
+          "groupPositionPlaceholder": "父亲、女儿、祖母"
+        }
+      },
+      "photos": {
+        "title": "你看起来怎么样？"
+      }
+    }
+  }
+}

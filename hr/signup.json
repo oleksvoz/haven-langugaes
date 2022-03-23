@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "ja...",
+    "description": "Odaberite ono što opisuje vašu namjeru",
+    "candidate": {
+      "title": "treba mjesto",
+      "description": "Pronađite privremeno sklonište"
+    },
+    "host": {
+      "title": "žele pomoći",
+      "description": "Osigurajte dom nekome"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "U kojoj zemlji?",
+      "description": "Odabrane vrijednosti su crne",
+      "any": "U bilo kojoj zemlji"
+    },
+    "duration": {
+      "title": "Kako dugo?",
+      "description": "Odabrane vrijednosti su crne",
+      "options": {
+        "days": "1-3 dana",
+        "weeks": "1-2 tjedna",
+        "months": "1-3 mjeseca",
+        "unknown": "ne znam još"
+      }
+    },
+    "transport": {
+      "title": "Možete li stići tamo?",
+      "description": "Možete li sami doći?",
+      "options": {
+        "car": "Da, imam auto",
+        "publicTransport": "Da, mogu koristiti javni prijevoz",
+        "transport": "Ne, treba me pokupiti"
+      }
+    },
+    "specialNeeds": {
+      "title": "Putujete s ovime?",
+      "description": "Obavijestite svog domaćina o posebnim potrebama koje imate.",
+      "options": {
+        "dog": "Da, sa sobom imam psa",
+        "cat": "Da, imam mačku sa sobom",
+        "child": "Dijete",
+        "disabled": "Onemogućeno",
+        "otherPet": "Imam drugog ljubimca"
+      }
+    },
+    "finances": {
+      "title": "Kakve financije imate?",
+      "description": "U skladu s tim moramo vas uskladiti s vašim domaćinom.",
+      "options": {
+        "coverCosts": "Mogu pokriti neke troškove",
+        "financialSupport": "Tražim punu podršku"
+      }
+    },
+    "language": {
+      "title": "Kako možeš govoriti?",
+      "description": "Odaberite sve jezike koje govore članovi vaše obitelji."
+    },
+    "auth": {
+      "title": "Kako vas možemo identificirati?",
+      "description": "Molimo unesite podatke s kojima se želite prijaviti."
+    },
+    "identity": {
+      "title": "Tko si ti?",
+      "description": "Molimo vas da ispunite svoje podatke kako bi ljudi mogli steći ideju o tome tko ste.",
+      "imageDescription": "Biste li dijelili dom s nekim koga nikada prije niste vidjeli?"
+    },
+    "bio": {
+      "title": "Kakva je tvoja obitelj?",
+      "description": "Neka vaši znaju više o vašoj obitelji.",
+      "textareaPlaceholder": "Napiši par rečenica o svojoj obitelji..."
+    },
+    "members": {
+      "title": "s kim putujete?",
+      "description": "Unesite podatke o članovima svoje obitelji s kojima putujete. U slučaju da putujete sami samo kliknite Nastavi.",
+      "buttonLabel": "Dodajte članove",
+      "drawer": {
+        "title": "Dodajte člana obitelji",
+        "description": "Ispunite podatke o članu obitelji s kojim putujete.",
+        "imageDescription": "Biste li dijelili dom s nekim koga nikada prije niste vidjeli?",
+        "groupPositionLabel": "Odnos",
+        "groupPositionPlaceholder": "Otac, kćerka, baka"
+      }
+    },
+    "photos": {
+      "title": "Kako izgledaš?",
+      "description": "Molimo prenesite najmanje 3 fotografije sebe i osoba za koje tražite sklonište."
+    },
+    "wellDone": {
+      "title": "Dobro napravljeno!",
+      "description": "Filtrirali smo hostove koji odgovaraju vašim potrebama. Sada je vaš red da odlučite na temelju njihovog profila.",
+      "shareOnFacebook": "Podijeli na Facebooku",
+      "shareOnInstagram": "Podijelite na Instagramu",
+      "finishButton": "Pogledajte odgovarajuće domaćine"
+    },
+    "summary": {
+      "title": "Je li sve točno?",
+      "description": "Molimo pregledajte svoje odgovore prije slanja.",
+      "intention": "Tražim privremeno sklonište.",
+      "country": {
+        "title": "u kojoj zemlji?",
+        "any": "U bilo kojoj zemlji"
+      },
+      "duration": {
+        "title": "Kako dugo?",
+        "options": {
+          "days": "1-3 dana",
+          "weeks": "1-2 tjedna",
+          "months": "1-3 mjeseca",
+          "unknown": "ne znam još"
+        }
+      },
+      "transport": {
+        "title": "Možete li stići tamo?",
+        "options": {
+          "car": "Da, imam auto",
+          "publicTransport": "Da, mogu koristiti javni prijevoz",
+          "transport": "Ne, treba me pokupiti"
+        }
+      },
+      "specialNeeds": {
+        "title": "Putujete s ovime?",
+        "options": {
+          "dog": "Pas",
+          "cat": "Mačka",
+          "child": "Dijete",
+          "disabled": "Onemogućeno",
+          "otherPet": "Imam drugog ljubimca"
+        }
+      },
+      "finances": {
+        "title": "Kakve financije imate?",
+        "options": {
+          "coverCosts": "Mogu pokriti neke troškove",
+          "financialSupport": "Tražim punu podršku"
+        }
+      },
+      "language": {
+        "title": "Kako možeš govoriti?"
+      },
+      "auth": {
+        "title": "Kako vas možemo identificirati?"
+      },
+      "identity": {
+        "title": "Tko si ti?"
+      },
+      "bio": {
+        "title": "Kakva je tvoja obitelj?"
+      },
+      "members": {
+        "title": "s kim putujete?",
+        "buttonLabel": "Dodajte članove"
+      },
+      "photos": {
+        "title": "Kako izgledaš?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "u kojoj zemlji?",
+      "description": "Odabrane vrijednosti su crne",
+      "any": "U bilo kojoj zemlji"
+    },
+    "places": {
+      "title": "Za koliko ljudi?",
+      "description": "Unesite broj mjesta koja možete ponuditi."
+    },
+    "duration": {
+      "title": "Koliko dugo?",
+      "description": "Odaberite razdoblje u kojem mogu ostati u vašem domu.",
+      "options": {
+        "days": "1-3 dana",
+        "weeks": "1-2 tjedna",
+        "months": "1-3 mjeseca",
+        "any": "Koliko god je potrebno",
+        "unknown": "ne znam još"
+      }
+    },
+    "transport": {
+      "title": "Možete li ih pokupiti?",
+      "description": "Možete li voziti do granice?",
+      "options": {
+        "transport": "Da, imam auto",
+        "none": "Ne, moramo pronaći drugi način"
+      }
+    },
+    "specialNeeds": {
+      "title": "Biste li prihvatili ove?",
+      "description": "Odaberite sve opcije za koje ste otvoreni.",
+      "options": {
+        "dog": "Pas",
+        "cat": "Mačka",
+        "child": "Dijete",
+        "disabled": "Onemogućeno",
+        "otherPet": "Drugi ljubimac"
+      }
+    },
+    "finances": {
+      "title": "Kakvu podršku možete ponuditi?",
+      "description": "Molimo razmotrite svoju financijsku situaciju i odaberite jedno od sljedećeg.",
+      "options": {
+        "coverCosts": "Mogu pružiti punu podršku",
+        "financialSupport": "Očekujem da pokriju neke troškove"
+      }
+    },
+    "language": {
+      "title": "Kako možeš govoriti?",
+      "description": "Odaberite sve jezike koje govore članovi vaše obitelji."
+    },
+    "auth": {
+      "title": "Kako vas možemo identificirati?",
+      "description": "Molimo unesite podatke s kojima se želite prijaviti."
+    },
+    "identity": {
+      "title": "Tko si ti?",
+      "description": "Molimo vas da ispunite svoje podatke kako bi ljudi mogli steći ideju o tome tko ste.",
+      "imageDescription": "Biste li dijelili dom s nekim koga nikada prije niste vidjeli?"
+    },
+    "bio": {
+      "title": "Kakva je tvoja obitelj?",
+      "description": "Neka vaši znaju više o vašoj obitelji.",
+      "textareaPlaceholder": "Napiši par rečenica o svojoj obitelji..."
+    },
+    "members": {
+      "title": "S kim će još živjeti?",
+      "description": "Možete opisati druge ljude s kojima dijelite svoj dom. Ako živite sami ili ne želite ovo dijeliti, samo nastavite.",
+      "buttonLabel": "Dodajte članove",
+      "drawer": {
+        "title": "Dodajte člana obitelji",
+        "description": "Ispunite podatke o članu obitelji s kojim putujete.",
+        "imageDescription": "Biste li dijelili dom s nekim koga nikada prije niste vidjeli?",
+        "groupPositionPlaceholder": "Otac, kćerka, baka"
+      }
+    },
+    "photos": {
+      "title": "Kako izgledaš?",
+      "description": "Možete prenijeti još nekoliko fotografija svoje obitelji."
+    },
+    "wellDone": {
+      "title": "Dobro napravljeno!",
+      "description": "Pronašli smo neke odgovarajuće skupine izbjeglica za vas. Sada je vaš red da odlučite na temelju njihovog profila.",
+      "shareOnFacebook": "Podijeli na Facebooku",
+      "shareOnInstagram": "Podijelite na Instagramu",
+      "finishButton": "Pogledajte odgovarajuće grupe"
+    },
+    "summary": {
+      "title": "Je li sve točno?",
+      "description": "Molimo pregledajte svoje odgovore prije slanja.",
+      "intention": "Želim nekome pružiti dom.",
+      "country": {
+        "title": "u kojoj zemlji?",
+        "any": "U bilo kojoj zemlji"
+      },
+      "places": {
+        "title": "Za koliko ljudi?"
+      },
+      "duration": {
+        "title": "Koliko dugo?",
+        "options": {
+          "days": "1-3 dana",
+          "weeks": "1-2 tjedna",
+          "months": "1-3 mjeseca",
+          "any": "Koliko god je potrebno",
+          "unknown": "ne znam još"
+        }
+      },
+      "transport": {
+        "title": "Možete li ih pokupiti?",
+        "options": {
+          "transport": "Da, imam auto",
+          "none": "Ne, moramo pronaći drugi način"
+        }
+      },
+      "specialNeeds": {
+        "title": "Biste li prihvatili ove?",
+        "options": {
+          "dog": "Pas",
+          "cat": "Mačka",
+          "child": "Dijete",
+          "disabled": "Onemogućeno",
+          "otherPet": "Drugi ljubimac"
+        }
+      },
+      "finances": {
+        "title": "Kakvu podršku možete ponuditi?",
+        "options": {
+          "coverCosts": "Mogu pružiti punu podršku",
+          "financialSupport": "Očekujem da pokriju neke troškove"
+        }
+      },
+      "language": {
+        "title": "Kako možeš govoriti?"
+      },
+      "auth": {
+        "title": "Kako vas možemo identificirati?"
+      },
+      "identity": {
+        "title": "Tko si ti?"
+      },
+      "bio": {
+        "title": "Kakva je tvoja obitelj?",
+        "textareaPlaceholder": "Napiši par rečenica o svojoj obitelji..."
+      },
+      "members": {
+        "title": "S kim će još živjeti?",
+        "buttonLabel": "Dodajte članove",
+        "drawer": {
+          "title": "Dodajte člana obitelji",
+          "imageDescription": "Biste li dijelili dom s nekim koga nikada prije niste vidjeli?",
+          "groupPositionPlaceholder": "Otac, kćerka, baka"
+        }
+      },
+      "photos": {
+        "title": "Kako izgledaš?"
+      }
+    }
+  }
+}

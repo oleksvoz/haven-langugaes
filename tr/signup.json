@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "İ...",
+    "description": "Niyetinizi neyin tanımladığını seçin",
+    "candidate": {
+      "title": "bir yere ihtiyacım var",
+      "description": "Geçici bir barınak bulun"
+    },
+    "host": {
+      "title": "yardım etmek istiyorum",
+      "description": "Birine ev sağlamak"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "Hangi ülkede?",
+      "description": "Seçilen değerler siyah",
+      "any": "herhangi bir ülkede"
+    },
+    "duration": {
+      "title": "Ne kadar süreliğine?",
+      "description": "Seçilen değerler siyah",
+      "options": {
+        "days": "1-3 gün",
+        "weeks": "1-2 hafta",
+        "months": "1-3 ay",
+        "unknown": "henüz bilmiyorum"
+      }
+    },
+    "transport": {
+      "title": "Oraya gidebilir misin?",
+      "description": "Oraya kendi başına gidebilir misin?",
+      "options": {
+        "car": "Evet arabam var",
+        "publicTransport": "Evet, toplu taşıma kullanabilirim",
+        "transport": "Hayır, alınmam gerekiyor"
+      }
+    },
+    "specialNeeds": {
+      "title": "Bunlarla mı seyahat ediyorsunuz?",
+      "description": "Ev sahibinize sahip olduğunuz özel ihtiyaçlar hakkında bilgi verin.",
+      "options": {
+        "dog": "evet yanımda köpeğim var",
+        "cat": "evet yanımda kedi var",
+        "child": "Bebek",
+        "disabled": "Engelli",
+        "otherPet": "başka evcil hayvanım var"
+      }
+    },
+    "finances": {
+      "title": "Hangi finansa sahipsiniz?",
+      "description": "Buna göre sizi ev sahibinizle eşleştirmemiz gerekiyor.",
+      "options": {
+        "coverCosts": "bazı masrafları karşılayabilirim",
+        "financialSupport": "tam destek arıyorum"
+      }
+    },
+    "language": {
+      "title": "Nasıl konuşabilirsin?",
+      "description": "Aile üyelerinizin konuştuğu tüm dilleri seçin."
+    },
+    "auth": {
+      "title": "Sizi nasıl tanımlayabiliriz?",
+      "description": "Lütfen giriş yapmak istediğiniz bilgileri giriniz."
+    },
+    "identity": {
+      "title": "Kimsin?",
+      "description": "İnsanların kim olduğunuz hakkında bir fikir edinebilmesi için lütfen bilgilerinizi doldurun.",
+      "imageDescription": "Daha önce hiç görmediğiniz biriyle evinizi paylaşır mısınız?"
+    },
+    "bio": {
+      "title": "Ailen nasıl biri?",
+      "description": "Aileniz hakkında daha fazla bilgi edinmelerini sağlayın.",
+      "textareaPlaceholder": "Ailen hakkında birkaç cümle yaz..."
+    },
+    "members": {
+      "title": "Kiminle seyahat ediyorsun?",
+      "description": "Lütfen birlikte seyahat ettiğiniz aile üyelerinizin bilgilerini doldurunuz. Yalnız seyahat ediyorsanız, devam düğmesine tıklamanız yeterlidir.",
+      "buttonLabel": "Üye ekle",
+      "drawer": {
+        "title": "Bir aile üyesi ekleyin",
+        "description": "Birlikte seyahat ettiğiniz bir aile üyesinin ayrıntılarını girin.",
+        "imageDescription": "Daha önce hiç görmediğiniz biriyle evinizi paylaşır mısınız?",
+        "groupPositionLabel": "İlişki",
+        "groupPositionPlaceholder": "Baba, Kız, Büyükanne"
+      }
+    },
+    "photos": {
+      "title": "Nasıl görünüyorsun?",
+      "description": "Lütfen kendinizin ve sığınmak istediğiniz kişilerin en az 3 fotoğrafını yükleyin."
+    },
+    "wellDone": {
+      "title": "Aferin!",
+      "description": "İhtiyaçlarınıza uygun filtrelenmiş ana bilgisayarlarımız var. Şimdi onların profiline göre karar verme sırası sizde.",
+      "shareOnFacebook": "Facebook'ta Paylaş",
+      "shareOnInstagram": "Instagram'da paylaş",
+      "finishButton": "Eşleşen ana bilgisayarları görün"
+    },
+    "summary": {
+      "title": "Her şey doğru mu?",
+      "description": "Lütfen göndermeden önce cevaplarınızı gözden geçirin.",
+      "intention": "Geçici bir barınak arıyorum.",
+      "country": {
+        "title": "Hangi ülkede?",
+        "any": "herhangi bir ülkede"
+      },
+      "duration": {
+        "title": "Ne kadar süreliğine?",
+        "options": {
+          "days": "1-3 gün",
+          "weeks": "1-2 hafta",
+          "months": "1-3 ay",
+          "unknown": "henüz bilmiyorum"
+        }
+      },
+      "transport": {
+        "title": "Oraya gidebilir misin?",
+        "options": {
+          "car": "Evet arabam var",
+          "publicTransport": "Evet, toplu taşıma kullanabilirim",
+          "transport": "Hayır, alınmam gerekiyor"
+        }
+      },
+      "specialNeeds": {
+        "title": "Bunlarla mı seyahat ediyorsunuz?",
+        "options": {
+          "dog": "Köpek",
+          "cat": "Kedi",
+          "child": "Bebek",
+          "disabled": "Engelli",
+          "otherPet": "başka evcil hayvanım var"
+        }
+      },
+      "finances": {
+        "title": "Hangi finansa sahipsiniz?",
+        "options": {
+          "coverCosts": "bazı masrafları karşılayabilirim",
+          "financialSupport": "tam destek arıyorum"
+        }
+      },
+      "language": {
+        "title": "Nasıl konuşabilirsin?"
+      },
+      "auth": {
+        "title": "Sizi nasıl tanımlayabiliriz?"
+      },
+      "identity": {
+        "title": "Kimsin?"
+      },
+      "bio": {
+        "title": "Ailen nasıl biri?"
+      },
+      "members": {
+        "title": "Kiminle seyahat ediyorsun?",
+        "buttonLabel": "Üye ekle"
+      },
+      "photos": {
+        "title": "Nasıl görünüyorsun?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "Hangi ülkede?",
+      "description": "Seçilen değerler siyah",
+      "any": "herhangi bir ülkede"
+    },
+    "places": {
+      "title": "Kaç kişi için?",
+      "description": "Teklif edebileceğiniz yerlerin sayısını girin."
+    },
+    "duration": {
+      "title": "Ne kadardır?",
+      "description": "Evinizde kalabilecekleri süreyi seçin.",
+      "options": {
+        "days": "1-3 gün",
+        "weeks": "1-2 hafta",
+        "months": "1-3 ay",
+        "any": "gerektiği kadar",
+        "unknown": "henüz bilmiyorum"
+      }
+    },
+    "transport": {
+      "title": "Onları alabilir misin?",
+      "description": "Sınıra kadar sürebilir misin?",
+      "options": {
+        "transport": "Evet arabam var",
+        "none": "Hayır, başka bir yol bulmalıyız."
+      }
+    },
+    "specialNeeds": {
+      "title": "Bunları kabul eder misiniz?",
+      "description": "Açık olduğunuz tüm seçenekleri seçin.",
+      "options": {
+        "dog": "Köpek",
+        "cat": "Kedi",
+        "child": "Bebek",
+        "disabled": "Engelli",
+        "otherPet": "Diğer evcil hayvan"
+      }
+    },
+    "finances": {
+      "title": "Nasıl bir destek sunabilirsiniz?",
+      "description": "Lütfen mali durumunuzu göz önünde bulundurun ve aşağıdakilerden birini seçin.",
+      "options": {
+        "coverCosts": "tam destek sağlayabilirim",
+        "financialSupport": "Bazı masrafları karşılamalarını bekliyorum"
+      }
+    },
+    "language": {
+      "title": "Nasıl konuşabilirsin?",
+      "description": "Aile üyelerinizin konuştuğu tüm dilleri seçin."
+    },
+    "auth": {
+      "title": "Sizi nasıl tanımlayabiliriz?",
+      "description": "Lütfen giriş yapmak istediğiniz bilgileri giriniz."
+    },
+    "identity": {
+      "title": "Kimsin?",
+      "description": "İnsanların kim olduğunuz hakkında bir fikir edinebilmesi için lütfen bilgilerinizi doldurun.",
+      "imageDescription": "Daha önce hiç görmediğiniz biriyle evinizi paylaşır mısınız?"
+    },
+    "bio": {
+      "title": "Ailen nasıl biri?",
+      "description": "Aileniz hakkında daha fazla bilgi edinmelerini sağlayın.",
+      "textareaPlaceholder": "Ailen hakkında birkaç cümle yaz..."
+    },
+    "members": {
+      "title": "Başka kiminle yaşayacaklar?",
+      "description": "Evinizi paylaştığınız diğer insanları tanımlayabilirsiniz. Yalnız yaşıyorsanız veya bunu paylaşmamayı tercih ediyorsanız, devam edin.",
+      "buttonLabel": "Üye ekle",
+      "drawer": {
+        "title": "Bir aile üyesi ekleyin",
+        "description": "Birlikte seyahat ettiğiniz bir aile üyesinin ayrıntılarını girin.",
+        "imageDescription": "Daha önce hiç görmediğiniz biriyle evinizi paylaşır mısınız?",
+        "groupPositionPlaceholder": "baba, kızı, büyükanne"
+      }
+    },
+    "photos": {
+      "title": "Nasıl görünüyorsun?",
+      "description": "Ailenizin birkaç fotoğrafını daha yükleyebilirsiniz."
+    },
+    "wellDone": {
+      "title": "Aferin!",
+      "description": "Sizin için eşleşen bazı mülteci grupları bulduk. Şimdi onların profiline göre karar verme sırası sizde.",
+      "shareOnFacebook": "Facebook'ta Paylaş",
+      "shareOnInstagram": "Instagram'da paylaş",
+      "finishButton": "Eşleşen grupları görün"
+    },
+    "summary": {
+      "title": "Her şey doğru mu?",
+      "description": "Lütfen göndermeden önce cevaplarınızı gözden geçirin.",
+      "intention": "Birine bir ev sağlamak istiyorum.",
+      "country": {
+        "title": "Hangi ülkede?",
+        "any": "herhangi bir ülkede"
+      },
+      "places": {
+        "title": "Kaç kişi için?"
+      },
+      "duration": {
+        "title": "Ne kadardır?",
+        "options": {
+          "days": "1-3 gün",
+          "weeks": "1-2 hafta",
+          "months": "1-3 ay",
+          "any": "gerektiği kadar",
+          "unknown": "henüz bilmiyorum"
+        }
+      },
+      "transport": {
+        "title": "Onları alabilir misin?",
+        "options": {
+          "transport": "Evet arabam var",
+          "none": "Hayır, başka bir yol bulmalıyız."
+        }
+      },
+      "specialNeeds": {
+        "title": "Bunları kabul eder misiniz?",
+        "options": {
+          "dog": "Köpek",
+          "cat": "Kedi",
+          "child": "Bebek",
+          "disabled": "Engelli",
+          "otherPet": "Diğer evcil hayvan"
+        }
+      },
+      "finances": {
+        "title": "Nasıl bir destek sunabilirsiniz?",
+        "options": {
+          "coverCosts": "tam destek sağlayabilirim",
+          "financialSupport": "Bazı masrafları karşılamalarını bekliyorum"
+        }
+      },
+      "language": {
+        "title": "Nasıl konuşabilirsin?"
+      },
+      "auth": {
+        "title": "Sizi nasıl tanımlayabiliriz?"
+      },
+      "identity": {
+        "title": "Kimsin?"
+      },
+      "bio": {
+        "title": "Ailen nasıl biri?",
+        "textareaPlaceholder": "Ailen hakkında birkaç cümle yaz..."
+      },
+      "members": {
+        "title": "Başka kiminle yaşayacaklar?",
+        "buttonLabel": "Üye ekle",
+        "drawer": {
+          "title": "Bir aile üyesi ekleyin",
+          "imageDescription": "Daha önce hiç görmediğiniz biriyle evinizi paylaşır mısınız?",
+          "groupPositionPlaceholder": "baba, kızı, büyükanne"
+        }
+      },
+      "photos": {
+        "title": "Nasıl görünüyorsun?"
+      }
+    }
+  }
+}

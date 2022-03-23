@@ -1,0 +1,208 @@
+{
+  "footerAboutLinkLabel": "Kto sme?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "ďalej",
+  "askForHelp": "Požiadať o pomoc",
+  "offerHelp": "Ponúknite pomoc",
+  "back": "späť",
+  "backToStart": "Späť na začiatok",
+  "close": "Zavrieť",
+  "add": "Pridať",
+  "save": "Uložiť",
+  "searchHosts": "Vyhľadávanie",
+  "submit": "Predložiť",
+  "submitting": "Odovzdáva sa",
+  "connections": "Spojenia",
+  "noHostsLeft": "Videli ste všetkých dostupných hostiteľov zodpovedajúcich vášmu profilu.",
+  "noCandidatesLeft": "Videli ste všetky skupiny zodpovedajúce vášmu profilu.",
+  "noHostsSuggestions": "Neexistuje žiadny hostiteľ, ktorý by vyhovoval vašim potrebám. Keď bude nový, dáme vám vedieť.",
+  "noCandidateSuggestions": "Neexistuje žiadna skupina utečencov, ktorá by vyhovovala vašim potrebám. Keď bude nový, dáme vám vedieť.",
+  "call": "Zavolajte",
+  "sendEmail": "Poslať email",
+  "showProfile": "Zobraziť profil",
+  "selectLanguage": "Vyberte svoj jazyk",
+  "auth": {
+    "login": {
+      "title": "Prihlásiť sa",
+      "description": "Prosím prihláste sa pre pokračovanie.",
+      "button": {
+        "label": "Prihlásiť sa",
+        "loadingText": "Načítava"
+      },
+      "forgotPassword": "zabudol si heslo?"
+    },
+    "logout": "Odhlásiť sa",
+    "confirmationSuccess": {
+      "title": "Úspech!",
+      "description": "Váš email bol potvrdený.",
+      "ctaLabel": "Pokračujte do aplikácie"
+    },
+    "forgotPassword": {
+      "title": "Zabudol si heslo",
+      "description": "Zadajte svoj e-mail pre obnovenie hesla.",
+      "button": {
+        "label": "Predložiť",
+        "loadingText": "Odovzdáva sa",
+        "title": "Odoslať"
+      },
+      "login": "Hľadáte prihlásenie?",
+      "successTitle": "Skontrolujte si poštovú schránku",
+      "successDescription": "Poslali sme vám e-mail s odkazom na obnovenie hesla."
+    },
+    "resetPassword": {
+      "title": "Obnoviť heslo",
+      "description": "Zadajte nové heslo.",
+      "button": {
+        "label": "Predložiť",
+        "loadingText": "Odovzdáva sa"
+      },
+      "login": "Hľadáte prihlásenie?",
+      "successTitle": "Úspech!",
+      "successDescription": "Vaše heslo bolo zmenené."
+    },
+    "deleteAccount": {
+      "label": "Zmazať účet",
+      "confirmation": "Chystáte sa odstrániť všetky svoje údaje v tejto aplikácii. Chceš pokračovať?",
+      "successTitle": "Účet bol odstránený.",
+      "successDescription": "Vymazali sme všetky údaje súvisiace s vaším účtom.",
+      "title": "Zmazať účet",
+      "description": "Natrvalo odstráňte všetky svoje údaje."
+    }
+  },
+  "labels": {
+    "email": "Email",
+    "password": "heslo",
+    "confirmPassword": "Potvrďte heslo",
+    "fullName": "Celé meno",
+    "dateOfBirth": "Dátum narodenia",
+    "occupation": "Povolanie",
+    "phone": "Telefón",
+    "chat": "Napíšte správu..."
+  },
+  "placeholders": {
+    "email": "Email",
+    "password": "heslo",
+    "confirmPassword": "Potvrďte heslo",
+    "fullName": "Celé meno",
+    "dateOfBirth": "DD-MM-RRRR",
+    "occupation": "Povolanie",
+    "phone": "Telefón",
+    "chat": "Napíšte správu..."
+  },
+  "form": {
+    "validation": {
+      "required": "Toto pole je povinné",
+      "password": "Heslo musí obsahovať aspoň 8 znakov, 1 veľké písmeno, 1 malé písmeno a 1 číslo",
+      "passwordLength": "Heslo musí mať aspoň 8 znakov",
+      "passwordsMatch": "Heslá sa nezhodujú",
+      "minLength": "Toto pole musí mať aspoň {0} znakov",
+      "maxLength": "Toto pole nesmie mať viac ako {0} znakov",
+      "pattern": "Toto pole nie je platné",
+      "email": "Toto pole musí byť platná e-mailová adresa",
+      "date": "Toto pole musí byť platný dátum",
+      "dateOfBirth": "Zadajte dátum vo formáte DD-MM-RRRR",
+      "dateISO": "Toto pole musí byť platný dátum (ISO)",
+      "number": "Toto pole musí byť platné číslo",
+      "digits": "Toto pole musí obsahovať číslice",
+      "min": "Toto pole musí byť aspoň {0}",
+      "max": "Toto pole nesmie byť väčšie ako {0}",
+      "bio": "Boli by ste ochotní žiť ... min 125 znakov",
+      "phone": "Zadajte platné telefónne číslo."
+    }
+  },
+  "newChatMessage": "Teraz ste pripojení!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Budete bývať v",
+        "specialNeeds": "Dodatočnú pomoc získate",
+        "bio": "Kto sú ľudia, s ktorými budete žiť?",
+        "members": "kto vlastne sú?",
+        "languages": "Akými jazykmi hovoria?"
+      },
+      "specialNeeds": {
+        "cat": "Priateľský k mačkám",
+        "dog": "Priateľský k psom",
+        "otherPet": "Priateľské k domácim zvieratám",
+        "transport": "Pomoc s dopravou",
+        "financialHelp": "Finančná pomoc",
+        "child": "Vhodné pre deti",
+        "disabled": "Zakázané"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Špeciálne požiadavky",
+        "bio": "Kto sú ľudia, ktorí potrebujú vašu pomoc?",
+        "members": "kto vlastne sú?",
+        "languages": "Akými jazykmi hovoria?"
+      },
+      "specialNeeds": {
+        "cat": "Cat",
+        "dog": "pes",
+        "otherPet": "Pet",
+        "transport": "Doprava",
+        "financialHelp": "Finančná pomoc",
+        "child": "dieťa",
+        "disabled": "Zakázané"
+      }
+    },
+    "match": {
+      "title": "Je to zápas!",
+      "description": "Obaja ste sa dohodli, že budete spolu nejaký čas zdieľať domov. Poďme diskutovať o podrobnostiach."
+    },
+    "connectionRequests": {
+      "title": "Žiadosti o pripojenie",
+      "description": "Ľudia, ktorí by vám chceli pomôcť."
+    },
+    "matches": {
+      "title": "zápasy",
+      "description": "Pomôžte ľuďom, na ktorých ste sa obaja zhodli."
+    },
+    "titles": {
+      "host": {
+        "location": "Budete bývať v",
+        "specialNeeds": "Dodatočnú pomoc získate",
+        "bio": "Kto sú ľudia, s ktorými budete žiť?",
+        "members": "kto vlastne sú?",
+        "languages": "Akými jazykmi hovoria?"
+      },
+      "candidate": {
+        "specialNeeds": "Špeciálne požiadavky",
+        "bio": "Kto sú ľudia, ktorí potrebujú vašu pomoc?",
+        "members": "kto vlastne sú?",
+        "languages": "Akými jazykmi hovoria?"
+      }
+    },
+    "specialNeeds": {
+      "cat": "Priateľský k mačkám",
+      "dog": "Priateľský k psom",
+      "otherPet": "Priateľské k domácim zvieratám",
+      "transport": "Pomoc s dopravou",
+      "financialHelp": "Finančná pomoc",
+      "child": "Vhodné pre deti",
+      "disabled": "Zakázané"
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 člen",
+      "numberOfMembers_other": "Počet členov: {{count}}"
+    },
+    "detail": {
+      "title": "Detaily zápasu:",
+      "description": "Detail zápasu.",
+      "goBack": "Vráť sa",
+      "contact": {
+        "email": "Email",
+        "call": "Zavolajte"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Naším poslaním je spájať ukrajinských utečencov s hostiteľmi, ktorí ponúkajú pomoc spoľahlivým a efektívnym spôsobom."
+    }
+  },
+  "language": "Jazyk"
+}

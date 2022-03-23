@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kdo smo?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Nadaljuj",
+  "askForHelp": "Prositi za pomoč",
+  "offerHelp": "Ponudite pomoč",
+  "back": "nazaj",
+  "backToStart": "Nazaj na začetek",
+  "close": "Zapri",
+  "add": "Dodaj",
+  "save": "Shrani",
+  "searchHosts": "Iskanje",
+  "submit": "Pošlji",
+  "submitting": "Oddaja",
+  "connections": "Povezave",
+  "noHostsLeft": "Videli ste vse razpoložljive gostitelje, ki se ujemajo z vašim profilom.",
+  "noCandidatesLeft": "Videli ste vse skupine, ki se ujemajo z vašim profilom.",
+  "noHostsSuggestions": "Ni gostitelja, ki bi ustrezal vašim potrebam. Ko bo nov, vas bomo obvestili.",
+  "noCandidateSuggestions": "Nobena skupina beguncev ne bi ustrezala vašim potrebam. Ko bo nov, vas bomo obvestili.",
+  "call": "Pokliči",
+  "sendEmail": "Pošlji E-pošto",
+  "showProfile": "Pokaži profil",
+  "selectLanguage": "Izberite svoj jezik",
+  "auth": {
+    "login": {
+      "title": "Vpiši se",
+      "description": "Za nadaljevanje se prijavite.",
+      "button": {
+        "label": "Vpiši se",
+        "loadingText": "nalaganje"
+      },
+      "forgotPassword": "Ste pozabili geslo?"
+    },
+    "logout": "Odjava",
+    "confirmationSuccess": {
+      "title": "Uspeh!",
+      "description": "Vaš e-poštni naslov je bil potrjen.",
+      "ctaLabel": "Nadaljujte do aplikacije"
+    },
+    "forgotPassword": {
+      "title": "Ste pozabili geslo",
+      "description": "Vnesite svoj e-poštni naslov, da ponastavite geslo.",
+      "button": {
+        "label": "Pošlji",
+        "loadingText": "Oddaja"
+      },
+      "login": "Iščete prijavo?",
+      "successTitle": "Preverite svoj poštni predal",
+      "successDescription": "Poslali smo vam e-pošto s povezavo za ponastavitev gesla."
+    },
+    "resetPassword": {
+      "title": "Ponastavitev gesla",
+      "description": "Vnesite novo geslo.",
+      "button": {
+        "label": "Pošlji",
+        "loadingText": "Oddaja"
+      },
+      "login": "Iščete prijavo?",
+      "successTitle": "Uspeh!",
+      "successDescription": "Vaše geslo je bilo spremenjeno."
+    },
+    "deleteAccount": {
+      "label": "Izbriši račun",
+      "confirmation": "Izbrisali boste vse svoje podatke v tej aplikaciji. Ali želite nadaljevati?",
+      "successTitle": "Račun je izbrisan.",
+      "successDescription": "Izbrisali smo vse podatke v zvezi z vašim računom.",
+      "title": "Izbriši račun",
+      "description": "Trajno izbrišite vse svoje podatke."
+    }
+  },
+  "labels": {
+    "email": "E-naslov",
+    "password": "Geslo",
+    "confirmPassword": "Potrdi geslo",
+    "fullName": "Polno ime",
+    "dateOfBirth": "Datum rojstva",
+    "occupation": "Poklic",
+    "phone": "Telefon",
+    "chat": "Vnesite sporočilo ..."
+  },
+  "placeholders": {
+    "email": "E-naslov",
+    "password": "Geslo",
+    "confirmPassword": "Potrdi geslo",
+    "fullName": "Polno ime",
+    "dateOfBirth": "DD-MM-LLLL",
+    "occupation": "Poklic",
+    "phone": "Telefon",
+    "chat": "Vnesite sporočilo ..."
+  },
+  "form": {
+    "validation": {
+      "required": "to polje je obvezno",
+      "password": "Geslo mora vsebovati najmanj 8 znakov, 1 veliko črko, 1 malo črko in 1 številko",
+      "passwordLength": "Geslo mora biti dolgo vsaj 8 znakov",
+      "passwordsMatch": "geslo se ne ujema",
+      "minLength": "To polje mora vsebovati najmanj {0} znakov",
+      "maxLength": "To polje ne sme vsebovati več kot {0} znakov",
+      "pattern": "To polje ni veljavno",
+      "email": "To polje mora biti veljaven e-poštni naslov",
+      "date": "To polje mora biti veljaven datum",
+      "dateOfBirth": "Prosimo, vnesite datum v obliki DD-MM-LLLL",
+      "dateISO": "To polje mora biti veljaven datum (ISO)",
+      "number": "To polje mora biti veljavna številka",
+      "digits": "To polje mora biti številčno",
+      "min": "To polje mora biti najmanj {0}",
+      "max": "To polje ne sme biti večje od {0}",
+      "bio": "Ali bi bili pripravljeni živeti ... min 125 znakov",
+      "phone": "Prosimo, navedite veljavno telefonsko številko."
+    }
+  },
+  "newChatMessage": "Zdaj ste povezani!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Živeli boste v",
+        "specialNeeds": "Dobili boste dodatno pomoč",
+        "bio": "Kdo so ljudje, s katerimi boste živeli?",
+        "members": "Kdo so v resnici?",
+        "languages": "Katere jezike govorijo?"
+      },
+      "specialNeeds": {
+        "cat": "Mačka prijazna",
+        "dog": "Psu prijazno",
+        "otherPet": "Hišnim ljubljenčkom prijazno",
+        "transport": "Pomoč pri prevozu",
+        "financialHelp": "Finančna pomoč",
+        "child": "Otrokom prijazno",
+        "disabled": "Onemogočeno"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Posebne zahteve",
+        "bio": "Kdo so ljudje, ki potrebujejo vašo pomoč?",
+        "members": "Kdo so v resnici?",
+        "languages": "Katere jezike govorijo?"
+      },
+      "specialNeeds": {
+        "cat": "Mačka",
+        "dog": "pes",
+        "otherPet": "Hišne živali",
+        "transport": "Prevoz",
+        "financialHelp": "Finančna pomoč",
+        "child": "Otrok",
+        "disabled": "Onemogočeno"
+      }
+    },
+    "match": {
+      "title": "To je tekma!",
+      "description": "Oba sta se dogovorila, da si bosta nekaj časa delila dom. Pogovorimo se o podrobnostih."
+    },
+    "connectionRequests": {
+      "title": "Zahteve za povezavo",
+      "description": "Ljudje, ki bi vam radi pomagali."
+    },
+    "matches": {
+      "title": "tekme",
+      "description": "Ljudje, za katere sta se oba strinjala, da jim pomagajo."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 član",
+      "numberOfMembers_other": "{{count}} članov"
+    },
+    "detail": {
+      "title": "Podrobnosti tekme:",
+      "description": "Podrobnosti tekme.",
+      "goBack": "Pojdi nazaj",
+      "contact": {
+        "email": "E-naslov",
+        "call": "Pokliči"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Naše poslanstvo je povezati ukrajinske begunce z gostitelji, ki nudijo pomoč na zanesljiv in učinkovit način."
+    }
+  }
+}

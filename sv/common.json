@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Vilka vi är?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Fortsätta",
+  "askForHelp": "Fråga efter hjälp",
+  "offerHelp": "Erbjuda hjälp",
+  "back": "Tillbaka",
+  "backToStart": "Tillbaka till start",
+  "close": "Stänga",
+  "add": "Lägg till",
+  "save": "Spara",
+  "searchHosts": "Sök",
+  "submit": "Skicka in",
+  "submitting": "Skickar in",
+  "connections": "Anslutningar",
+  "noHostsLeft": "Du har sett alla tillgängliga värdar som matchar din profil.",
+  "noCandidatesLeft": "Du har sett alla grupper som matchar din profil.",
+  "noHostsSuggestions": "Det finns ingen värd som matchar dina behov. Vi meddelar dig när det kommer en ny.",
+  "noCandidateSuggestions": "Det finns ingen flyktinggrupp som matchar dina behov. Vi meddelar dig när det kommer en ny.",
+  "call": "Ring upp",
+  "sendEmail": "Skicka ett email",
+  "showProfile": "Visa profil",
+  "selectLanguage": "Välj ditt språk",
+  "auth": {
+    "login": {
+      "title": "Logga in",
+      "description": "Var vänlig logga in för att fortsätta.",
+      "button": {
+        "label": "Logga in",
+        "loadingText": "Läser in"
+      },
+      "forgotPassword": "Glömt ditt lösenord?"
+    },
+    "logout": "Logga ut",
+    "confirmationSuccess": {
+      "title": "Framgång!",
+      "description": "Din epostadress har bekräftats.",
+      "ctaLabel": "Fortsätt till appen"
+    },
+    "forgotPassword": {
+      "title": "glömt ditt lösenord",
+      "description": "Vänligen skriv in din e-post för att återställa ditt lösenord.",
+      "button": {
+        "label": "Skicka in",
+        "loadingText": "Skickar in"
+      },
+      "login": "Letar du efter inloggning?",
+      "successTitle": "Kolla din brevlåda",
+      "successDescription": "Vi har skickat ett e-postmeddelande med länken för att återställa ditt lösenord."
+    },
+    "resetPassword": {
+      "title": "Återställ lösenord",
+      "description": "Vänligen skriv in ett nytt lösenord.",
+      "button": {
+        "label": "Skicka in",
+        "loadingText": "Skickar in"
+      },
+      "login": "Letar du efter inloggning?",
+      "successTitle": "Framgång!",
+      "successDescription": "Ditt lösenord har ändrats."
+    },
+    "deleteAccount": {
+      "label": "Radera konto",
+      "confirmation": "Du är på väg att radera all din data på den här appen. Vill du fortsätta?",
+      "successTitle": "Kontot raderat.",
+      "successDescription": "Vi har raderat all data som är relaterad till ditt konto.",
+      "title": "Radera konto",
+      "description": "Ta bort all din data permanent."
+    }
+  },
+  "labels": {
+    "email": "E-post",
+    "password": "Lösenord",
+    "confirmPassword": "Bekräfta lösenord",
+    "fullName": "Fullständiga namn",
+    "dateOfBirth": "Födelsedatum",
+    "occupation": "Ockupation",
+    "phone": "Telefon",
+    "chat": "Skriv ett meddelande..."
+  },
+  "placeholders": {
+    "email": "E-post",
+    "password": "Lösenord",
+    "confirmPassword": "Bekräfta lösenord",
+    "fullName": "Fullständiga namn",
+    "dateOfBirth": "DD-MM-ÅÅÅÅ",
+    "occupation": "Ockupation",
+    "phone": "Telefon",
+    "chat": "Skriv ett meddelande..."
+  },
+  "form": {
+    "validation": {
+      "required": "Detta fält är obligatoriskt",
+      "password": "Lösenordet måste innehålla minst 8 tecken, 1 versal, 1 gemen och 1 siffra",
+      "passwordLength": "Lösenordet måste vara minst 8 tecken långt",
+      "passwordsMatch": "Lösenorden matchar inte",
+      "minLength": "Det här fältet måste vara minst {0} tecken långt",
+      "maxLength": "Det här fältet får inte vara längre än {0} tecken",
+      "pattern": "Detta fält är inte giltigt",
+      "email": "Detta fält måste vara en giltig e-postadress",
+      "date": "Detta fält måste vara ett giltigt datum",
+      "dateOfBirth": "Vänligen ange ett datum i formatet DD-MM-ÅÅÅÅ",
+      "dateISO": "Detta fält måste vara ett giltigt datum (ISO)",
+      "number": "Detta fält måste vara ett giltigt nummer",
+      "digits": "Detta fält måste vara siffror",
+      "min": "Det här fältet måste vara minst {0}",
+      "max": "Det här fältet får inte vara mer än {0}",
+      "bio": "Skulle du vara villig att leva ... min 125 tecken",
+      "phone": "Ange ett giltigt telefonnummer."
+    }
+  },
+  "newChatMessage": "Du är nu ansluten!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Du kommer att bo i",
+        "specialNeeds": "Ytterligare hjälp kommer du att få",
+        "bio": "Vilka är människorna du kommer att leva med?",
+        "members": "Vilka är de egentligen?",
+        "languages": "Vilka språk talar de?"
+      },
+      "specialNeeds": {
+        "cat": "Kattvänlig",
+        "dog": "Hundvänlig",
+        "otherPet": "Husdjursvänligt",
+        "transport": "Hjälp med transport",
+        "financialHelp": "Ekonomisk hjälp",
+        "child": "Barnvänlig",
+        "disabled": "Inaktiverad"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Speciella krav",
+        "bio": "Vilka är de människor som behöver din hjälp?",
+        "members": "Vilka är de egentligen?",
+        "languages": "Vilka språk talar de?"
+      },
+      "specialNeeds": {
+        "cat": "Katt",
+        "dog": "Hund",
+        "otherPet": "Sällskapsdjur",
+        "transport": "Transport",
+        "financialHelp": "Ekonomisk hjälp",
+        "child": "Barn",
+        "disabled": "Inaktiverad"
+      }
+    },
+    "match": {
+      "title": "Det är en match!",
+      "description": "Ni kom båda överens om att dela hem en tid tillsammans. Låt oss diskutera detaljerna."
+    },
+    "connectionRequests": {
+      "title": "Anslutningsförfrågningar",
+      "description": "Människor som vill hjälpa dig."
+    },
+    "matches": {
+      "title": "Tändstickor",
+      "description": "Människor som ni båda var överens om att hjälpa."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 medlem",
+      "numberOfMembers_other": "{{count}} medlemmar"
+    },
+    "detail": {
+      "title": "Matchdetaljer:",
+      "description": "Detalj av matchen.",
+      "goBack": "Gå tillbaka",
+      "contact": {
+        "email": "E-post",
+        "call": "Ring upp"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Vårt uppdrag är att koppla samman ukrainska flyktingar med värdar som erbjuder hjälp på ett tillförlitligt och effektivt sätt."
+    }
+  }
+}

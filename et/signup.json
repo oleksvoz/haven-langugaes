@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "ma...",
+    "description": "Valige, mis kirjeldab teie kavatsust",
+    "candidate": {
+      "title": "vaja kohta",
+      "description": "Otsige ajutist peavarju"
+    },
+    "host": {
+      "title": "tahavad aidata",
+      "description": "Pakkuge kellelegi kodu"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "Mis riigis?",
+      "description": "Valitud väärtused on mustad",
+      "any": "Igas riigis"
+    },
+    "duration": {
+      "title": "Kui kauaks?",
+      "description": "Valitud väärtused on mustad",
+      "options": {
+        "days": "1-3 päeva",
+        "weeks": "1-2 nädalat",
+        "months": "1-3 kuud",
+        "unknown": "Ma ei tea veel"
+      }
+    },
+    "transport": {
+      "title": "Kas sa saad sinna?",
+      "description": "Kas saate sinna omal jõul?",
+      "options": {
+        "car": "Jah, mul on auto",
+        "publicTransport": "Jah, ma saan kasutada ühistransporti",
+        "transport": "Ei, mulle tuleb järele tulla"
+      }
+    },
+    "specialNeeds": {
+      "title": "Kas reisite nendega?",
+      "description": "Andke oma võõrustajale teada teie erivajadustest.",
+      "options": {
+        "dog": "Jah, mul on koer kaasas",
+        "cat": "Jah, mul on kass kaasas",
+        "child": "Beebi",
+        "disabled": "Keelatud",
+        "otherPet": "Mul on teine lemmikloom"
+      }
+    },
+    "finances": {
+      "title": "Millised rahalised vahendid teil on?",
+      "description": "Peame teid vastavalt teie hostiga sobitama.",
+      "options": {
+        "coverCosts": "Saan mõned kulud katta",
+        "financialSupport": "Otsin täielikku tuge"
+      }
+    },
+    "language": {
+      "title": "Kuidas sa räägid?",
+      "description": "Valige kõik keeled, mida teie pereliikmed räägivad."
+    },
+    "auth": {
+      "title": "Kuidas me saame teid tuvastada?",
+      "description": "Palun sisestage andmed, millega soovite sisse logida."
+    },
+    "identity": {
+      "title": "Kes sa oled?",
+      "description": "Palun sisestage oma andmed, et inimesed saaksid aimu, kes te olete.",
+      "imageDescription": "Kas jagaksite kodu kellegagi, keda te pole kunagi varem näinud?"
+    },
+    "bio": {
+      "title": "Milline su pere on?",
+      "description": "Andke neile oma perekonnast rohkem teada.",
+      "textareaPlaceholder": "Kirjuta paar lauset oma perekonnast..."
+    },
+    "members": {
+      "title": "Kellega sa reisid?",
+      "description": "Sisestage oma pereliikmete andmed, kellega koos reisite. Kui reisite üksi, klõpsake nuppu Jätka.",
+      "buttonLabel": "Lisa liikmeid",
+      "drawer": {
+        "title": "Lisage pereliige",
+        "description": "Sisestage oma pereliikme andmed, kellega koos reisite.",
+        "imageDescription": "Kas jagaksite kodu kellegagi, keda te pole kunagi varem näinud?",
+        "groupPositionLabel": "Suhe",
+        "groupPositionPlaceholder": "Isa, tütar, vanaema"
+      }
+    },
+    "photos": {
+      "title": "Kuidas sa välja näed?",
+      "description": "Palun laadi üles vähemalt 3 fotot endast ja inimestest, kellele peavarju otsid."
+    },
+    "wellDone": {
+      "title": "Hästi tehtud!",
+      "description": "Oleme filtreerinud hostid, mis vastavad teie vajadustele. Nüüd on teie kord nende profiili põhjal otsustada.",
+      "shareOnFacebook": "Jaga Facebookis",
+      "shareOnInstagram": "Jaga Instagramis",
+      "finishButton": "Vaadake sobivaid hoste"
+    },
+    "summary": {
+      "title": "Kas kõik on õige?",
+      "description": "Palun vaadake oma vastused enne esitamist üle.",
+      "intention": "Otsin ajutist peavarju.",
+      "country": {
+        "title": "Mis riigis?",
+        "any": "Igas riigis"
+      },
+      "duration": {
+        "title": "Kui kauaks?",
+        "options": {
+          "days": "1-3 päeva",
+          "weeks": "1-2 nädalat",
+          "months": "1-3 kuud",
+          "unknown": "Ma ei tea veel"
+        }
+      },
+      "transport": {
+        "title": "Kas sa saad sinna?",
+        "options": {
+          "car": "Jah, mul on auto",
+          "publicTransport": "Jah, ma saan kasutada ühistransporti",
+          "transport": "Ei, mulle tuleb järele tulla"
+        }
+      },
+      "specialNeeds": {
+        "title": "Kas reisite nendega?",
+        "options": {
+          "dog": "Koer",
+          "cat": "Kass",
+          "child": "Beebi",
+          "disabled": "Keelatud",
+          "otherPet": "Mul on teine lemmikloom"
+        }
+      },
+      "finances": {
+        "title": "Millised rahalised vahendid teil on?",
+        "options": {
+          "coverCosts": "Saan mõned kulud katta",
+          "financialSupport": "Otsin täielikku tuge"
+        }
+      },
+      "language": {
+        "title": "Kuidas sa räägid?"
+      },
+      "auth": {
+        "title": "Kuidas me saame teid tuvastada?"
+      },
+      "identity": {
+        "title": "Kes sa oled?"
+      },
+      "bio": {
+        "title": "Milline su pere on?"
+      },
+      "members": {
+        "title": "Kellega sa reisid?",
+        "buttonLabel": "Lisa liikmeid"
+      },
+      "photos": {
+        "title": "Kuidas sa välja näed?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "Mis riigis?",
+      "description": "Valitud väärtused on mustad",
+      "any": "Igas riigis"
+    },
+    "places": {
+      "title": "Kui paljudele inimestele?",
+      "description": "Sisestage pakutavate kohtade arv."
+    },
+    "duration": {
+      "title": "Kui kaua?",
+      "description": "Valige periood, mil nad võivad teie kodus viibida.",
+      "options": {
+        "days": "1-3 päeva",
+        "weeks": "1-2 nädalat",
+        "months": "1-3 kuud",
+        "any": "Nii kaua kui vaja",
+        "unknown": "Ma ei tea veel"
+      }
+    },
+    "transport": {
+      "title": "Kas saate need üles korjata?",
+      "description": "Kas piirile saab sõita?",
+      "options": {
+        "transport": "Jah, mul on auto",
+        "none": "Ei, me peame leidma teise tee"
+      }
+    },
+    "specialNeeds": {
+      "title": "Kas võtaksite need vastu?",
+      "description": "Valige kõik valikud, millele olete avatud.",
+      "options": {
+        "dog": "Koer",
+        "cat": "Kass",
+        "child": "Beebi",
+        "disabled": "Keelatud",
+        "otherPet": "Muu lemmikloom"
+      }
+    },
+    "finances": {
+      "title": "Millist tuge saate pakkuda?",
+      "description": "Palun arvestage oma rahalist olukorda ja valige üks järgmistest.",
+      "options": {
+        "coverCosts": "Saan pakkuda täielikku tuge",
+        "financialSupport": "Loodan, et nad katavad teatud kulud"
+      }
+    },
+    "language": {
+      "title": "Kuidas sa räägid?",
+      "description": "Valige kõik keeled, mida teie pereliikmed räägivad."
+    },
+    "auth": {
+      "title": "Kuidas me saame teid tuvastada?",
+      "description": "Palun sisestage andmed, millega soovite sisse logida."
+    },
+    "identity": {
+      "title": "Kes sa oled?",
+      "description": "Palun sisestage oma andmed, et inimesed saaksid aimu, kes te olete.",
+      "imageDescription": "Kas jagaksite kodu kellegagi, keda te pole kunagi varem näinud?"
+    },
+    "bio": {
+      "title": "Milline su pere on?",
+      "description": "Andke neile oma perekonnast rohkem teada.",
+      "textareaPlaceholder": "Kirjuta paar lauset oma perekonnast..."
+    },
+    "members": {
+      "title": "Kellega nad veel koos elama hakkavad?",
+      "description": "Saate kirjeldada teisi inimesi, kellega oma kodu jagate. Kui elate üksi või eelistate seda mitte jagada, jätkake lihtsalt.",
+      "buttonLabel": "Lisa liikmeid",
+      "drawer": {
+        "title": "Lisage pereliige",
+        "description": "Sisestage andmed pereliikme kohta, kellega koos reisite.",
+        "imageDescription": "Kas jagaksite kodu kellegagi, keda te pole kunagi varem näinud?",
+        "groupPositionPlaceholder": "Isa, tütar, vanaema"
+      }
+    },
+    "photos": {
+      "title": "Kuidas sa välja näed?",
+      "description": "Saate üles laadida veel mõned fotod oma perest."
+    },
+    "wellDone": {
+      "title": "Hästi tehtud!",
+      "description": "Leidsime teile sobivad pagulasrühmad. Nüüd on teie kord nende profiili põhjal otsustada.",
+      "shareOnFacebook": "Jaga Facebookis",
+      "shareOnInstagram": "Jaga Instagramis",
+      "finishButton": "Vaadake sobivaid rühmi"
+    },
+    "summary": {
+      "title": "Kas kõik on õige?",
+      "description": "Palun vaadake oma vastused enne esitamist üle.",
+      "intention": "Soovin pakkuda kellelegi kodu.",
+      "country": {
+        "title": "Mis riigis?",
+        "any": "Igas riigis"
+      },
+      "places": {
+        "title": "Kui paljudele inimestele?"
+      },
+      "duration": {
+        "title": "Kui kaua?",
+        "options": {
+          "days": "1-3 päeva",
+          "weeks": "1-2 nädalat",
+          "months": "1-3 kuud",
+          "any": "Nii kaua kui vaja",
+          "unknown": "Ma ei tea veel"
+        }
+      },
+      "transport": {
+        "title": "Kas saate need üles korjata?",
+        "options": {
+          "transport": "Jah, mul on auto",
+          "none": "Ei, me peame leidma teise tee"
+        }
+      },
+      "specialNeeds": {
+        "title": "Kas võtaksite need vastu?",
+        "options": {
+          "dog": "Koer",
+          "cat": "Kass",
+          "child": "Beebi",
+          "disabled": "Keelatud",
+          "otherPet": "Muu lemmikloom"
+        }
+      },
+      "finances": {
+        "title": "Millist tuge saate pakkuda?",
+        "options": {
+          "coverCosts": "Saan pakkuda täielikku tuge",
+          "financialSupport": "Loodan, et nad katavad teatud kulud"
+        }
+      },
+      "language": {
+        "title": "Kuidas sa räägid?"
+      },
+      "auth": {
+        "title": "Kuidas me saame teid tuvastada?"
+      },
+      "identity": {
+        "title": "Kes sa oled?"
+      },
+      "bio": {
+        "title": "Milline su pere on?",
+        "textareaPlaceholder": "Kirjuta paar lauset oma perekonnast..."
+      },
+      "members": {
+        "title": "Kellega nad veel koos elama hakkavad?",
+        "buttonLabel": "Lisa liikmeid",
+        "drawer": {
+          "title": "Lisage pereliige",
+          "imageDescription": "Kas jagaksite kodu kellegagi, keda te pole kunagi varem näinud?",
+          "groupPositionPlaceholder": "Isa, tütar, vanaema"
+        }
+      },
+      "photos": {
+        "title": "Kuidas sa välja näed?"
+      }
+    }
+  }
+}

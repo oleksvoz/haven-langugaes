@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Keitä olemme?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Jatkaa",
+  "askForHelp": "Pyytää apua",
+  "offerHelp": "Tarjoa apua",
+  "back": "Takaisin",
+  "backToStart": "Takaisin alkuun",
+  "close": "kiinni",
+  "add": "Lisätä",
+  "save": "Tallentaa",
+  "searchHosts": "Hae",
+  "submit": "Lähetä",
+  "submitting": "Lähetetään",
+  "connections": "Liitännät",
+  "noHostsLeft": "Olet nähnyt kaikki saatavilla olevat isännät, jotka vastaavat profiiliasi.",
+  "noCandidatesLeft": "Olet nähnyt kaikki profiiliasi vastaavat ryhmät.",
+  "noHostsSuggestions": "Mikään isäntä ei vastaa tarpeitasi. Ilmoitamme kun uusi tulee.",
+  "noCandidateSuggestions": "Ei ole olemassa tarpeitasi vastaavaa pakolaisryhmää. Ilmoitamme kun uusi tulee.",
+  "call": "Soittaa puhelimella",
+  "sendEmail": "Lähetä sähköposti",
+  "showProfile": "Näytä profiili",
+  "selectLanguage": "Valitse kieli",
+  "auth": {
+    "login": {
+      "title": "Kirjaudu sisään",
+      "description": "Kirjaudu sisään jatkaaksesi.",
+      "button": {
+        "label": "Kirjaudu sisään",
+        "loadingText": "Ladataan"
+      },
+      "forgotPassword": "Unohditko salasanasi?"
+    },
+    "logout": "Kirjautua ulos",
+    "confirmationSuccess": {
+      "title": "Menestys!",
+      "description": "Sähköpostisi on vahvistettu.",
+      "ctaLabel": "Jatka sovellukseen"
+    },
+    "forgotPassword": {
+      "title": "Unohtuiko salasana",
+      "description": "Kirjoita sähköpostiosoitteesi vaihtaaksesi salasanasi.",
+      "button": {
+        "label": "Lähetä",
+        "loadingText": "Lähetetään"
+      },
+      "login": "Etsitkö kirjautumista?",
+      "successTitle": "Tarkista postilaatikkosi",
+      "successDescription": "Olemme lähettäneet sinulle sähköpostin, jossa on linkki salasanan vaihtoon."
+    },
+    "resetPassword": {
+      "title": "Nollaa salasana",
+      "description": "Kirjoita uusi salasana.",
+      "button": {
+        "label": "Lähetä",
+        "loadingText": "Lähetetään"
+      },
+      "login": "Etsitkö kirjautumista?",
+      "successTitle": "Menestys!",
+      "successDescription": "Salasanasi on vaihdettu."
+    },
+    "deleteAccount": {
+      "label": "Poista tili",
+      "confirmation": "Olet poistamassa kaikki tietosi tästä sovelluksesta. Haluatko jatkaa?",
+      "successTitle": "Tili poistettu.",
+      "successDescription": "Olemme poistaneet kaikki tiliisi liittyvät tiedot.",
+      "title": "Poista tili",
+      "description": "Poista pysyvästi kaikki tietosi."
+    }
+  },
+  "labels": {
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "confirmPassword": "Vahvista salasana",
+    "fullName": "Koko nimi",
+    "dateOfBirth": "Syntymäaika",
+    "occupation": "Ammatti",
+    "phone": "Puhelin",
+    "chat": "Kirjoita viesti..."
+  },
+  "placeholders": {
+    "email": "Sähköposti",
+    "password": "Salasana",
+    "confirmPassword": "Vahvista salasana",
+    "fullName": "Koko nimi",
+    "dateOfBirth": "PP-KK-VVVV",
+    "occupation": "Ammatti",
+    "phone": "Puhelin",
+    "chat": "Kirjoita viesti..."
+  },
+  "form": {
+    "validation": {
+      "required": "Tämä kenttä pitää täyttää",
+      "password": "Salasanan tulee sisältää vähintään 8 merkkiä, 1 iso kirjain, 1 pieni kirjain ja 1 numero",
+      "passwordLength": "Salasanan tulee olla vähintään 8 merkkiä pitkä",
+      "passwordsMatch": "Salasanat eivät täsmää",
+      "minLength": "Tämän kentän on oltava vähintään {0} merkkiä pitkä",
+      "maxLength": "Tämä kenttä saa olla enintään {0} merkkiä pitkä",
+      "pattern": "Tämä kenttä ei kelpaa",
+      "email": "Tämän kentän on oltava kelvollinen sähköpostiosoite",
+      "date": "Tämän kentän on oltava kelvollinen päivämäärä",
+      "dateOfBirth": "Anna päivämäärä muodossa PP-KK-VVVV",
+      "dateISO": "Tämän kentän on oltava kelvollinen päivämäärä (ISO)",
+      "number": "Tämän kentän on oltava kelvollinen numero",
+      "digits": "Tämän kentän on oltava numeroita",
+      "min": "Tämän kentän on oltava vähintään {0}",
+      "max": "Tämä kenttä saa olla enintään {0}",
+      "bio": "Olisitko valmis elämään ... min 125 merkkiä",
+      "phone": "Anna kelvollinen puhelinnumero."
+    }
+  },
+  "newChatMessage": "Olet nyt yhteydessä!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Tulet asumaan",
+        "specialNeeds": "Saat lisäapua",
+        "bio": "Keiden kanssa aiot asua?",
+        "members": "Keitä he todella ovat?",
+        "languages": "Mitä kieliä he puhuvat?"
+      },
+      "specialNeeds": {
+        "cat": "Kissaystävällinen",
+        "dog": "Koiraystävällinen",
+        "otherPet": "Lemmikkiystävällinen",
+        "transport": "Apua kuljetukseen",
+        "financialHelp": "Taloudellista apua",
+        "child": "Lapsiystävällinen",
+        "disabled": "Liikuntarajoitteinen"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Erityisvaatimukset",
+        "bio": "Ketkä ovat ihmisiä, jotka tarvitsevat apuasi?",
+        "members": "Keitä he oikein ovat?",
+        "languages": "Mitä kieliä he puhuvat?"
+      },
+      "specialNeeds": {
+        "cat": "Kissa",
+        "dog": "Koira",
+        "otherPet": "Lemmikki",
+        "transport": "Kuljetus",
+        "financialHelp": "Taloudellista apua",
+        "child": "Lapsi",
+        "disabled": "Liikuntarajoitteinen"
+      }
+    },
+    "match": {
+      "title": "Se on pari!",
+      "description": "Sovitte molemmat jakavanne kodin jonkin aikaa yhdessä. Keskustellaan yksityiskohdista."
+    },
+    "connectionRequests": {
+      "title": "Yhteyspyynnöt",
+      "description": "Ihmiset, jotka haluavat auttaa sinua."
+    },
+    "matches": {
+      "title": "Ottelut",
+      "description": "Ihmiset, joista olette molemmat samaa mieltä, auttavat."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 jäsen",
+      "numberOfMembers_other": "{{count}} jäsentä"
+    },
+    "detail": {
+      "title": "Ottelun tiedot:",
+      "description": "Yksityiskohta ottelusta.",
+      "goBack": "Mene takaisin",
+      "contact": {
+        "email": "Sähköposti",
+        "call": "Soittaa puhelimella"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Missiomme on yhdistää ukrainalaiset pakolaiset majoittajiin, jotka tarjoavat apua luotettavalla ja tehokkaalla tavalla."
+    }
+  }
+}

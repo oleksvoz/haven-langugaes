@@ -1,0 +1,328 @@
+{
+  "router": {
+    "title": "ja...",
+    "description": "Vyberte, čo vystihuje váš zámer",
+    "candidate": {
+      "title": "potrebuje miesto",
+      "description": "Nájdite si dočasné útočisko"
+    },
+    "host": {
+      "title": "chcieť pomôcť",
+      "description": "Poskytnúť niekomu domov"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "v ktorej krajine?",
+      "description": "Vybrané hodnoty sú čierne",
+      "any": "V ktorejkoľvek krajine"
+    },
+    "duration": {
+      "title": "Ako dlho?",
+      "description": "Vybrané hodnoty sú čierne",
+      "options": {
+        "days": "1-3 dni",
+        "weeks": "1-2 týždne",
+        "months": "1-3 mesiace",
+        "unknown": "ešte neviem",
+        "shortTerm": "1-2 týždne",
+        "longTerm": "1-3 mesiace"
+      }
+    },
+    "transport": {
+      "title": "Môžete sa tam dostať?",
+      "description": "Dokážete sa tam dostať sami?",
+      "options": {
+        "car": "Áno, mám auto",
+        "publicTransport": "Áno, môžem použiť verejnú dopravu",
+        "transport": "Nie, treba ma vyzdvihnúť",
+        "needToBePickedUp": "Nie, treba ma vyzdvihnúť"
+      }
+    },
+    "specialNeeds": {
+      "title": "Cestovanie s týmito?",
+      "description": "Dajte svojmu hostiteľovi vedieť o svojom miláčikovi.",
+      "options": {
+        "dog": "Áno, mám so sebou psa",
+        "cat": "Áno, mám so sebou mačku",
+        "child": "Baby",
+        "disabled": "Zakázané",
+        "otherPet": "Mám iné zvieratko",
+        "none": "Žiadne z týchto"
+      }
+    },
+    "finances": {
+      "title": "Aké máte financie?",
+      "description": "Musíme vás zodpovedajúcim spôsobom spojiť s vaším hostiteľom.",
+      "options": {
+        "coverCosts": "Môžem pokryť niektoré náklady",
+        "financialSupport": "Hľadám plnú podporu",
+        "canCoverCosts": "Môžem pokryť niektoré náklady",
+        "needFullSupport": "Hľadám plnú podporu"
+      }
+    },
+    "language": {
+      "title": "Ako môžeš hovoriť?",
+      "description": "Vyberte všetky jazyky, ktorými hovoria členovia vašej rodiny."
+    },
+    "auth": {
+      "title": "Ako vás môžeme identifikovať?",
+      "description": "Zadajte údaje, pomocou ktorých sa chcete prihlásiť."
+    },
+    "identity": {
+      "title": "Ako vás môžeme identifikovať?",
+      "description": "Zadajte údaje, pomocou ktorých sa chcete prihlásiť.",
+      "imageDescription": "Zdieľali by ste domov s niekým, koho ste nikdy predtým nevideli?"
+    },
+    "bio": {
+      "title": "Aká je tvoja rodina?",
+      "description": "Dajte svojmu hostiteľovi vedieť viac o vašej rodine.",
+      "textareaPlaceholder": "Napíšte pár viet o svojej rodine..."
+    },
+    "members": {
+      "title": "S kým cestuješ?",
+      "description": "Vyplňte prosím údaje o svojich rodinných príslušníkoch, s ktorými cestujete. V prípade, že cestujete sami, kliknite na Pokračovať.",
+      "buttonLabel": "Pridať členov",
+      "drawer": {
+        "title": "Pridajte člena rodiny",
+        "description": "Vyplňte údaje o členovi rodiny, s ktorým cestujete.",
+        "imageDescription": "Zdieľali by ste domov s niekým, koho ste nikdy predtým nevideli?",
+        "groupPositionLabel": "Vzťah",
+        "groupPositionPlaceholder": "Otec, dcéra, stará mama"
+      }
+    },
+    "photos": {
+      "title": "Ako vyzeráš?",
+      "description": "Nahrajte pár fotiek svojej rodiny pre svojich hostiteľov."
+    },
+    "wellDone": {
+      "title": "Výborne!",
+      "description": "Vaša žiadosť je dokončená",
+      "shareOnFacebook": "Zdielať na Facebook-u",
+      "shareOnInstagram": "Zdieľajte na Instagrame",
+      "finishButton": "Nájdite môjho hostiteľa"
+    },
+    "summary": {
+      "title": "Je všetko správne?",
+      "description": "Pred odoslaním si prosím skontrolujte svoje odpovede.",
+      "intention": "Hľadám dočasné útočisko.",
+      "country": {
+        "title": "v ktorej krajine?",
+        "any": "V ktorejkoľvek krajine"
+      },
+      "duration": {
+        "title": "Ako dlho?",
+        "options": {
+          "days": "1-3 dni",
+          "weeks": "1-2 týždne",
+          "months": "1-3 mesiace",
+          "unknown": "ešte neviem"
+        }
+      },
+      "transport": {
+        "title": "Môžete sa tam dostať?",
+        "options": {
+          "car": "Áno, mám auto",
+          "publicTransport": "Áno, môžem použiť verejnú dopravu",
+          "transport": "Nie, potrebujem ma vyzdvihnúť"
+        }
+      },
+      "specialNeeds": {
+        "title": "Cestujete s týmito?",
+        "options": {
+          "dog": "pes",
+          "cat": "Cat",
+          "child": "Baby",
+          "disabled": "Zakázané",
+          "otherPet": "Mám iné zvieratko"
+        }
+      },
+      "finances": {
+        "title": "Aké máte financie?",
+        "options": {
+          "coverCosts": "Môžem pokryť niektoré náklady",
+          "financialSupport": "Hľadám plnú podporu"
+        }
+      },
+      "language": {
+        "title": "Ako môžeš hovoriť?"
+      },
+      "auth": {
+        "title": "Ako vás môžeme identifikovať?"
+      },
+      "identity": {
+        "title": "Kto si?"
+      },
+      "bio": {
+        "title": "Aká je tvoja rodina?"
+      },
+      "members": {
+        "title": "S kým cestuješ?",
+        "buttonLabel": "Pridať členov"
+      },
+      "photos": {
+        "title": "Ako vyzeráš?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "v ktorej krajine?",
+      "description": "Vybrané hodnoty sú čierne",
+      "any": "V ktorejkoľvek krajine"
+    },
+    "places": {
+      "title": "Pre koľko ľudí?",
+      "description": "Zadajte počet miest, ktoré môžete ponúknuť."
+    },
+    "duration": {
+      "title": "Ako dlho?",
+      "description": "Vyberte obdobie, počas ktorého môžu zostať u vás doma.",
+      "options": {
+        "days": "1-3 dni",
+        "weeks": "1-2 týždne",
+        "months": "1-3 mesiace",
+        "any": "Tak dlho, ako to bude potrebné",
+        "unknown": "ešte neviem"
+      }
+    },
+    "transport": {
+      "title": "Môžete ich vyzdvihnúť?",
+      "description": "Môžete jazdiť na hranicu?",
+      "options": {
+        "transport": "Áno, mám auto",
+        "none": "Nie, musíme nájsť iný spôsob"
+      }
+    },
+    "specialNeeds": {
+      "title": "Prijali by ste tieto?",
+      "description": "Vyberte všetky možnosti, ktoré máte otvorené.",
+      "options": {
+        "dog": "pes",
+        "cat": "Cat",
+        "child": "Baby",
+        "disabled": "Zakázané",
+        "otherPet": "Iný maznáčik"
+      }
+    },
+    "finances": {
+      "title": "Akú podporu môžete ponúknuť?",
+      "description": "Zvážte svoju finančnú situáciu a vyberte jednu z nasledujúcich možností.",
+      "options": {
+        "coverCosts": "Môžem poskytnúť plnú podporu",
+        "financialSupport": "Očakávam, že pokryjú nejaké náklady"
+      }
+    },
+    "language": {
+      "title": "Ako môžeš hovoriť?",
+      "description": "Vyberte všetky jazyky, ktorými hovoria členovia vašej rodiny."
+    },
+    "auth": {
+      "title": "Ako vás môžeme identifikovať?",
+      "description": "Zadajte údaje, pomocou ktorých sa chcete prihlásiť."
+    },
+    "identity": {
+      "title": "Kto si?",
+      "description": "Vyplňte prosím svoje údaje, aby si ľudia mohli urobiť predstavu o tom, kto ste.",
+      "imageDescription": "Zdieľali by ste domov s niekým, koho ste nikdy predtým nevideli?"
+    },
+    "bio": {
+      "title": "Aká je tvoja rodina?",
+      "description": "Dajte im vedieť viac o vašej rodine.",
+      "textareaPlaceholder": "Napíšte pár viet o svojej rodine..."
+    },
+    "members": {
+      "title": "S kým iným budú žiť?",
+      "description": "Môžete opísať ostatných ľudí, s ktorými zdieľate svoj domov. Ak žijete sami alebo to nechcete zdieľať, pokračujte.",
+      "buttonLabel": "Pridať členov",
+      "drawer": {
+        "title": "Pridajte člena rodiny",
+        "description": "Vyplňte údaje o členovi rodiny, s ktorým cestujete.",
+        "imageDescription": "Zdieľali by ste domov s niekým, koho ste nikdy predtým nevideli?",
+        "groupPositionPlaceholder": "Otec, dcéra, stará mama"
+      }
+    },
+    "photos": {
+      "title": "Ako vyzeráš?",
+      "description": "Môžete nahrať ďalšie fotografie vašej rodiny."
+    },
+    "wellDone": {
+      "title": "Výborne!",
+      "description": "Našli sme pre vás niekoľko zodpovedajúcich skupín utečencov. Teraz je na vás, aby ste sa rozhodli na základe ich profilu.",
+      "shareOnFacebook": "Zdielať na Facebook-u",
+      "shareOnInstagram": "Zdieľať na Instagrame",
+      "finishButton": "Pozrite si zodpovedajúce skupiny"
+    },
+    "summary": {
+      "title": "Je všetko správne?",
+      "description": "Pred odoslaním si prosím skontrolujte svoje odpovede.",
+      "intention": "Chcem niekomu poskytnúť domov.",
+      "country": {
+        "title": "v ktorej krajine?",
+        "any": "V ktorejkoľvek krajine"
+      },
+      "places": {
+        "title": "Pre koľko ľudí?"
+      },
+      "duration": {
+        "title": "Ako dlho?",
+        "options": {
+          "days": "1-3 dni",
+          "weeks": "1-2 týždne",
+          "months": "1-3 mesiace",
+          "any": "Tak dlho, ako to bude potrebné",
+          "unknown": "ešte neviem"
+        }
+      },
+      "transport": {
+        "title": "Môžete ich vyzdvihnúť?",
+        "options": {
+          "transport": "Áno, mám auto",
+          "none": "Nie, musíme nájsť iný spôsob"
+        }
+      },
+      "specialNeeds": {
+        "title": "Prijali by ste tieto?",
+        "options": {
+          "dog": "pes",
+          "cat": "Cat",
+          "child": "Baby",
+          "disabled": "Zakázané",
+          "otherPet": "Iný maznáčik"
+        }
+      },
+      "finances": {
+        "title": "Akú podporu môžete ponúknuť?",
+        "options": {
+          "coverCosts": "Môžem poskytnúť plnú podporu",
+          "financialSupport": "Očakávam, že pokryjú nejaké náklady"
+        }
+      },
+      "language": {
+        "title": "Ako môžeš hovoriť?"
+      },
+      "auth": {
+        "title": "Ako vás môžeme identifikovať?"
+      },
+      "identity": {
+        "title": "Kto si?"
+      },
+      "bio": {
+        "title": "Aká je tvoja rodina?",
+        "textareaPlaceholder": "Napíšte pár viet o svojej rodine..."
+      },
+      "members": {
+        "title": "S kým iným budú žiť?",
+        "buttonLabel": "Pridať členov",
+        "drawer": {
+          "title": "Pridajte člena rodiny",
+          "imageDescription": "Zdieľali by ste domov s niekým, koho ste nikdy predtým nevideli?",
+          "groupPositionPlaceholder": "Otec, dcéra, stará mama"
+        }
+      },
+      "photos": {
+        "title": "Ako vyzeráš?"
+      }
+    }
+  }
+}

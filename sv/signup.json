@@ -1,0 +1,322 @@
+{
+  "router": {
+    "title": "jag...",
+    "description": "Välj vad som beskriver din avsikt",
+    "candidate": {
+      "title": "behöver en plats",
+      "description": "Hitta ett tillfälligt skydd"
+    },
+    "host": {
+      "title": "vill hjälpa till",
+      "description": "Ge ett hem åt någon"
+    }
+  },
+  "candidate": {
+    "country": {
+      "title": "I vilket land?",
+      "description": "Valda värden är svarta",
+      "any": "I vilket land som helst"
+    },
+    "duration": {
+      "title": "Hur länge?",
+      "description": "Valda värden är svarta",
+      "options": {
+        "days": "1-3 dagar",
+        "weeks": "1-2 veckor",
+        "months": "1-3 månader",
+        "unknown": "Jag vet inte än"
+      }
+    },
+    "transport": {
+      "title": "Kan du komma dit?",
+      "description": "Kan du ta dig dit på egen hand?",
+      "options": {
+        "car": "Ja, jag har en bil",
+        "publicTransport": "Ja, jag kan använda kollektivtrafiken",
+        "transport": "Nej, jag måste hämtas"
+      }
+    },
+    "specialNeeds": {
+      "title": "Reser du med dessa?",
+      "description": "Låt din värd veta om särskilda behov du har.",
+      "options": {
+        "dog": "Ja, jag har en hund med mig",
+        "cat": "Ja, jag har en katt med mig",
+        "child": "Bebis",
+        "disabled": "Inaktiverad",
+        "otherPet": "Jag har ett annat husdjur"
+      }
+    },
+    "finances": {
+      "title": "Vad har du för ekonomi?",
+      "description": "Vi måste matcha dig med din värd i enlighet med detta.",
+      "options": {
+        "coverCosts": "Jag kan täcka vissa kostnader",
+        "financialSupport": "Jag söker ett fullständigt stöd"
+      }
+    },
+    "language": {
+      "title": "Hur kan du prata?",
+      "description": "Välj alla språk som dina familjemedlemmar talar."
+    },
+    "auth": {
+      "title": "Hur kan vi identifiera dig?",
+      "description": "Vänligen fyll i de uppgifter du vill logga in med."
+    },
+    "identity": {
+      "title": "Vem är du?",
+      "description": "Vänligen fyll i dina uppgifter så att personerna kan få en uppfattning om vem du är.",
+      "imageDescription": "Skulle du dela hem med någon du aldrig sett förut?"
+    },
+    "bio": {
+      "title": "Hur är din familj?",
+      "description": "Låt dem veta mer om din familj.",
+      "textareaPlaceholder": "Skriv några meningar om din familj..."
+    },
+    "members": {
+      "title": "Vem reser du med?",
+      "description": "Vänligen fyll i uppgifterna om dina familjemedlemmar du reser med. Om du reser ensam klickar du på Fortsätt.",
+      "buttonLabel": "Lägg till medlemmar",
+      "drawer": {
+        "title": "Lägg till en familjemedlem",
+        "description": "Fyll i uppgifterna om en familjemedlem du reser med.",
+        "imageDescription": "Skulle du dela hem med någon du aldrig sett förut?",
+        "groupPositionLabel": "Relation",
+        "groupPositionPlaceholder": "Far, dotter, mormor"
+      }
+    },
+    "photos": {
+      "title": "Hur ser du ut?",
+      "description": "Ladda upp minst 3 foton på dig själv och de personer du söker skydd åt."
+    },
+    "wellDone": {
+      "title": "Bra gjort!",
+      "description": "Vi har filtrerat värdar som matchar dina behov. Nu är det din tur att bestämma, baserat på deras profil.",
+      "shareOnFacebook": "Dela på Facebook",
+      "shareOnInstagram": "Dela på Instagram",
+      "finishButton": "Se matchande värdar"
+    },
+    "summary": {
+      "title": "Är allt korrekt?",
+      "description": "Granska dina svar innan du skickar in.",
+      "intention": "Jag söker ett tillfälligt härbärge.",
+      "country": {
+        "title": "I vilket land?",
+        "any": "I vilket land som helst"
+      },
+      "duration": {
+        "title": "Hur länge?",
+        "options": {
+          "days": "1-3 dagar",
+          "weeks": "1-2 veckor",
+          "months": "1-3 månader",
+          "unknown": "Jag vet inte än"
+        }
+      },
+      "transport": {
+        "title": "Kan du komma dit?",
+        "options": {
+          "car": "Ja, jag har en bil",
+          "publicTransport": "Ja, jag kan använda kollektivtrafiken",
+          "transport": "Nej, jag måste hämtas"
+        }
+      },
+      "specialNeeds": {
+        "title": "Reser du med dessa?",
+        "options": {
+          "dog": "Hund",
+          "cat": "Katt",
+          "child": "Bebis",
+          "disabled": "Inaktiverad",
+          "otherPet": "Jag har ett annat husdjur"
+        }
+      },
+      "finances": {
+        "title": "Vad har du för ekonomi?",
+        "options": {
+          "coverCosts": "Jag kan täcka vissa kostnader",
+          "financialSupport": "Jag söker ett fullständigt stöd"
+        }
+      },
+      "language": {
+        "title": "Hur kan du prata?"
+      },
+      "auth": {
+        "title": "Hur kan vi identifiera dig?"
+      },
+      "identity": {
+        "title": "Vem är du?"
+      },
+      "bio": {
+        "title": "Hur är din familj?"
+      },
+      "members": {
+        "title": "Vem reser du med?",
+        "buttonLabel": "Lägg till medlemmar"
+      },
+      "photos": {
+        "title": "Hur ser du ut?"
+      }
+    }
+  },
+  "host": {
+    "country": {
+      "title": "I vilket land?",
+      "description": "Valda värden är svarta",
+      "any": "I vilket land som helst"
+    },
+    "places": {
+      "title": "För hur många människor?",
+      "description": "Ange antalet platser du kan erbjuda."
+    },
+    "duration": {
+      "title": "Hur länge?",
+      "description": "Välj den period de kan bo i ditt hem.",
+      "options": {
+        "days": "1-3 dagar",
+        "weeks": "1-2 veckor",
+        "months": "1-3 månader",
+        "any": "Så länge det behövs",
+        "unknown": "Jag vet inte än"
+      }
+    },
+    "transport": {
+      "title": "Kan du hämta dem?",
+      "description": "Kan du köra till gränsen?",
+      "options": {
+        "transport": "Ja, jag har en bil",
+        "none": "Nej, vi måste hitta ett annat sätt"
+      }
+    },
+    "specialNeeds": {
+      "title": "Skulle du acceptera dessa?",
+      "description": "Välj alla alternativ du är öppen för.",
+      "options": {
+        "dog": "Hund",
+        "cat": "Katt",
+        "child": "Bebis",
+        "disabled": "Inaktiverad",
+        "otherPet": "Annat husdjur"
+      }
+    },
+    "finances": {
+      "title": "Vilket stöd kan du erbjuda?",
+      "description": "Tänk på din ekonomiska situation och välj något av följande.",
+      "options": {
+        "coverCosts": "Jag kan ge full support",
+        "financialSupport": "Jag förväntar mig att de ska täcka vissa kostnader"
+      }
+    },
+    "language": {
+      "title": "Hur kan du prata?",
+      "description": "Välj alla språk som dina familjemedlemmar talar."
+    },
+    "auth": {
+      "title": "Hur kan vi identifiera dig?",
+      "description": "Vänligen fyll i de uppgifter du vill logga in med."
+    },
+    "identity": {
+      "title": "Vem är du?",
+      "description": "Vänligen fyll i dina uppgifter så att personerna kan få en uppfattning om vem du är.",
+      "imageDescription": "Skulle du dela hem med någon du aldrig sett förut?"
+    },
+    "bio": {
+      "title": "Hur är din familj?",
+      "description": "Låt dem veta mer om din familj.",
+      "textareaPlaceholder": "Skriv några meningar om din familj..."
+    },
+    "members": {
+      "title": "Vem mer ska de leva med?",
+      "description": "Du kan beskriva andra personer som du delar ditt hem med. Om du bor ensam eller föredrar att inte dela detta, fortsätt bara.",
+      "buttonLabel": "Lägg till medlemmar",
+      "drawer": {
+        "title": "Lägg till en familjemedlem",
+        "description": "Fyll i uppgifterna om en familjemedlem du reser med.",
+        "imageDescription": "Skulle du dela hem med någon du aldrig sett förut?",
+        "groupPositionPlaceholder": "Far, dotter, mormor"
+      }
+    },
+    "photos": {
+      "title": "Hur ser du ut?",
+      "description": "Du kan ladda upp några fler foton av din familj."
+    },
+    "wellDone": {
+      "title": "Bra gjort!",
+      "description": "Vi har hittat några matchande flyktinggrupper åt dig. Nu är det din tur att bestämma, baserat på deras profil.",
+      "shareOnFacebook": "Dela på Facebook",
+      "shareOnInstagram": "Dela på Instagram",
+      "finishButton": "Se matchande grupper"
+    },
+    "summary": {
+      "title": "Är allt korrekt?",
+      "description": "Granska dina svar innan du skickar in.",
+      "intention": "Jag vill ge ett hem åt någon.",
+      "country": {
+        "title": "I vilket land?",
+        "any": "I vilket land som helst"
+      },
+      "places": {
+        "title": "För hur många människor?"
+      },
+      "duration": {
+        "title": "Hur länge?",
+        "options": {
+          "days": "1-3 dagar",
+          "weeks": "1-2 veckor",
+          "months": "1-3 månader",
+          "any": "Så länge det behövs",
+          "unknown": "Jag vet inte än"
+        }
+      },
+      "transport": {
+        "title": "Kan du hämta dem?",
+        "options": {
+          "transport": "Ja, jag har en bil",
+          "none": "Nej, vi måste hitta ett annat sätt"
+        }
+      },
+      "specialNeeds": {
+        "title": "Skulle du acceptera dessa?",
+        "options": {
+          "dog": "Hund",
+          "cat": "Katt",
+          "child": "Bebis",
+          "disabled": "Inaktiverad",
+          "otherPet": "Annat husdjur"
+        }
+      },
+      "finances": {
+        "title": "Vilket stöd kan du erbjuda?",
+        "options": {
+          "coverCosts": "Jag kan ge full support",
+          "financialSupport": "Jag förväntar mig att de ska täcka vissa kostnader"
+        }
+      },
+      "language": {
+        "title": "Hur kan du prata?"
+      },
+      "auth": {
+        "title": "Hur kan vi identifiera dig?"
+      },
+      "identity": {
+        "title": "Vem är du?"
+      },
+      "bio": {
+        "title": "Hur är din familj?",
+        "textareaPlaceholder": "Skriv några meningar om din familj..."
+      },
+      "members": {
+        "title": "Vem mer ska de leva med?",
+        "buttonLabel": "Lägg till medlemmar",
+        "drawer": {
+          "title": "Lägg till en familjemedlem",
+          "imageDescription": "Skulle du dela hem med någon du aldrig sett förut?",
+          "groupPositionPlaceholder": "Far, dotter, mormor"
+        }
+      },
+      "photos": {
+        "title": "Hur ser du ut?"
+      }
+    }
+  }
+}

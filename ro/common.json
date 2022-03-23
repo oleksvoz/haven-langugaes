@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Cine suntem noi?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Continua",
+  "askForHelp": "Întreabă pentru ajutor",
+  "offerHelp": "Oferă ajutor",
+  "back": "Înapoi",
+  "backToStart": "Înapoi la început",
+  "close": "Închide",
+  "add": "Adăuga",
+  "save": "salva",
+  "searchHosts": "Căutare",
+  "submit": "Trimite",
+  "submitting": "Trimiterea",
+  "connections": "Conexiuni",
+  "noHostsLeft": "Ați văzut toate gazdele disponibile care se potrivesc cu profilul dvs.",
+  "noCandidatesLeft": "Ați văzut toate grupurile care se potrivesc cu profilul dvs.",
+  "noHostsSuggestions": "Nu există gazdă care să corespundă nevoilor dvs. Vă vom anunța când va fi unul nou.",
+  "noCandidateSuggestions": "Nu există niciun grup de refugiați care să corespundă nevoilor dvs. Vă vom anunța când va fi unul nou.",
+  "call": "Apel",
+  "sendEmail": "Trimite un email",
+  "showProfile": "Arată profilul",
+  "selectLanguage": "Selectați limba dvs",
+  "auth": {
+    "login": {
+      "title": "Autentificare",
+      "description": "Vă rugăm să vă conectați pentru a continua.",
+      "button": {
+        "label": "Autentificare",
+        "loadingText": "Se încarcă"
+      },
+      "forgotPassword": "Ti-ai uitat parola?"
+    },
+    "logout": "Deconectare",
+    "confirmationSuccess": {
+      "title": "Succes!",
+      "description": "E-mailul dvs. a fost confirmat.",
+      "ctaLabel": "Continuați la aplicație"
+    },
+    "forgotPassword": {
+      "title": "Ați uitat parola",
+      "description": "Vă rugăm să introduceți adresa de e-mail pentru a vă reseta parola.",
+      "button": {
+        "label": "Trimite",
+        "loadingText": "Trimiterea"
+      },
+      "login": "Cauți autentificare?",
+      "successTitle": "Verifica-ti casuta de e-mail",
+      "successDescription": "V-am trimis un e-mail cu linkul pentru a vă reseta parola."
+    },
+    "resetPassword": {
+      "title": "Reseteaza parola",
+      "description": "Vă rugăm să introduceți o nouă parolă.",
+      "button": {
+        "label": "Trimite",
+        "loadingText": "Trimiterea"
+      },
+      "login": "Cauți autentificare?",
+      "successTitle": "Succes!",
+      "successDescription": "Parola dvs. a fost schimbată."
+    },
+    "deleteAccount": {
+      "label": "Șterge cont",
+      "confirmation": "Sunteți pe cale să ștergeți toate datele din această aplicație. Doriți să continuați?",
+      "successTitle": "Contul a fost șters.",
+      "successDescription": "Am șters toate datele legate de contul dvs.",
+      "title": "Șterge cont",
+      "description": "Ștergeți definitiv toate datele dvs."
+    }
+  },
+  "labels": {
+    "email": "E-mail",
+    "password": "Parola",
+    "confirmPassword": "Confirmă parola",
+    "fullName": "Numele complet",
+    "dateOfBirth": "Data de nastere",
+    "occupation": "Ocupaţie",
+    "phone": "Telefon",
+    "chat": "Scrie un mesaj..."
+  },
+  "placeholders": {
+    "email": "E-mail",
+    "password": "Parola",
+    "confirmPassword": "Confirmă parola",
+    "fullName": "Numele complet",
+    "dateOfBirth": "ZZ-LL-AAAA",
+    "occupation": "Ocupaţie",
+    "phone": "Telefon",
+    "chat": "Scrie un mesaj..."
+  },
+  "form": {
+    "validation": {
+      "required": "Acest câmp este obligatoriu",
+      "password": "Parola trebuie să conțină cel puțin 8 caractere, 1 majuscule, 1 minuscule și 1 număr",
+      "passwordLength": "Parola trebuie să aibă cel puțin 8 caractere",
+      "passwordsMatch": "parolele nu se potrivesc",
+      "minLength": "Acest câmp trebuie să aibă cel puțin {0} caractere",
+      "maxLength": "Acest câmp nu trebuie să aibă mai mult de {0} caractere",
+      "pattern": "Acest câmp nu este valid",
+      "email": "Acest câmp trebuie să fie o adresă de e-mail validă",
+      "date": "Acest câmp trebuie să fie o dată validă",
+      "dateOfBirth": "Vă rugăm să introduceți o dată în formatul ZZ-LL-AAAA",
+      "dateISO": "Acest câmp trebuie să fie o dată validă (ISO)",
+      "number": "Acest câmp trebuie să fie un număr valid",
+      "digits": "Acest câmp trebuie să fie în cifre",
+      "min": "Acest câmp trebuie să fie de cel puțin {0}",
+      "max": "Acest câmp nu trebuie să depășească {0}",
+      "bio": "Ai fi dispus să trăiești... min 125 de caractere",
+      "phone": "Vă rugăm să furnizați un număr de telefon valid."
+    }
+  },
+  "newChatMessage": "Acum ești conectat!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Vei locui în",
+        "specialNeeds": "Ajutor suplimentar pe care îl veți primi",
+        "bio": "Cine sunt oamenii cu care vei locui?",
+        "members": "Cine sunt ei cu adevărat?",
+        "languages": "Ce limbi vorbesc ei?"
+      },
+      "specialNeeds": {
+        "cat": "Prietenos cu pisici",
+        "dog": "Prietenos cu câinii",
+        "otherPet": "Animale de companie prietenoase",
+        "transport": "Ajutor la transport",
+        "financialHelp": "Ajutor financiar",
+        "child": "Copil prietenos",
+        "disabled": "Dezactivat"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Cerinte speciale",
+        "bio": "Cine sunt oamenii care au nevoie de ajutorul tău?",
+        "members": "Cine sunt ei cu adevărat?",
+        "languages": "Ce limbi vorbesc ei?"
+      },
+      "specialNeeds": {
+        "cat": "Pisică",
+        "dog": "Câine",
+        "otherPet": "Animal de companie",
+        "transport": "Transport",
+        "financialHelp": "Ajutor financiar",
+        "child": "Copil",
+        "disabled": "Dezactivat"
+      }
+    },
+    "match": {
+      "title": "Este o potrivire!",
+      "description": "Amândoi ați convenit să împărțiți casa pentru ceva timp împreună. Să discutăm detaliile."
+    },
+    "connectionRequests": {
+      "title": "Cereri de conectare",
+      "description": "Oameni care ar dori să te ajute."
+    },
+    "matches": {
+      "title": "Chibrituri",
+      "description": "Oameni pe care amândoi ați fost de acord cu ajutorul."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 membru",
+      "numberOfMembers_other": "{{count}} membri"
+    },
+    "detail": {
+      "title": "Detaliu meci:",
+      "description": "Detaliul meciului.",
+      "goBack": "Întoarce-te",
+      "contact": {
+        "email": "E-mail",
+        "call": "Apel"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Misiunea noastră este de a conecta refugiații ucraineni cu gazde care oferă ajutor într-un mod de încredere și eficient."
+    }
+  }
+}

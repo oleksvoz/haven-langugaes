@@ -1,0 +1,182 @@
+{
+  "footerAboutLinkLabel": "Kdo jsme?",
+  "footerGDPRLinkLabel": "GDPR",
+  "continue": "Pokračovat",
+  "askForHelp": "Požádat o pomoc",
+  "offerHelp": "Nabídnout pomoc",
+  "back": "Zadní",
+  "backToStart": "Zpět na začátek",
+  "close": "Zavřít",
+  "add": "Přidat",
+  "save": "Uložit",
+  "searchHosts": "Vyhledávání",
+  "submit": "Předložit",
+  "submitting": "Odesílání",
+  "connections": "Spojení",
+  "noHostsLeft": "Viděli jste všechny dostupné hostitele odpovídající vašemu profilu.",
+  "noCandidatesLeft": "Viděli jste všechny skupiny odpovídající vašemu profilu.",
+  "noHostsSuggestions": "Neexistuje žádný hostitel odpovídající vašim potřebám. Až bude nový, dáme vám vědět.",
+  "noCandidateSuggestions": "Neexistuje žádná uprchlická skupina odpovídající vašim potřebám. Až bude nový, dáme vám vědět.",
+  "call": "Volání",
+  "sendEmail": "Poslat email",
+  "showProfile": "Zobrazit profil",
+  "selectLanguage": "Vyberte svůj jazyk",
+  "auth": {
+    "login": {
+      "title": "Přihlásit se",
+      "description": "Pro pokračování se prosím přihlašte.",
+      "button": {
+        "label": "Přihlásit se",
+        "loadingText": "načítání"
+      },
+      "forgotPassword": "Zapomněli jste heslo?"
+    },
+    "logout": "Odhlásit se",
+    "confirmationSuccess": {
+      "title": "Úspěch!",
+      "description": "Váš email byl potvrzen.",
+      "ctaLabel": "Pokračujte do aplikace"
+    },
+    "forgotPassword": {
+      "title": "zapomenuté heslo",
+      "description": "Zadejte prosím svůj e-mail pro obnovení hesla.",
+      "button": {
+        "label": "Předložit",
+        "loadingText": "Odesílání"
+      },
+      "login": "Hledáte přihlášení?",
+      "successTitle": "Zkontrolujte svou poštovní schránku",
+      "successDescription": "Poslali jsme vám e-mail s odkazem na obnovení hesla."
+    },
+    "resetPassword": {
+      "title": "Obnovit heslo",
+      "description": "Zadejte prosím nové heslo.",
+      "button": {
+        "label": "Předložit",
+        "loadingText": "Odesílání"
+      },
+      "login": "Hledáte přihlášení?",
+      "successTitle": "Úspěch!",
+      "successDescription": "Vaše heslo bylo změněno."
+    },
+    "deleteAccount": {
+      "label": "smazat účet",
+      "confirmation": "Chystáte se smazat všechna svá data v této aplikaci. Chceš pokračovat?",
+      "successTitle": "Účet smazán.",
+      "successDescription": "Smazali jsme všechna data související s vaším účtem.",
+      "title": "smazat účet",
+      "description": "Trvale smažte všechna svá data."
+    }
+  },
+  "labels": {
+    "email": "E-mailem",
+    "password": "Heslo",
+    "confirmPassword": "Potvrďte heslo",
+    "fullName": "Celé jméno",
+    "dateOfBirth": "Datum narození",
+    "occupation": "obsazení",
+    "phone": "Telefon",
+    "chat": "Napište zprávu..."
+  },
+  "placeholders": {
+    "email": "E-mailem",
+    "password": "Heslo",
+    "confirmPassword": "Potvrďte heslo",
+    "fullName": "Celé jméno",
+    "dateOfBirth": "DD-MM-RRRR",
+    "occupation": "obsazení",
+    "phone": "Telefon",
+    "chat": "Napište zprávu..."
+  },
+  "form": {
+    "validation": {
+      "required": "Toto pole je povinné",
+      "password": "Heslo musí obsahovat alespoň 8 znaků, 1 velké písmeno, 1 malé písmeno a 1 číslo",
+      "passwordLength": "Heslo musí mít alespoň 8 znaků",
+      "passwordsMatch": "Hesla se neshodují",
+      "minLength": "Toto pole musí mít alespoň {0} znaků",
+      "maxLength": "Toto pole nesmí mít více než {0} znaků",
+      "pattern": "Toto pole není platné",
+      "email": "Toto pole musí být platná e-mailová adresa",
+      "date": "Toto pole musí být platné datum",
+      "dateOfBirth": "Zadejte prosím datum ve formátu DD-MM-RRRR",
+      "dateISO": "Toto pole musí být platné datum (ISO)",
+      "number": "Toto pole musí být platné číslo",
+      "digits": "Toto pole musí obsahovat číslice",
+      "min": "Toto pole musí být alespoň {0}",
+      "max": "Toto pole nesmí být větší než {0}",
+      "bio": "Byli byste ochotni žít ... min 125 znaků",
+      "phone": "Uveďte prosím platné telefonní číslo."
+    }
+  },
+  "newChatMessage": "Nyní jste připojeni!",
+  "matching": {
+    "host": {
+      "titles": {
+        "location": "Budete bydlet v",
+        "specialNeeds": "Získáte další pomoc",
+        "bio": "Kdo jsou lidé, se kterými budete žít?",
+        "members": "kdo vlastně jsou?",
+        "languages": "Jakými jazyky mluví?"
+      },
+      "specialNeeds": {
+        "cat": "Přátelský ke kočkám",
+        "dog": "Psí přátelské",
+        "otherPet": "Domácí mazlíčci přátelští",
+        "transport": "Pomoc s dopravou",
+        "financialHelp": "Finanční pomoc",
+        "child": "Vhodné pro děti",
+        "disabled": "Zakázáno"
+      }
+    },
+    "candidate": {
+      "titles": {
+        "specialNeeds": "Speciální požadavky",
+        "bio": "Kdo jsou lidé, kteří potřebují vaši pomoc?",
+        "members": "kdo vlastně jsou?",
+        "languages": "Jakými jazyky mluví?"
+      },
+      "specialNeeds": {
+        "cat": "Kočka",
+        "dog": "Pes",
+        "otherPet": "Domácí mazlíček",
+        "transport": "Doprava",
+        "financialHelp": "Finanční pomoc",
+        "child": "Dítě",
+        "disabled": "Zakázáno"
+      }
+    },
+    "match": {
+      "title": "Je to zápas!",
+      "description": "Oba jste souhlasili, že spolu budete nějakou dobu sdílet domov. Pojďme probrat podrobnosti."
+    },
+    "connectionRequests": {
+      "title": "Požadavky na připojení",
+      "description": "Lidé, kteří by vám rádi pomohli."
+    },
+    "matches": {
+      "title": "Zápasy",
+      "description": "Lidé, na kterých jste se oba shodli, pomáhají."
+    }
+  },
+  "matches": {
+    "match": {
+      "numberOfMembers_one": "1 člen",
+      "numberOfMembers_other": "Počet členů: {{count}}"
+    },
+    "detail": {
+      "title": "Detail zápasu:",
+      "description": "Detail zápasu.",
+      "goBack": "Vraťte se",
+      "contact": {
+        "email": "E-mailem",
+        "call": "Volání"
+      }
+    }
+  },
+  "seo": {
+    "default": {
+      "description": "Naším posláním je spojovat ukrajinské uprchlíky s hostiteli nabízejícími pomoc spolehlivým a účinným způsobem."
+    }
+  }
+}
